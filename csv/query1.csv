@@ -1,0 +1,5 @@
+warehouseCode,warehouseName,totalProducts,totalQuantityInStock,storagePercentage,stockAvailability
+b,East,38,219183,67,72330
+a,North,25,131688,72,36872
+c,West,24,124880,50,62440
+d,South,23,79380,75,19845

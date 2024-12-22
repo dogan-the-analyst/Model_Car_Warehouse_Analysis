@@ -1,0 +1,2997 @@
+orderNumber,orderDate,shippedDate,dateDifference,productLine,warehouseName,country
+10165,2003-10-22,2003-12-26,65,"Classic Cars",East,Singapore
+10165,2003-10-22,2003-12-26,65,"Classic Cars",East,Singapore
+10165,2003-10-22,2003-12-26,65,"Classic Cars",East,Singapore
+10165,2003-10-22,2003-12-26,65,"Trucks and Buses",South,Singapore
+10165,2003-10-22,2003-12-26,65,"Classic Cars",East,Singapore
+10165,2003-10-22,2003-12-26,65,"Trucks and Buses",South,Singapore
+10165,2003-10-22,2003-12-26,65,"Trucks and Buses",South,Singapore
+10165,2003-10-22,2003-12-26,65,"Classic Cars",East,Singapore
+10165,2003-10-22,2003-12-26,65,Trains,South,Singapore
+10165,2003-10-22,2003-12-26,65,"Classic Cars",East,Singapore
+10165,2003-10-22,2003-12-26,65,"Classic Cars",East,Singapore
+10165,2003-10-22,2003-12-26,65,"Trucks and Buses",South,Singapore
+10165,2003-10-22,2003-12-26,65,"Classic Cars",East,Singapore
+10165,2003-10-22,2003-12-26,65,"Classic Cars",East,Singapore
+10165,2003-10-22,2003-12-26,65,"Trucks and Buses",South,Singapore
+10165,2003-10-22,2003-12-26,65,Trains,South,Singapore
+10165,2003-10-22,2003-12-26,65,"Trucks and Buses",South,Singapore
+10165,2003-10-22,2003-12-26,65,Trains,South,Singapore
+10210,2004-01-12,2004-01-20,8,Motorcycles,North,Japan
+10210,2004-01-12,2004-01-20,8,Motorcycles,North,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10210,2004-01-12,2004-01-20,8,Motorcycles,North,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10210,2004-01-12,2004-01-20,8,Motorcycles,North,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10210,2004-01-12,2004-01-20,8,Motorcycles,North,Japan
+10210,2004-01-12,2004-01-20,8,"Vintage Cars",West,Japan
+10210,2004-01-12,2004-01-20,8,"Vintage Cars",West,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10210,2004-01-12,2004-01-20,8,Planes,North,Japan
+10258,2004-06-15,2004-06-23,8,"Classic Cars",East,Japan
+10258,2004-06-15,2004-06-23,8,"Trucks and Buses",South,Japan
+10258,2004-06-15,2004-06-23,8,"Trucks and Buses",South,Japan
+10258,2004-06-15,2004-06-23,8,"Vintage Cars",West,Japan
+10258,2004-06-15,2004-06-23,8,"Trucks and Buses",South,Japan
+10258,2004-06-15,2004-06-23,8,"Classic Cars",East,Japan
+10240,2004-04-13,2004-04-20,7,"Classic Cars",East,Japan
+10240,2004-04-13,2004-04-20,7,"Classic Cars",East,Japan
+10240,2004-04-13,2004-04-20,7,"Classic Cars",East,Japan
+10339,2004-11-23,2004-11-30,7,Motorcycles,North,Japan
+10339,2004-11-23,2004-11-30,7,Motorcycles,North,Japan
+10339,2004-11-23,2004-11-30,7,Planes,North,Japan
+10339,2004-11-23,2004-11-30,7,Motorcycles,North,Japan
+10339,2004-11-23,2004-11-30,7,Motorcycles,North,Japan
+10339,2004-11-23,2004-11-30,7,Planes,North,Japan
+10339,2004-11-23,2004-11-30,7,Planes,North,Japan
+10339,2004-11-23,2004-11-30,7,"Vintage Cars",West,Japan
+10339,2004-11-23,2004-11-30,7,"Vintage Cars",West,Japan
+10339,2004-11-23,2004-11-30,7,"Vintage Cars",West,Japan
+10339,2004-11-23,2004-11-30,7,Planes,North,Japan
+10339,2004-11-23,2004-11-30,7,Ships,South,Japan
+10339,2004-11-23,2004-11-30,7,Ships,South,Japan
+10339,2004-11-23,2004-11-30,7,Ships,South,Japan
+10339,2004-11-23,2004-11-30,7,Planes,North,Japan
+10339,2004-11-23,2004-11-30,7,Planes,North,Japan
+10121,2003-05-07,2003-05-13,6,Motorcycles,North,France
+10121,2003-05-07,2003-05-13,6,Motorcycles,North,France
+10121,2003-05-07,2003-05-13,6,Motorcycles,North,France
+10121,2003-05-07,2003-05-13,6,Motorcycles,North,France
+10121,2003-05-07,2003-05-13,6,Motorcycles,North,France
+10133,2003-06-27,2003-07-03,6,Planes,North,Spain
+10133,2003-06-27,2003-07-03,6,Planes,North,Spain
+10133,2003-06-27,2003-07-03,6,Planes,North,Spain
+10133,2003-06-27,2003-07-03,6,Motorcycles,North,Spain
+10133,2003-06-27,2003-07-03,6,"Vintage Cars",West,Spain
+10133,2003-06-27,2003-07-03,6,"Vintage Cars",West,Spain
+10133,2003-06-27,2003-07-03,6,Planes,North,Spain
+10133,2003-06-27,2003-07-03,6,Planes,North,Spain
+10138,2003-07-07,2003-07-13,6,"Vintage Cars",West,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Vintage Cars",West,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Vintage Cars",West,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Vintage Cars",West,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Classic Cars",East,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Classic Cars",East,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Vintage Cars",West,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Vintage Cars",West,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Classic Cars",East,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Classic Cars",East,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Classic Cars",East,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Classic Cars",East,"New Zealand"
+10138,2003-07-07,2003-07-13,6,"Vintage Cars",West,"New Zealand"
+10140,2003-07-24,2003-07-30,6,"Classic Cars",East,USA
+10140,2003-07-24,2003-07-30,6,"Classic Cars",East,USA
+10140,2003-07-24,2003-07-30,6,"Trucks and Buses",South,USA
+10140,2003-07-24,2003-07-30,6,"Trucks and Buses",South,USA
+10140,2003-07-24,2003-07-30,6,"Trucks and Buses",South,USA
+10140,2003-07-24,2003-07-30,6,"Trucks and Buses",South,USA
+10140,2003-07-24,2003-07-30,6,"Vintage Cars",West,USA
+10140,2003-07-24,2003-07-30,6,"Trucks and Buses",South,USA
+10140,2003-07-24,2003-07-30,6,"Trucks and Buses",South,USA
+10140,2003-07-24,2003-07-30,6,"Trucks and Buses",South,USA
+10140,2003-07-24,2003-07-30,6,"Classic Cars",East,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Planes,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Planes,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Planes,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Motorcycles,North,USA
+10145,2003-08-25,2003-08-31,6,Planes,North,USA
+10152,2003-09-25,2003-10-01,6,"Classic Cars",East,Australia
+10152,2003-09-25,2003-10-01,6,"Classic Cars",East,Australia
+10152,2003-09-25,2003-10-01,6,"Classic Cars",East,Australia
+10152,2003-09-25,2003-10-01,6,Trains,South,Australia
+10154,2003-10-02,2003-10-08,6,"Vintage Cars",West,USA
+10154,2003-10-02,2003-10-08,6,Ships,South,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,"Classic Cars",East,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,"Classic Cars",East,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,"Classic Cars",East,USA
+10159,2003-10-10,2003-10-16,6,"Classic Cars",East,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,"Classic Cars",East,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,"Classic Cars",East,USA
+10159,2003-10-10,2003-10-16,6,"Classic Cars",East,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10159,2003-10-10,2003-10-16,6,Motorcycles,North,USA
+10160,2003-10-11,2003-10-17,6,"Classic Cars",East,USA
+10160,2003-10-11,2003-10-17,6,"Classic Cars",East,USA
+10160,2003-10-11,2003-10-17,6,"Classic Cars",East,USA
+10160,2003-10-11,2003-10-17,6,"Classic Cars",East,USA
+10160,2003-10-11,2003-10-17,6,"Classic Cars",East,USA
+10160,2003-10-11,2003-10-17,6,"Classic Cars",East,USA
+10166,2003-10-21,2003-10-27,6,"Vintage Cars",West,USA
+10166,2003-10-21,2003-10-27,6,"Vintage Cars",West,USA
+10166,2003-10-21,2003-10-27,6,Ships,South,USA
+10172,2003-11-05,2003-11-11,6,"Classic Cars",East,USA
+10172,2003-11-05,2003-11-11,6,"Classic Cars",East,USA
+10172,2003-11-05,2003-11-11,6,"Classic Cars",East,USA
+10172,2003-11-05,2003-11-11,6,"Classic Cars",East,USA
+10172,2003-11-05,2003-11-11,6,"Classic Cars",East,USA
+10172,2003-11-05,2003-11-11,6,"Classic Cars",East,USA
+10172,2003-11-05,2003-11-11,6,"Classic Cars",East,USA
+10172,2003-11-05,2003-11-11,6,"Classic Cars",East,USA
+10176,2003-11-06,2003-11-12,6,"Classic Cars",East,Italy
+10176,2003-11-06,2003-11-12,6,"Classic Cars",East,Italy
+10176,2003-11-06,2003-11-12,6,"Classic Cars",East,Italy
+10176,2003-11-06,2003-11-12,6,"Classic Cars",East,Italy
+10176,2003-11-06,2003-11-12,6,"Classic Cars",East,Italy
+10176,2003-11-06,2003-11-12,6,"Classic Cars",East,Italy
+10176,2003-11-06,2003-11-12,6,"Classic Cars",East,Italy
+10176,2003-11-06,2003-11-12,6,Trains,South,Italy
+10176,2003-11-06,2003-11-12,6,"Trucks and Buses",South,Italy
+10176,2003-11-06,2003-11-12,6,Trains,South,Italy
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Classic Cars",East,USA
+10182,2003-11-12,2003-11-18,6,"Classic Cars",East,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10182,2003-11-12,2003-11-18,6,"Classic Cars",East,USA
+10182,2003-11-12,2003-11-18,6,"Classic Cars",East,USA
+10182,2003-11-12,2003-11-18,6,"Classic Cars",East,USA
+10182,2003-11-12,2003-11-18,6,"Classic Cars",East,USA
+10182,2003-11-12,2003-11-18,6,"Vintage Cars",West,USA
+10184,2003-11-14,2003-11-20,6,"Trucks and Buses",South,Spain
+10184,2003-11-14,2003-11-20,6,"Classic Cars",East,Spain
+10184,2003-11-14,2003-11-20,6,"Trucks and Buses",South,Spain
+10184,2003-11-14,2003-11-20,6,"Trucks and Buses",South,Spain
+10184,2003-11-14,2003-11-20,6,"Classic Cars",East,Spain
+10184,2003-11-14,2003-11-20,6,"Classic Cars",East,Spain
+10184,2003-11-14,2003-11-20,6,"Trucks and Buses",South,Spain
+10184,2003-11-14,2003-11-20,6,"Classic Cars",East,Spain
+10184,2003-11-14,2003-11-20,6,"Classic Cars",East,Spain
+10184,2003-11-14,2003-11-20,6,"Trucks and Buses",South,Spain
+10184,2003-11-14,2003-11-20,6,"Trucks and Buses",South,Spain
+10184,2003-11-14,2003-11-20,6,Trains,South,Spain
+10184,2003-11-14,2003-11-20,6,"Trucks and Buses",South,Spain
+10185,2003-11-14,2003-11-20,6,"Classic Cars",East,USA
+10185,2003-11-14,2003-11-20,6,"Classic Cars",East,USA
+10185,2003-11-14,2003-11-20,6,"Classic Cars",East,USA
+10185,2003-11-14,2003-11-20,6,"Vintage Cars",West,USA
+10185,2003-11-14,2003-11-20,6,Trains,South,USA
+10185,2003-11-14,2003-11-20,6,"Classic Cars",East,USA
+10185,2003-11-14,2003-11-20,6,"Vintage Cars",West,USA
+10185,2003-11-14,2003-11-20,6,Ships,South,USA
+10185,2003-11-14,2003-11-20,6,"Vintage Cars",West,USA
+10185,2003-11-14,2003-11-20,6,Trains,South,USA
+10185,2003-11-14,2003-11-20,6,Ships,South,USA
+10185,2003-11-14,2003-11-20,6,Ships,South,USA
+10185,2003-11-14,2003-11-20,6,Ships,South,USA
+10185,2003-11-14,2003-11-20,6,Ships,South,USA
+10185,2003-11-14,2003-11-20,6,Ships,South,USA
+10185,2003-11-14,2003-11-20,6,Ships,South,USA
+10188,2003-11-18,2003-11-24,6,Motorcycles,North,"Norway  "
+10188,2003-11-18,2003-11-24,6,Motorcycles,North,"Norway  "
+10188,2003-11-18,2003-11-24,6,Motorcycles,North,"Norway  "
+10188,2003-11-18,2003-11-24,6,Motorcycles,North,"Norway  "
+10188,2003-11-18,2003-11-24,6,Motorcycles,North,"Norway  "
+10188,2003-11-18,2003-11-24,6,Motorcycles,North,"Norway  "
+10188,2003-11-18,2003-11-24,6,Motorcycles,North,"Norway  "
+10188,2003-11-18,2003-11-24,6,Planes,North,"Norway  "
+10189,2003-11-18,2003-11-24,6,Motorcycles,North,USA
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Classic Cars",East,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10193,2003-11-21,2003-11-27,6,"Vintage Cars",West,Australia
+10198,2003-11-27,2003-12-03,6,Planes,North,Philippines
+10198,2003-11-27,2003-12-03,6,Planes,North,Philippines
+10198,2003-11-27,2003-12-03,6,"Vintage Cars",West,Philippines
+10198,2003-11-27,2003-12-03,6,Planes,North,Philippines
+10198,2003-11-27,2003-12-03,6,Planes,North,Philippines
+10198,2003-11-27,2003-12-03,6,Planes,North,Philippines
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Classic Cars",East,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10227,2004-03-02,2004-03-08,6,"Classic Cars",East,France
+10227,2004-03-02,2004-03-08,6,"Classic Cars",East,France
+10227,2004-03-02,2004-03-08,6,"Classic Cars",East,France
+10227,2004-03-02,2004-03-08,6,"Vintage Cars",West,France
+10231,2004-03-19,2004-03-25,6,"Classic Cars",East,Spain
+10231,2004-03-19,2004-03-25,6,"Classic Cars",East,Spain
+10241,2004-04-13,2004-04-19,6,"Classic Cars",East,France
+10241,2004-04-13,2004-04-19,6,"Vintage Cars",West,France
+10241,2004-04-13,2004-04-19,6,"Vintage Cars",West,France
+10241,2004-04-13,2004-04-19,6,"Classic Cars",East,France
+10241,2004-04-13,2004-04-19,6,"Vintage Cars",West,France
+10241,2004-04-13,2004-04-19,6,"Classic Cars",East,France
+10241,2004-04-13,2004-04-19,6,"Classic Cars",East,France
+10241,2004-04-13,2004-04-19,6,"Classic Cars",East,France
+10241,2004-04-13,2004-04-19,6,"Classic Cars",East,France
+10241,2004-04-13,2004-04-19,6,"Classic Cars",East,France
+10241,2004-04-13,2004-04-19,6,"Classic Cars",East,France
+10241,2004-04-13,2004-04-19,6,"Classic Cars",East,France
+10251,2004-05-18,2004-05-24,6,Motorcycles,North,USA
+10251,2004-05-18,2004-05-24,6,Motorcycles,North,USA
+10251,2004-05-18,2004-05-24,6,Motorcycles,North,USA
+10251,2004-05-18,2004-05-24,6,Motorcycles,North,USA
+10251,2004-05-18,2004-05-24,6,Motorcycles,North,USA
+10251,2004-05-18,2004-05-24,6,Motorcycles,North,USA
+10275,2004-07-23,2004-07-29,6,Motorcycles,North,France
+10275,2004-07-23,2004-07-29,6,Motorcycles,North,France
+10275,2004-07-23,2004-07-29,6,Motorcycles,North,France
+10275,2004-07-23,2004-07-29,6,Planes,North,France
+10275,2004-07-23,2004-07-29,6,Motorcycles,North,France
+10275,2004-07-23,2004-07-29,6,Motorcycles,North,France
+10275,2004-07-23,2004-07-29,6,Planes,North,France
+10275,2004-07-23,2004-07-29,6,Motorcycles,North,France
+10275,2004-07-23,2004-07-29,6,Planes,North,France
+10275,2004-07-23,2004-07-29,6,Planes,North,France
+10275,2004-07-23,2004-07-29,6,Motorcycles,North,France
+10275,2004-07-23,2004-07-29,6,"Vintage Cars",West,France
+10275,2004-07-23,2004-07-29,6,"Vintage Cars",West,France
+10275,2004-07-23,2004-07-29,6,Planes,North,France
+10275,2004-07-23,2004-07-29,6,Planes,North,France
+10275,2004-07-23,2004-07-29,6,Planes,North,France
+10275,2004-07-23,2004-07-29,6,Planes,North,France
+10275,2004-07-23,2004-07-29,6,Planes,North,France
+10276,2004-08-02,2004-08-08,6,"Classic Cars",East,USA
+10276,2004-08-02,2004-08-08,6,Motorcycles,North,USA
+10276,2004-08-02,2004-08-08,6,"Classic Cars",East,USA
+10276,2004-08-02,2004-08-08,6,"Classic Cars",East,USA
+10276,2004-08-02,2004-08-08,6,"Classic Cars",East,USA
+10276,2004-08-02,2004-08-08,6,"Classic Cars",East,USA
+10276,2004-08-02,2004-08-08,6,Motorcycles,North,USA
+10276,2004-08-02,2004-08-08,6,"Classic Cars",East,USA
+10276,2004-08-02,2004-08-08,6,Motorcycles,North,USA
+10276,2004-08-02,2004-08-08,6,"Classic Cars",East,USA
+10276,2004-08-02,2004-08-08,6,"Classic Cars",East,USA
+10276,2004-08-02,2004-08-08,6,Motorcycles,North,USA
+10276,2004-08-02,2004-08-08,6,Motorcycles,North,USA
+10276,2004-08-02,2004-08-08,6,Motorcycles,North,USA
+10279,2004-08-09,2004-08-15,6,"Classic Cars",East,Spain
+10279,2004-08-09,2004-08-15,6,"Classic Cars",East,Spain
+10279,2004-08-09,2004-08-15,6,"Classic Cars",East,Spain
+10279,2004-08-09,2004-08-15,6,"Classic Cars",East,Spain
+10279,2004-08-09,2004-08-15,6,"Classic Cars",East,Spain
+10279,2004-08-09,2004-08-15,6,"Classic Cars",East,Spain
+10290,2004-09-07,2004-09-13,6,"Vintage Cars",West,USA
+10290,2004-09-07,2004-09-13,6,"Vintage Cars",West,USA
+10291,2004-09-08,2004-09-14,6,"Classic Cars",East,Sweden
+10291,2004-09-08,2004-09-14,6,"Classic Cars",East,Sweden
+10291,2004-09-08,2004-09-14,6,"Trucks and Buses",South,Sweden
+10291,2004-09-08,2004-09-14,6,"Trucks and Buses",South,Sweden
+10291,2004-09-08,2004-09-14,6,"Trucks and Buses",South,Sweden
+10291,2004-09-08,2004-09-14,6,"Vintage Cars",West,Sweden
+10291,2004-09-08,2004-09-14,6,"Vintage Cars",West,Sweden
+10291,2004-09-08,2004-09-14,6,"Vintage Cars",West,Sweden
+10291,2004-09-08,2004-09-14,6,"Trucks and Buses",South,Sweden
+10291,2004-09-08,2004-09-14,6,"Vintage Cars",West,Sweden
+10291,2004-09-08,2004-09-14,6,"Trucks and Buses",South,Sweden
+10291,2004-09-08,2004-09-14,6,"Trucks and Buses",South,Sweden
+10291,2004-09-08,2004-09-14,6,"Trucks and Buses",South,Sweden
+10291,2004-09-08,2004-09-14,6,"Classic Cars",East,Sweden
+10304,2004-10-11,2004-10-17,6,"Classic Cars",East,France
+10304,2004-10-11,2004-10-17,6,"Trucks and Buses",South,France
+10304,2004-10-11,2004-10-17,6,"Trucks and Buses",South,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Vintage Cars",West,France
+10304,2004-10-11,2004-10-17,6,"Trucks and Buses",South,France
+10304,2004-10-11,2004-10-17,6,"Classic Cars",East,France
+10307,2004-10-14,2004-10-20,6,"Classic Cars",East,USA
+10307,2004-10-14,2004-10-20,6,Planes,North,USA
+10307,2004-10-14,2004-10-20,6,Ships,South,USA
+10307,2004-10-14,2004-10-20,6,"Vintage Cars",West,USA
+10307,2004-10-14,2004-10-20,6,Planes,North,USA
+10307,2004-10-14,2004-10-20,6,"Vintage Cars",West,USA
+10307,2004-10-14,2004-10-20,6,"Vintage Cars",West,USA
+10307,2004-10-14,2004-10-20,6,Ships,South,USA
+10307,2004-10-14,2004-10-20,6,Planes,North,USA
+10316,2004-11-01,2004-11-07,6,"Classic Cars",East,UK
+10316,2004-11-01,2004-11-07,6,Planes,North,UK
+10316,2004-11-01,2004-11-07,6,Ships,South,UK
+10316,2004-11-01,2004-11-07,6,"Vintage Cars",West,UK
+10316,2004-11-01,2004-11-07,6,Planes,North,UK
+10316,2004-11-01,2004-11-07,6,Planes,North,UK
+10316,2004-11-01,2004-11-07,6,"Vintage Cars",West,UK
+10316,2004-11-01,2004-11-07,6,"Vintage Cars",West,UK
+10316,2004-11-01,2004-11-07,6,Planes,North,UK
+10316,2004-11-01,2004-11-07,6,"Vintage Cars",West,UK
+10316,2004-11-01,2004-11-07,6,"Vintage Cars",West,UK
+10316,2004-11-01,2004-11-07,6,Planes,North,UK
+10316,2004-11-01,2004-11-07,6,Ships,South,UK
+10316,2004-11-01,2004-11-07,6,Planes,North,UK
+10316,2004-11-01,2004-11-07,6,Ships,South,UK
+10316,2004-11-01,2004-11-07,6,Planes,North,UK
+10316,2004-11-01,2004-11-07,6,Planes,North,UK
+10316,2004-11-01,2004-11-07,6,Planes,North,UK
+10317,2004-11-02,2004-11-08,6,Planes,North,USA
+10322,2004-11-04,2004-11-10,6,"Classic Cars",East,USA
+10322,2004-11-04,2004-11-10,6,"Classic Cars",East,USA
+10322,2004-11-04,2004-11-10,6,"Trucks and Buses",South,USA
+10322,2004-11-04,2004-11-10,6,"Trucks and Buses",South,USA
+10322,2004-11-04,2004-11-10,6,"Vintage Cars",West,USA
+10322,2004-11-04,2004-11-10,6,"Vintage Cars",West,USA
+10322,2004-11-04,2004-11-10,6,"Vintage Cars",West,USA
+10322,2004-11-04,2004-11-10,6,"Trucks and Buses",South,USA
+10322,2004-11-04,2004-11-10,6,"Vintage Cars",West,USA
+10322,2004-11-04,2004-11-10,6,"Vintage Cars",West,USA
+10322,2004-11-04,2004-11-10,6,"Vintage Cars",West,USA
+10322,2004-11-04,2004-11-10,6,"Vintage Cars",West,USA
+10322,2004-11-04,2004-11-10,6,"Vintage Cars",West,USA
+10322,2004-11-04,2004-11-10,6,"Vintage Cars",West,USA
+10328,2004-11-12,2004-11-18,6,"Vintage Cars",West,Italy
+10328,2004-11-12,2004-11-18,6,Planes,North,Italy
+10328,2004-11-12,2004-11-18,6,Planes,North,Italy
+10328,2004-11-12,2004-11-18,6,"Vintage Cars",West,Italy
+10328,2004-11-12,2004-11-18,6,Planes,North,Italy
+10328,2004-11-12,2004-11-18,6,Planes,North,Italy
+10328,2004-11-12,2004-11-18,6,"Vintage Cars",West,Italy
+10328,2004-11-12,2004-11-18,6,"Vintage Cars",West,Italy
+10328,2004-11-12,2004-11-18,6,Planes,North,Italy
+10328,2004-11-12,2004-11-18,6,Ships,South,Italy
+10328,2004-11-12,2004-11-18,6,Planes,North,Italy
+10328,2004-11-12,2004-11-18,6,Planes,North,Italy
+10328,2004-11-12,2004-11-18,6,Planes,North,Italy
+10328,2004-11-12,2004-11-18,6,Planes,North,Italy
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,"Vintage Cars",West,USA
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,"Classic Cars",East,USA
+10331,2004-11-17,2004-11-23,6,Motorcycles,North,USA
+10331,2004-11-17,2004-11-23,6,Motorcycles,North,USA
+10331,2004-11-17,2004-11-23,6,Motorcycles,North,USA
+10352,2004-12-03,2004-12-09,6,Ships,South,USA
+10352,2004-12-03,2004-12-09,6,Planes,North,USA
+10352,2004-12-03,2004-12-09,6,Planes,North,USA
+10352,2004-12-03,2004-12-09,6,Planes,North,USA
+10355,2004-12-07,2004-12-13,6,"Classic Cars",East,Spain
+10355,2004-12-07,2004-12-13,6,Motorcycles,North,Spain
+10355,2004-12-07,2004-12-13,6,"Classic Cars",East,Spain
+10355,2004-12-07,2004-12-13,6,Motorcycles,North,Spain
+10355,2004-12-07,2004-12-13,6,"Classic Cars",East,Spain
+10355,2004-12-07,2004-12-13,6,"Classic Cars",East,Spain
+10355,2004-12-07,2004-12-13,6,"Classic Cars",East,Spain
+10355,2004-12-07,2004-12-13,6,"Classic Cars",East,Spain
+10355,2004-12-07,2004-12-13,6,Motorcycles,North,Spain
+10355,2004-12-07,2004-12-13,6,Motorcycles,North,Spain
+10358,2004-12-10,2004-12-16,6,"Classic Cars",East,Spain
+10358,2004-12-10,2004-12-16,6,"Trucks and Buses",South,Spain
+10358,2004-12-10,2004-12-16,6,"Classic Cars",East,Spain
+10358,2004-12-10,2004-12-16,6,"Trucks and Buses",South,Spain
+10358,2004-12-10,2004-12-16,6,"Classic Cars",East,Spain
+10358,2004-12-10,2004-12-16,6,"Classic Cars",East,Spain
+10358,2004-12-10,2004-12-16,6,"Vintage Cars",West,Spain
+10358,2004-12-10,2004-12-16,6,"Classic Cars",East,Spain
+10358,2004-12-10,2004-12-16,6,"Trucks and Buses",South,Spain
+10358,2004-12-10,2004-12-16,6,"Classic Cars",East,Spain
+10358,2004-12-10,2004-12-16,6,"Vintage Cars",West,Spain
+10358,2004-12-10,2004-12-16,6,"Trucks and Buses",South,Spain
+10358,2004-12-10,2004-12-16,6,"Trucks and Buses",South,Spain
+10358,2004-12-10,2004-12-16,6,"Classic Cars",East,Spain
+10373,2005-01-31,2005-02-06,6,"Classic Cars",East,Finland
+10373,2005-01-31,2005-02-06,6,Planes,North,Finland
+10373,2005-01-31,2005-02-06,6,Ships,South,Finland
+10373,2005-01-31,2005-02-06,6,"Vintage Cars",West,Finland
+10373,2005-01-31,2005-02-06,6,Planes,North,Finland
+10373,2005-01-31,2005-02-06,6,"Vintage Cars",West,Finland
+10373,2005-01-31,2005-02-06,6,"Vintage Cars",West,Finland
+10373,2005-01-31,2005-02-06,6,"Vintage Cars",West,Finland
+10373,2005-01-31,2005-02-06,6,Planes,North,Finland
+10373,2005-01-31,2005-02-06,6,Ships,South,Finland
+10373,2005-01-31,2005-02-06,6,Ships,South,Finland
+10373,2005-01-31,2005-02-06,6,Ships,South,Finland
+10373,2005-01-31,2005-02-06,6,Ships,South,Finland
+10373,2005-01-31,2005-02-06,6,Ships,South,Finland
+10373,2005-01-31,2005-02-06,6,Planes,North,Finland
+10373,2005-01-31,2005-02-06,6,Planes,North,Finland
+10373,2005-01-31,2005-02-06,6,Ships,South,Finland
+10388,2005-03-03,2005-03-09,6,Motorcycles,North,USA
+10388,2005-03-03,2005-03-09,6,Motorcycles,North,USA
+10388,2005-03-03,2005-03-09,6,Motorcycles,North,USA
+10388,2005-03-03,2005-03-09,6,Motorcycles,North,USA
+10388,2005-03-03,2005-03-09,6,"Vintage Cars",West,USA
+10388,2005-03-03,2005-03-09,6,"Vintage Cars",West,USA
+10388,2005-03-03,2005-03-09,6,Planes,North,USA
+10388,2005-03-03,2005-03-09,6,Planes,North,USA
+10391,2005-03-09,2005-03-15,6,"Classic Cars",East,Australia
+10391,2005-03-09,2005-03-15,6,"Classic Cars",East,Australia
+10391,2005-03-09,2005-03-15,6,"Trucks and Buses",South,Australia
+10391,2005-03-09,2005-03-15,6,"Trucks and Buses",South,Australia
+10391,2005-03-09,2005-03-15,6,"Vintage Cars",West,Australia
+10391,2005-03-09,2005-03-15,6,"Vintage Cars",West,Australia
+10391,2005-03-09,2005-03-15,6,"Trucks and Buses",South,Australia
+10391,2005-03-09,2005-03-15,6,"Vintage Cars",West,Australia
+10391,2005-03-09,2005-03-15,6,"Vintage Cars",West,Australia
+10391,2005-03-09,2005-03-15,6,"Vintage Cars",West,Australia
+10395,2005-03-17,2005-03-23,6,"Classic Cars",East,France
+10395,2005-03-17,2005-03-23,6,"Classic Cars",East,France
+10395,2005-03-17,2005-03-23,6,"Trucks and Buses",South,France
+10395,2005-03-17,2005-03-23,6,Trains,South,France
+10405,2005-04-14,2005-04-20,6,"Classic Cars",East,France
+10405,2005-04-14,2005-04-20,6,"Classic Cars",East,France
+10405,2005-04-14,2005-04-20,6,"Classic Cars",East,France
+10405,2005-04-14,2005-04-20,6,"Classic Cars",East,France
+10405,2005-04-14,2005-04-20,6,"Classic Cars",East,France
+10406,2005-04-15,2005-04-21,6,"Classic Cars",East,Denmark
+10406,2005-04-15,2005-04-21,6,"Classic Cars",East,Denmark
+10406,2005-04-15,2005-04-21,6,"Classic Cars",East,Denmark
+10417,2005-05-13,2005-05-19,6,Motorcycles,North,Spain
+10417,2005-05-13,2005-05-19,6,Motorcycles,North,Spain
+10417,2005-05-13,2005-05-19,6,Motorcycles,North,Spain
+10417,2005-05-13,2005-05-19,6,Motorcycles,North,Spain
+10417,2005-05-13,2005-05-19,6,Motorcycles,North,Spain
+10417,2005-05-13,2005-05-19,6,Motorcycles,North,Spain
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,Motorcycles,North,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,Motorcycles,North,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,"Classic Cars",East,Philippines
+10108,2003-03-03,2003-03-08,5,Motorcycles,North,Philippines
+10108,2003-03-03,2003-03-08,5,Motorcycles,North,Philippines
+10108,2003-03-03,2003-03-08,5,Motorcycles,North,Philippines
+10111,2003-03-25,2003-03-30,5,"Vintage Cars",West,USA
+10111,2003-03-25,2003-03-30,5,"Vintage Cars",West,USA
+10111,2003-03-25,2003-03-30,5,"Vintage Cars",West,USA
+10111,2003-03-25,2003-03-30,5,"Vintage Cars",West,USA
+10111,2003-03-25,2003-03-30,5,"Vintage Cars",West,USA
+10111,2003-03-25,2003-03-30,5,"Vintage Cars",West,USA
+10112,2003-03-24,2003-03-29,5,"Classic Cars",East,Sweden
+10112,2003-03-24,2003-03-29,5,"Vintage Cars",West,Sweden
+10118,2003-04-21,2003-04-26,5,Ships,South,Spain
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,Motorcycles,North,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,"Classic Cars",East,France
+10122,2003-05-08,2003-05-13,5,Motorcycles,North,France
+10126,2003-05-28,2003-06-02,5,"Classic Cars",East,Spain
+10126,2003-05-28,2003-06-02,5,"Classic Cars",East,Spain
+10126,2003-05-28,2003-06-02,5,"Trucks and Buses",South,Spain
+10126,2003-05-28,2003-06-02,5,"Trucks and Buses",South,Spain
+10126,2003-05-28,2003-06-02,5,"Vintage Cars",West,Spain
+10126,2003-05-28,2003-06-02,5,"Trucks and Buses",South,Spain
+10126,2003-05-28,2003-06-02,5,"Vintage Cars",West,Spain
+10126,2003-05-28,2003-06-02,5,"Vintage Cars",West,Spain
+10126,2003-05-28,2003-06-02,5,"Vintage Cars",West,Spain
+10126,2003-05-28,2003-06-02,5,"Vintage Cars",West,Spain
+10126,2003-05-28,2003-06-02,5,"Trucks and Buses",South,Spain
+10126,2003-05-28,2003-06-02,5,"Vintage Cars",West,Spain
+10126,2003-05-28,2003-06-02,5,"Trucks and Buses",South,Spain
+10126,2003-05-28,2003-06-02,5,"Vintage Cars",West,Spain
+10126,2003-05-28,2003-06-02,5,"Trucks and Buses",South,Spain
+10126,2003-05-28,2003-06-02,5,"Trucks and Buses",South,Spain
+10126,2003-05-28,2003-06-02,5,"Classic Cars",East,Spain
+10128,2003-06-06,2003-06-11,5,"Vintage Cars",West,Spain
+10128,2003-06-06,2003-06-11,5,Trains,South,Spain
+10128,2003-06-06,2003-06-11,5,"Vintage Cars",West,Spain
+10128,2003-06-06,2003-06-11,5,Ships,South,Spain
+10130,2003-06-16,2003-06-21,5,Ships,South,USA
+10130,2003-06-16,2003-06-21,5,"Vintage Cars",West,USA
+10131,2003-06-16,2003-06-21,5,Planes,North,USA
+10131,2003-06-16,2003-06-21,5,Planes,North,USA
+10131,2003-06-16,2003-06-21,5,"Vintage Cars",West,USA
+10131,2003-06-16,2003-06-21,5,Planes,North,USA
+10131,2003-06-16,2003-06-21,5,Ships,South,USA
+10131,2003-06-16,2003-06-21,5,Planes,North,USA
+10131,2003-06-16,2003-06-21,5,Planes,North,USA
+10131,2003-06-16,2003-06-21,5,Planes,North,USA
+10139,2003-07-16,2003-07-21,5,"Vintage Cars",West,Australia
+10139,2003-07-16,2003-07-21,5,"Vintage Cars",West,Australia
+10139,2003-07-16,2003-07-21,5,"Vintage Cars",West,Australia
+10139,2003-07-16,2003-07-21,5,"Vintage Cars",West,Australia
+10139,2003-07-16,2003-07-21,5,"Vintage Cars",West,Australia
+10139,2003-07-16,2003-07-21,5,"Vintage Cars",West,Australia
+10139,2003-07-16,2003-07-21,5,"Vintage Cars",West,Australia
+10139,2003-07-16,2003-07-21,5,"Vintage Cars",West,Australia
+10142,2003-08-08,2003-08-13,5,"Classic Cars",East,USA
+10142,2003-08-08,2003-08-13,5,"Classic Cars",East,USA
+10142,2003-08-08,2003-08-13,5,"Classic Cars",East,USA
+10142,2003-08-08,2003-08-13,5,"Vintage Cars",West,USA
+10142,2003-08-08,2003-08-13,5,Trains,South,USA
+10142,2003-08-08,2003-08-13,5,"Classic Cars",East,USA
+10142,2003-08-08,2003-08-13,5,"Vintage Cars",West,USA
+10142,2003-08-08,2003-08-13,5,Ships,South,USA
+10142,2003-08-08,2003-08-13,5,"Vintage Cars",West,USA
+10142,2003-08-08,2003-08-13,5,Trains,South,USA
+10142,2003-08-08,2003-08-13,5,Trains,South,USA
+10142,2003-08-08,2003-08-13,5,Ships,South,USA
+10142,2003-08-08,2003-08-13,5,Ships,South,USA
+10142,2003-08-08,2003-08-13,5,Ships,South,USA
+10142,2003-08-08,2003-08-13,5,Ships,South,USA
+10142,2003-08-08,2003-08-13,5,Ships,South,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10149,2003-09-12,2003-09-17,5,"Vintage Cars",West,USA
+10153,2003-09-28,2003-10-03,5,"Classic Cars",East,Spain
+10153,2003-09-28,2003-10-03,5,"Classic Cars",East,Spain
+10153,2003-09-28,2003-10-03,5,"Classic Cars",East,Spain
+10153,2003-09-28,2003-10-03,5,"Vintage Cars",West,Spain
+10153,2003-09-28,2003-10-03,5,Trains,South,Spain
+10153,2003-09-28,2003-10-03,5,"Vintage Cars",West,Spain
+10153,2003-09-28,2003-10-03,5,Ships,South,Spain
+10153,2003-09-28,2003-10-03,5,Trains,South,Spain
+10153,2003-09-28,2003-10-03,5,Ships,South,Spain
+10153,2003-09-28,2003-10-03,5,Ships,South,Spain
+10153,2003-09-28,2003-10-03,5,Ships,South,Spain
+10153,2003-09-28,2003-10-03,5,Ships,South,Spain
+10153,2003-09-28,2003-10-03,5,Ships,South,Spain
+10157,2003-10-09,2003-10-14,5,Planes,North,Italy
+10157,2003-10-09,2003-10-14,5,Planes,North,Italy
+10157,2003-10-09,2003-10-14,5,Planes,North,Italy
+10157,2003-10-09,2003-10-14,5,Motorcycles,North,Italy
+10157,2003-10-09,2003-10-14,5,"Vintage Cars",West,Italy
+10157,2003-10-09,2003-10-14,5,Planes,North,Italy
+10158,2003-10-10,2003-10-15,5,Motorcycles,North,Norway
+10169,2003-11-04,2003-11-09,5,"Classic Cars",East,Australia
+10169,2003-11-04,2003-11-09,5,Motorcycles,North,Australia
+10169,2003-11-04,2003-11-09,5,"Classic Cars",East,Australia
+10169,2003-11-04,2003-11-09,5,"Classic Cars",East,Australia
+10169,2003-11-04,2003-11-09,5,"Classic Cars",East,Australia
+10169,2003-11-04,2003-11-09,5,Motorcycles,North,Australia
+10169,2003-11-04,2003-11-09,5,"Classic Cars",East,Australia
+10169,2003-11-04,2003-11-09,5,Motorcycles,North,Australia
+10169,2003-11-04,2003-11-09,5,"Classic Cars",East,Australia
+10169,2003-11-04,2003-11-09,5,"Classic Cars",East,Australia
+10169,2003-11-04,2003-11-09,5,Motorcycles,North,Australia
+10169,2003-11-04,2003-11-09,5,Motorcycles,North,Australia
+10169,2003-11-04,2003-11-09,5,Motorcycles,North,Australia
+10177,2003-11-07,2003-11-12,5,"Vintage Cars",West,Spain
+10177,2003-11-07,2003-11-12,5,Trains,South,Spain
+10177,2003-11-07,2003-11-12,5,"Vintage Cars",West,Spain
+10177,2003-11-07,2003-11-12,5,Ships,South,Spain
+10177,2003-11-07,2003-11-12,5,"Vintage Cars",West,Spain
+10177,2003-11-07,2003-11-12,5,Ships,South,Spain
+10177,2003-11-07,2003-11-12,5,Ships,South,Spain
+10177,2003-11-07,2003-11-12,5,Ships,South,Spain
+10177,2003-11-07,2003-11-12,5,Ships,South,Spain
+10177,2003-11-07,2003-11-12,5,Ships,South,Spain
+10177,2003-11-07,2003-11-12,5,Ships,South,Spain
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10192,2003-11-20,2003-11-25,5,"Classic Cars",East,USA
+10196,2003-11-26,2003-12-01,5,"Classic Cars",East,USA
+10196,2003-11-26,2003-12-01,5,"Classic Cars",East,USA
+10196,2003-11-26,2003-12-01,5,"Classic Cars",East,USA
+10196,2003-11-26,2003-12-01,5,"Vintage Cars",West,USA
+10196,2003-11-26,2003-12-01,5,Trains,South,USA
+10196,2003-11-26,2003-12-01,5,"Classic Cars",East,USA
+10196,2003-11-26,2003-12-01,5,Trains,South,USA
+10196,2003-11-26,2003-12-01,5,Ships,South,USA
+10197,2003-11-26,2003-12-01,5,"Classic Cars",East,Spain
+10197,2003-11-26,2003-12-01,5,Ships,South,Spain
+10197,2003-11-26,2003-12-01,5,"Vintage Cars",West,Spain
+10197,2003-11-26,2003-12-01,5,"Vintage Cars",West,Spain
+10197,2003-11-26,2003-12-01,5,Ships,South,Spain
+10197,2003-11-26,2003-12-01,5,"Vintage Cars",West,Spain
+10197,2003-11-26,2003-12-01,5,"Vintage Cars",West,Spain
+10197,2003-11-26,2003-12-01,5,Ships,South,Spain
+10197,2003-11-26,2003-12-01,5,Ships,South,Spain
+10197,2003-11-26,2003-12-01,5,Ships,South,Spain
+10197,2003-11-26,2003-12-01,5,Ships,South,Spain
+10197,2003-11-26,2003-12-01,5,Ships,South,Spain
+10197,2003-11-26,2003-12-01,5,Planes,North,Spain
+10197,2003-11-26,2003-12-01,5,Ships,South,Spain
+10199,2003-12-01,2003-12-06,5,"Vintage Cars",West,USA
+10199,2003-12-01,2003-12-06,5,Planes,North,USA
+10199,2003-12-01,2003-12-06,5,Planes,North,USA
+10200,2003-12-01,2003-12-06,5,Planes,North,"Hong Kong"
+10200,2003-12-01,2003-12-06,5,Planes,North,"Hong Kong"
+10200,2003-12-01,2003-12-06,5,Planes,North,"Hong Kong"
+10200,2003-12-01,2003-12-06,5,Motorcycles,North,"Hong Kong"
+10200,2003-12-01,2003-12-06,5,"Vintage Cars",West,"Hong Kong"
+10200,2003-12-01,2003-12-06,5,Planes,North,"Hong Kong"
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10203,2003-12-02,2003-12-07,5,"Classic Cars",East,Spain
+10213,2004-01-22,2004-01-27,5,"Vintage Cars",West,UK
+10213,2004-01-22,2004-01-27,5,"Classic Cars",East,UK
+10213,2004-01-22,2004-01-27,5,"Classic Cars",East,UK
+10224,2004-02-21,2004-02-26,5,Motorcycles,North,France
+10224,2004-02-21,2004-02-26,5,Motorcycles,North,France
+10224,2004-02-21,2004-02-26,5,Motorcycles,North,France
+10224,2004-02-21,2004-02-26,5,Motorcycles,North,France
+10224,2004-02-21,2004-02-26,5,Motorcycles,North,France
+10224,2004-02-21,2004-02-26,5,Motorcycles,North,France
+10226,2004-02-26,2004-03-02,5,"Classic Cars",East,USA
+10226,2004-02-26,2004-03-02,5,"Classic Cars",East,USA
+10226,2004-02-26,2004-03-02,5,"Classic Cars",East,USA
+10226,2004-02-26,2004-03-02,5,"Classic Cars",East,USA
+10226,2004-02-26,2004-03-02,5,"Classic Cars",East,USA
+10226,2004-02-26,2004-03-02,5,"Classic Cars",East,USA
+10226,2004-02-26,2004-03-02,5,"Classic Cars",East,USA
+10230,2004-03-15,2004-03-20,5,"Classic Cars",East,Germany
+10230,2004-03-15,2004-03-20,5,"Classic Cars",East,Germany
+10230,2004-03-15,2004-03-20,5,"Classic Cars",East,Germany
+10230,2004-03-15,2004-03-20,5,"Classic Cars",East,Germany
+10230,2004-03-15,2004-03-20,5,"Classic Cars",East,Germany
+10230,2004-03-15,2004-03-20,5,Trains,South,Germany
+10230,2004-03-15,2004-03-20,5,"Trucks and Buses",South,Germany
+10230,2004-03-15,2004-03-20,5,Trains,South,Germany
+10232,2004-03-20,2004-03-25,5,"Vintage Cars",West,UK
+10232,2004-03-20,2004-03-25,5,Trains,South,UK
+10232,2004-03-20,2004-03-25,5,"Vintage Cars",West,UK
+10232,2004-03-20,2004-03-25,5,Ships,South,UK
+10232,2004-03-20,2004-03-25,5,Ships,South,UK
+10232,2004-03-20,2004-03-25,5,Ships,South,UK
+10232,2004-03-20,2004-03-25,5,Ships,South,UK
+10232,2004-03-20,2004-03-25,5,Ships,South,UK
+10236,2004-04-03,2004-04-08,5,Motorcycles,North,USA
+10236,2004-04-03,2004-04-08,5,Motorcycles,North,USA
+10236,2004-04-03,2004-04-08,5,Motorcycles,North,USA
+10237,2004-04-05,2004-04-10,5,Motorcycles,North,USA
+10237,2004-04-05,2004-04-10,5,Motorcycles,North,USA
+10237,2004-04-05,2004-04-10,5,Motorcycles,North,USA
+10237,2004-04-05,2004-04-10,5,Motorcycles,North,USA
+10237,2004-04-05,2004-04-10,5,Motorcycles,North,USA
+10237,2004-04-05,2004-04-10,5,Motorcycles,North,USA
+10237,2004-04-05,2004-04-10,5,Motorcycles,North,USA
+10237,2004-04-05,2004-04-10,5,Motorcycles,North,USA
+10237,2004-04-05,2004-04-10,5,Motorcycles,North,USA
+10239,2004-04-12,2004-04-17,5,"Classic Cars",East,Finland
+10239,2004-04-12,2004-04-17,5,"Classic Cars",East,Finland
+10239,2004-04-12,2004-04-17,5,"Classic Cars",East,Finland
+10239,2004-04-12,2004-04-17,5,"Classic Cars",East,Finland
+10239,2004-04-12,2004-04-17,5,"Classic Cars",East,Finland
+10242,2004-04-20,2004-04-25,5,"Vintage Cars",West,USA
+10244,2004-04-29,2004-05-04,5,"Vintage Cars",West,Spain
+10244,2004-04-29,2004-05-04,5,"Vintage Cars",West,Spain
+10244,2004-04-29,2004-05-04,5,"Vintage Cars",West,Spain
+10244,2004-04-29,2004-05-04,5,"Vintage Cars",West,Spain
+10244,2004-04-29,2004-05-04,5,"Vintage Cars",West,Spain
+10244,2004-04-29,2004-05-04,5,"Vintage Cars",West,Spain
+10244,2004-04-29,2004-05-04,5,"Vintage Cars",West,Spain
+10244,2004-04-29,2004-05-04,5,"Vintage Cars",West,Spain
+10244,2004-04-29,2004-05-04,5,"Vintage Cars",West,Spain
+10245,2004-05-04,2004-05-09,5,"Classic Cars",East,USA
+10245,2004-05-04,2004-05-09,5,"Classic Cars",East,USA
+10245,2004-05-04,2004-05-09,5,"Trucks and Buses",South,USA
+10245,2004-05-04,2004-05-09,5,"Trucks and Buses",South,USA
+10245,2004-05-04,2004-05-09,5,"Trucks and Buses",South,USA
+10245,2004-05-04,2004-05-09,5,"Vintage Cars",West,USA
+10245,2004-05-04,2004-05-09,5,"Trucks and Buses",South,USA
+10245,2004-05-04,2004-05-09,5,"Trucks and Buses",South,USA
+10245,2004-05-04,2004-05-09,5,"Classic Cars",East,USA
+10255,2004-06-04,2004-06-09,5,"Vintage Cars",West,France
+10255,2004-06-04,2004-06-09,5,"Vintage Cars",West,France
+10261,2004-06-17,2004-06-22,5,"Classic Cars",East,Canada
+10261,2004-06-17,2004-06-22,5,"Vintage Cars",West,Canada
+10261,2004-06-17,2004-06-22,5,Ships,South,Canada
+10261,2004-06-17,2004-06-22,5,"Vintage Cars",West,Canada
+10261,2004-06-17,2004-06-22,5,Ships,South,Canada
+10261,2004-06-17,2004-06-22,5,Ships,South,Canada
+10261,2004-06-17,2004-06-22,5,Ships,South,Canada
+10261,2004-06-17,2004-06-22,5,Ships,South,Canada
+10261,2004-06-17,2004-06-22,5,Ships,South,Canada
+10265,2004-07-02,2004-07-07,5,"Classic Cars",East,Australia
+10265,2004-07-02,2004-07-07,5,"Classic Cars",East,Australia
+10270,2004-07-19,2004-07-24,5,"Classic Cars",East,Australia
+10270,2004-07-19,2004-07-24,5,"Classic Cars",East,Australia
+10270,2004-07-19,2004-07-24,5,"Trucks and Buses",South,Australia
+10270,2004-07-19,2004-07-24,5,"Trucks and Buses",South,Australia
+10270,2004-07-19,2004-07-24,5,"Vintage Cars",West,Australia
+10270,2004-07-19,2004-07-24,5,"Vintage Cars",West,Australia
+10270,2004-07-19,2004-07-24,5,"Trucks and Buses",South,Australia
+10270,2004-07-19,2004-07-24,5,"Vintage Cars",West,Australia
+10270,2004-07-19,2004-07-24,5,"Trucks and Buses",South,Australia
+10270,2004-07-19,2004-07-24,5,"Trucks and Buses",South,Australia
+10270,2004-07-19,2004-07-24,5,"Classic Cars",East,Australia
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10284,2004-08-21,2004-08-26,5,"Vintage Cars",West,"Norway  "
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10284,2004-08-21,2004-08-26,5,"Vintage Cars",West,"Norway  "
+10284,2004-08-21,2004-08-26,5,"Vintage Cars",West,"Norway  "
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10284,2004-08-21,2004-08-26,5,Planes,North,"Norway  "
+10293,2004-09-09,2004-09-14,5,"Classic Cars",East,Italy
+10293,2004-09-09,2004-09-14,5,"Classic Cars",East,Italy
+10293,2004-09-09,2004-09-14,5,"Classic Cars",East,Italy
+10293,2004-09-09,2004-09-14,5,"Vintage Cars",West,Italy
+10293,2004-09-09,2004-09-14,5,Trains,South,Italy
+10293,2004-09-09,2004-09-14,5,"Vintage Cars",West,Italy
+10293,2004-09-09,2004-09-14,5,Ships,South,Italy
+10293,2004-09-09,2004-09-14,5,Ships,South,Italy
+10293,2004-09-09,2004-09-14,5,Ships,South,Italy
+10297,2004-09-16,2004-09-21,5,Planes,North,Ireland
+10297,2004-09-16,2004-09-21,5,Planes,North,Ireland
+10297,2004-09-16,2004-09-21,5,Motorcycles,North,Ireland
+10297,2004-09-16,2004-09-21,5,Planes,North,Ireland
+10297,2004-09-16,2004-09-21,5,Motorcycles,North,Ireland
+10297,2004-09-16,2004-09-21,5,"Vintage Cars",West,Ireland
+10297,2004-09-16,2004-09-21,5,Planes,North,Ireland
+10300,2003-10-04,2003-10-09,5,"Classic Cars",East,Germany
+10300,2003-10-04,2003-10-09,5,"Classic Cars",East,Germany
+10300,2003-10-04,2003-10-09,5,"Classic Cars",East,Germany
+10300,2003-10-04,2003-10-09,5,"Classic Cars",East,Germany
+10300,2003-10-04,2003-10-09,5,"Classic Cars",East,Germany
+10300,2003-10-04,2003-10-09,5,"Classic Cars",East,Germany
+10300,2003-10-04,2003-10-09,5,"Classic Cars",East,Germany
+10300,2003-10-04,2003-10-09,5,"Classic Cars",East,Germany
+10308,2004-10-15,2004-10-20,5,Motorcycles,North,USA
+10308,2004-10-15,2004-10-20,5,Motorcycles,North,USA
+10308,2004-10-15,2004-10-20,5,Planes,North,USA
+10308,2004-10-15,2004-10-20,5,Motorcycles,North,USA
+10308,2004-10-15,2004-10-20,5,Planes,North,USA
+10308,2004-10-15,2004-10-20,5,Motorcycles,North,USA
+10308,2004-10-15,2004-10-20,5,Planes,North,USA
+10308,2004-10-15,2004-10-20,5,Planes,North,USA
+10308,2004-10-15,2004-10-20,5,Motorcycles,North,USA
+10308,2004-10-15,2004-10-20,5,"Vintage Cars",West,USA
+10308,2004-10-15,2004-10-20,5,"Vintage Cars",West,USA
+10308,2004-10-15,2004-10-20,5,Planes,North,USA
+10308,2004-10-15,2004-10-20,5,Planes,North,USA
+10308,2004-10-15,2004-10-20,5,Planes,North,USA
+10308,2004-10-15,2004-10-20,5,Planes,North,USA
+10308,2004-10-15,2004-10-20,5,Planes,North,USA
+10318,2004-11-02,2004-11-07,5,Motorcycles,North,USA
+10318,2004-11-02,2004-11-07,5,Motorcycles,North,USA
+10318,2004-11-02,2004-11-07,5,Motorcycles,North,USA
+10318,2004-11-02,2004-11-07,5,Planes,North,USA
+10318,2004-11-02,2004-11-07,5,Motorcycles,North,USA
+10318,2004-11-02,2004-11-07,5,Motorcycles,North,USA
+10318,2004-11-02,2004-11-07,5,Motorcycles,North,USA
+10318,2004-11-02,2004-11-07,5,Motorcycles,North,USA
+10318,2004-11-02,2004-11-07,5,Planes,North,USA
+10330,2004-11-16,2004-11-21,5,"Classic Cars",East,Philippines
+10330,2004-11-16,2004-11-21,5,Motorcycles,North,Philippines
+10330,2004-11-16,2004-11-21,5,"Classic Cars",East,Philippines
+10330,2004-11-16,2004-11-21,5,Motorcycles,North,Philippines
+10337,2004-11-21,2004-11-26,5,"Classic Cars",East,USA
+10337,2004-11-21,2004-11-26,5,"Classic Cars",East,USA
+10337,2004-11-21,2004-11-26,5,"Vintage Cars",West,USA
+10337,2004-11-21,2004-11-26,5,Ships,South,USA
+10337,2004-11-21,2004-11-26,5,Trains,South,USA
+10337,2004-11-21,2004-11-26,5,Ships,South,USA
+10337,2004-11-21,2004-11-26,5,Ships,South,USA
+10337,2004-11-21,2004-11-26,5,Ships,South,USA
+10337,2004-11-21,2004-11-26,5,Ships,South,USA
+10338,2004-11-22,2004-11-27,5,Planes,North,Belgium
+10338,2004-11-22,2004-11-27,5,Ships,South,Belgium
+10338,2004-11-22,2004-11-27,5,"Vintage Cars",West,Belgium
+10341,2004-11-24,2004-11-29,5,Motorcycles,North,Austria
+10341,2004-11-24,2004-11-29,5,"Classic Cars",East,Austria
+10341,2004-11-24,2004-11-29,5,Motorcycles,North,Austria
+10341,2004-11-24,2004-11-29,5,"Classic Cars",East,Austria
+10341,2004-11-24,2004-11-29,5,"Classic Cars",East,Austria
+10341,2004-11-24,2004-11-29,5,"Classic Cars",East,Austria
+10341,2004-11-24,2004-11-29,5,Motorcycles,North,Austria
+10341,2004-11-24,2004-11-29,5,Motorcycles,North,Austria
+10341,2004-11-24,2004-11-29,5,Motorcycles,North,Austria
+10341,2004-11-24,2004-11-29,5,Planes,North,Austria
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10342,2004-11-24,2004-11-29,5,Motorcycles,North,Australia
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10342,2004-11-24,2004-11-29,5,"Classic Cars",East,Australia
+10362,2005-01-05,2005-01-10,5,Motorcycles,North,USA
+10362,2005-01-05,2005-01-10,5,Motorcycles,North,USA
+10362,2005-01-05,2005-01-10,5,Motorcycles,North,USA
+10362,2005-01-05,2005-01-10,5,Motorcycles,North,USA
+10368,2005-01-19,2005-01-24,5,"Classic Cars",East,USA
+10368,2005-01-19,2005-01-24,5,"Classic Cars",East,USA
+10368,2005-01-19,2005-01-24,5,"Classic Cars",East,USA
+10368,2005-01-19,2005-01-24,5,"Classic Cars",East,USA
+10368,2005-01-19,2005-01-24,5,"Vintage Cars",West,USA
+10370,2005-01-20,2005-01-25,5,"Classic Cars",East,Australia
+10370,2005-01-20,2005-01-25,5,"Trucks and Buses",South,Australia
+10370,2005-01-20,2005-01-25,5,"Trucks and Buses",South,Australia
+10370,2005-01-20,2005-01-25,5,"Trucks and Buses",South,Australia
+10370,2005-01-20,2005-01-25,5,"Trucks and Buses",South,Australia
+10370,2005-01-20,2005-01-25,5,"Classic Cars",East,Australia
+10370,2005-01-20,2005-01-25,5,"Trucks and Buses",South,Australia
+10370,2005-01-20,2005-01-25,5,"Vintage Cars",West,Australia
+10370,2005-01-20,2005-01-25,5,"Trucks and Buses",South,Australia
+10376,2005-02-08,2005-02-13,5,"Classic Cars",East,USA
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,Ships,South,Spain
+10386,2005-03-01,2005-03-06,5,"Vintage Cars",West,Spain
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,"Vintage Cars",West,Spain
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,Ships,South,Spain
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,Ships,South,Spain
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,Ships,South,Spain
+10386,2005-03-01,2005-03-06,5,Ships,South,Spain
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,Planes,North,Spain
+10386,2005-03-01,2005-03-06,5,Ships,South,Spain
+10389,2005-03-03,2005-03-08,5,"Classic Cars",East,Sweden
+10389,2005-03-03,2005-03-08,5,"Classic Cars",East,Sweden
+10389,2005-03-03,2005-03-08,5,"Classic Cars",East,Sweden
+10389,2005-03-03,2005-03-08,5,"Classic Cars",East,Sweden
+10389,2005-03-03,2005-03-08,5,"Classic Cars",East,Sweden
+10389,2005-03-03,2005-03-08,5,Motorcycles,North,Sweden
+10389,2005-03-03,2005-03-08,5,Motorcycles,North,Sweden
+10389,2005-03-03,2005-03-08,5,Motorcycles,North,Sweden
+10396,2005-03-23,2005-03-28,5,"Classic Cars",East,USA
+10396,2005-03-23,2005-03-28,5,"Vintage Cars",West,USA
+10396,2005-03-23,2005-03-28,5,Trains,South,USA
+10396,2005-03-23,2005-03-28,5,"Vintage Cars",West,USA
+10396,2005-03-23,2005-03-28,5,Ships,South,USA
+10396,2005-03-23,2005-03-28,5,"Vintage Cars",West,USA
+10396,2005-03-23,2005-03-28,5,"Vintage Cars",West,USA
+10396,2005-03-23,2005-03-28,5,Ships,South,USA
+10402,2005-04-07,2005-04-12,5,Motorcycles,North,France
+10402,2005-04-07,2005-04-12,5,Motorcycles,North,France
+10402,2005-04-07,2005-04-12,5,Motorcycles,North,France
+10408,2005-04-22,2005-04-27,5,"Vintage Cars",West,Japan
+10411,2005-05-01,2005-05-06,5,"Classic Cars",East,Canada
+10411,2005-05-01,2005-05-06,5,"Classic Cars",East,Canada
+10411,2005-05-01,2005-05-06,5,"Trucks and Buses",South,Canada
+10411,2005-05-01,2005-05-06,5,"Trucks and Buses",South,Canada
+10411,2005-05-01,2005-05-06,5,"Trucks and Buses",South,Canada
+10411,2005-05-01,2005-05-06,5,"Vintage Cars",West,Canada
+10411,2005-05-01,2005-05-06,5,"Trucks and Buses",South,Canada
+10411,2005-05-01,2005-05-06,5,"Trucks and Buses",South,Canada
+10411,2005-05-01,2005-05-06,5,"Classic Cars",East,Canada
+10100,2003-01-06,2003-01-10,4,"Vintage Cars",West,USA
+10100,2003-01-06,2003-01-10,4,"Vintage Cars",West,USA
+10100,2003-01-06,2003-01-10,4,"Vintage Cars",West,USA
+10100,2003-01-06,2003-01-10,4,"Vintage Cars",West,USA
+10102,2003-01-10,2003-01-14,4,"Vintage Cars",West,USA
+10102,2003-01-10,2003-01-14,4,"Vintage Cars",West,USA
+10103,2003-01-29,2003-02-02,4,"Classic Cars",East,Norway
+10103,2003-01-29,2003-02-02,4,"Classic Cars",East,Norway
+10103,2003-01-29,2003-02-02,4,"Trucks and Buses",South,Norway
+10103,2003-01-29,2003-02-02,4,"Trucks and Buses",South,Norway
+10103,2003-01-29,2003-02-02,4,"Trucks and Buses",South,Norway
+10103,2003-01-29,2003-02-02,4,"Vintage Cars",West,Norway
+10103,2003-01-29,2003-02-02,4,"Vintage Cars",West,Norway
+10103,2003-01-29,2003-02-02,4,"Vintage Cars",West,Norway
+10103,2003-01-29,2003-02-02,4,"Vintage Cars",West,Norway
+10103,2003-01-29,2003-02-02,4,"Trucks and Buses",South,Norway
+10103,2003-01-29,2003-02-02,4,"Vintage Cars",West,Norway
+10103,2003-01-29,2003-02-02,4,"Trucks and Buses",South,Norway
+10103,2003-01-29,2003-02-02,4,"Vintage Cars",West,Norway
+10103,2003-01-29,2003-02-02,4,"Trucks and Buses",South,Norway
+10103,2003-01-29,2003-02-02,4,"Trucks and Buses",South,Norway
+10103,2003-01-29,2003-02-02,4,"Classic Cars",East,Norway
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,Ships,South,Italy
+10106,2003-02-17,2003-02-21,4,"Vintage Cars",West,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,"Vintage Cars",West,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,"Vintage Cars",West,Italy
+10106,2003-02-17,2003-02-21,4,"Vintage Cars",West,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,Ships,South,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10106,2003-02-17,2003-02-21,4,Planes,North,Italy
+10119,2003-04-28,2003-05-02,4,"Classic Cars",East,Austria
+10119,2003-04-28,2003-05-02,4,Planes,North,Austria
+10119,2003-04-28,2003-05-02,4,Ships,South,Austria
+10119,2003-04-28,2003-05-02,4,"Vintage Cars",West,Austria
+10119,2003-04-28,2003-05-02,4,Planes,North,Austria
+10119,2003-04-28,2003-05-02,4,"Vintage Cars",West,Austria
+10119,2003-04-28,2003-05-02,4,"Vintage Cars",West,Austria
+10119,2003-04-28,2003-05-02,4,"Vintage Cars",West,Austria
+10119,2003-04-28,2003-05-02,4,Planes,North,Austria
+10119,2003-04-28,2003-05-02,4,Ships,South,Austria
+10119,2003-04-28,2003-05-02,4,Ships,South,Austria
+10119,2003-04-28,2003-05-02,4,Ships,South,Austria
+10119,2003-04-28,2003-05-02,4,Planes,North,Austria
+10119,2003-04-28,2003-05-02,4,Planes,North,Austria
+10124,2003-05-21,2003-05-25,4,"Vintage Cars",West,USA
+10124,2003-05-21,2003-05-25,4,"Vintage Cars",West,USA
+10124,2003-05-21,2003-05-25,4,"Vintage Cars",West,USA
+10124,2003-05-21,2003-05-25,4,"Vintage Cars",West,USA
+10124,2003-05-21,2003-05-25,4,"Classic Cars",East,USA
+10124,2003-05-21,2003-05-25,4,"Classic Cars",East,USA
+10124,2003-05-21,2003-05-25,4,"Vintage Cars",West,USA
+10124,2003-05-21,2003-05-25,4,"Vintage Cars",West,USA
+10124,2003-05-21,2003-05-25,4,"Classic Cars",East,USA
+10124,2003-05-21,2003-05-25,4,"Classic Cars",East,USA
+10124,2003-05-21,2003-05-25,4,"Classic Cars",East,USA
+10124,2003-05-21,2003-05-25,4,"Classic Cars",East,USA
+10124,2003-05-21,2003-05-25,4,"Vintage Cars",West,USA
+10134,2003-07-01,2003-07-05,4,Motorcycles,North,France
+10134,2003-07-01,2003-07-05,4,Motorcycles,North,France
+10134,2003-07-01,2003-07-05,4,Motorcycles,North,France
+10134,2003-07-01,2003-07-05,4,Motorcycles,North,France
+10134,2003-07-01,2003-07-05,4,Motorcycles,North,France
+10134,2003-07-01,2003-07-05,4,Motorcycles,North,France
+10134,2003-07-01,2003-07-05,4,Motorcycles,North,France
+10137,2003-07-10,2003-07-14,4,"Classic Cars",East,France
+10137,2003-07-10,2003-07-14,4,"Classic Cars",East,France
+10137,2003-07-10,2003-07-14,4,"Classic Cars",East,France
+10137,2003-07-10,2003-07-14,4,"Classic Cars",East,France
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10147,2003-09-05,2003-09-09,4,"Classic Cars",East,USA
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Vintage Cars",West,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10148,2003-09-11,2003-09-15,4,"Classic Cars",East,Australia
+10163,2003-10-20,2003-10-24,4,"Classic Cars",East,USA
+10163,2003-10-20,2003-10-24,4,"Vintage Cars",West,USA
+10163,2003-10-20,2003-10-24,4,"Vintage Cars",West,USA
+10163,2003-10-20,2003-10-24,4,"Vintage Cars",West,USA
+10163,2003-10-20,2003-10-24,4,"Vintage Cars",West,USA
+10163,2003-10-20,2003-10-24,4,"Vintage Cars",West,USA
+10168,2003-10-28,2003-11-01,4,Motorcycles,North,USA
+10168,2003-10-28,2003-11-01,4,Motorcycles,North,USA
+10168,2003-10-28,2003-11-01,4,Motorcycles,North,USA
+10168,2003-10-28,2003-11-01,4,Planes,North,USA
+10168,2003-10-28,2003-11-01,4,Motorcycles,North,USA
+10168,2003-10-28,2003-11-01,4,Motorcycles,North,USA
+10168,2003-10-28,2003-11-01,4,Planes,North,USA
+10168,2003-10-28,2003-11-01,4,Motorcycles,North,USA
+10168,2003-10-28,2003-11-01,4,Planes,North,USA
+10168,2003-10-28,2003-11-01,4,Planes,North,USA
+10168,2003-10-28,2003-11-01,4,Motorcycles,North,USA
+10168,2003-10-28,2003-11-01,4,"Vintage Cars",West,USA
+10168,2003-10-28,2003-11-01,4,"Vintage Cars",West,USA
+10168,2003-10-28,2003-11-01,4,Planes,North,USA
+10168,2003-10-28,2003-11-01,4,Planes,North,USA
+10168,2003-10-28,2003-11-01,4,Planes,North,USA
+10168,2003-10-28,2003-11-01,4,Planes,North,USA
+10168,2003-10-28,2003-11-01,4,Planes,North,USA
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Classic Cars",East,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Classic Cars",East,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10173,2003-11-05,2003-11-09,4,"Vintage Cars",West,Italy
+10174,2003-11-06,2003-11-10,4,"Classic Cars",East,Australia
+10174,2003-11-06,2003-11-10,4,"Trucks and Buses",South,Australia
+10174,2003-11-06,2003-11-10,4,"Trucks and Buses",South,Australia
+10174,2003-11-06,2003-11-10,4,"Vintage Cars",West,Australia
+10174,2003-11-06,2003-11-10,4,"Vintage Cars",West,Australia
+10186,2003-11-14,2003-11-18,4,"Classic Cars",East,UK
+10186,2003-11-14,2003-11-18,4,Planes,North,UK
+10186,2003-11-14,2003-11-18,4,Ships,South,UK
+10186,2003-11-14,2003-11-18,4,"Vintage Cars",West,UK
+10186,2003-11-14,2003-11-18,4,Planes,North,UK
+10186,2003-11-14,2003-11-18,4,"Vintage Cars",West,UK
+10186,2003-11-14,2003-11-18,4,"Vintage Cars",West,UK
+10186,2003-11-14,2003-11-18,4,Ships,South,UK
+10186,2003-11-14,2003-11-18,4,Planes,North,UK
+10191,2003-11-20,2003-11-24,4,"Classic Cars",East,Germany
+10191,2003-11-20,2003-11-24,4,"Classic Cars",East,Germany
+10191,2003-11-20,2003-11-24,4,"Classic Cars",East,Germany
+10191,2003-11-20,2003-11-24,4,"Classic Cars",East,Germany
+10191,2003-11-20,2003-11-24,4,"Classic Cars",East,Germany
+10191,2003-11-20,2003-11-24,4,Motorcycles,North,Germany
+10191,2003-11-20,2003-11-24,4,"Classic Cars",East,Germany
+10191,2003-11-20,2003-11-24,4,"Classic Cars",East,Germany
+10191,2003-11-20,2003-11-24,4,"Classic Cars",East,Germany
+10202,2003-12-02,2003-12-06,4,Motorcycles,North,"New Zealand"
+10202,2003-12-02,2003-12-06,4,"Classic Cars",East,"New Zealand"
+10202,2003-12-02,2003-12-06,4,Motorcycles,North,"New Zealand"
+10202,2003-12-02,2003-12-06,4,"Classic Cars",East,"New Zealand"
+10202,2003-12-02,2003-12-06,4,Motorcycles,North,"New Zealand"
+10202,2003-12-02,2003-12-06,4,Motorcycles,North,"New Zealand"
+10202,2003-12-02,2003-12-06,4,Motorcycles,North,"New Zealand"
+10205,2003-12-03,2003-12-07,4,"Vintage Cars",West,Spain
+10205,2003-12-03,2003-12-07,4,"Vintage Cars",West,Spain
+10205,2003-12-03,2003-12-07,4,"Vintage Cars",West,Spain
+10205,2003-12-03,2003-12-07,4,"Vintage Cars",West,Spain
+10205,2003-12-03,2003-12-07,4,"Vintage Cars",West,Spain
+10220,2004-02-12,2004-02-16,4,"Classic Cars",East,Ireland
+10220,2004-02-12,2004-02-16,4,"Classic Cars",East,Ireland
+10220,2004-02-12,2004-02-16,4,"Classic Cars",East,Ireland
+10220,2004-02-12,2004-02-16,4,"Classic Cars",East,Ireland
+10220,2004-02-12,2004-02-16,4,"Classic Cars",East,Ireland
+10220,2004-02-12,2004-02-16,4,"Classic Cars",East,Ireland
+10220,2004-02-12,2004-02-16,4,Trains,South,Ireland
+10220,2004-02-12,2004-02-16,4,"Trucks and Buses",South,Ireland
+10220,2004-02-12,2004-02-16,4,Trains,South,Ireland
+10223,2004-02-20,2004-02-24,4,Motorcycles,North,Australia
+10223,2004-02-20,2004-02-24,4,Motorcycles,North,Australia
+10223,2004-02-20,2004-02-24,4,Motorcycles,North,Australia
+10223,2004-02-20,2004-02-24,4,Planes,North,Australia
+10223,2004-02-20,2004-02-24,4,Motorcycles,North,Australia
+10223,2004-02-20,2004-02-24,4,Motorcycles,North,Australia
+10223,2004-02-20,2004-02-24,4,Planes,North,Australia
+10223,2004-02-20,2004-02-24,4,Motorcycles,North,Australia
+10223,2004-02-20,2004-02-24,4,Planes,North,Australia
+10223,2004-02-20,2004-02-24,4,Motorcycles,North,Australia
+10223,2004-02-20,2004-02-24,4,"Vintage Cars",West,Australia
+10223,2004-02-20,2004-02-24,4,"Vintage Cars",West,Australia
+10223,2004-02-20,2004-02-24,4,Planes,North,Australia
+10223,2004-02-20,2004-02-24,4,Planes,North,Australia
+10223,2004-02-20,2004-02-24,4,Planes,North,Australia
+10233,2004-03-29,2004-04-02,4,"Vintage Cars",West,USA
+10233,2004-03-29,2004-04-02,4,Ships,South,USA
+10233,2004-03-29,2004-04-02,4,Ships,South,USA
+10235,2004-04-02,2004-04-06,4,Planes,North,Canada
+10235,2004-04-02,2004-04-06,4,Planes,North,Canada
+10235,2004-04-02,2004-04-06,4,Planes,North,Canada
+10235,2004-04-02,2004-04-06,4,Planes,North,Canada
+10235,2004-04-02,2004-04-06,4,Motorcycles,North,Canada
+10235,2004-04-02,2004-04-06,4,"Vintage Cars",West,Canada
+10235,2004-04-02,2004-04-06,4,"Vintage Cars",West,Canada
+10235,2004-04-02,2004-04-06,4,Planes,North,Canada
+10235,2004-04-02,2004-04-06,4,Planes,North,Canada
+10235,2004-04-02,2004-04-06,4,Planes,North,Canada
+10235,2004-04-02,2004-04-06,4,Planes,North,Canada
+10235,2004-04-02,2004-04-06,4,Planes,North,Canada
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10250,2004-05-11,2004-05-15,4,Motorcycles,North,USA
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10250,2004-05-11,2004-05-15,4,Motorcycles,North,USA
+10250,2004-05-11,2004-05-15,4,"Vintage Cars",West,USA
+10250,2004-05-11,2004-05-15,4,"Vintage Cars",West,USA
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10250,2004-05-11,2004-05-15,4,Planes,North,USA
+10263,2004-06-28,2004-07-02,4,Motorcycles,North,USA
+10263,2004-06-28,2004-07-02,4,Motorcycles,North,USA
+10263,2004-06-28,2004-07-02,4,Motorcycles,North,USA
+10263,2004-06-28,2004-07-02,4,Motorcycles,North,USA
+10263,2004-06-28,2004-07-02,4,Planes,North,USA
+10263,2004-06-28,2004-07-02,4,Motorcycles,North,USA
+10263,2004-06-28,2004-07-02,4,Motorcycles,North,USA
+10263,2004-06-28,2004-07-02,4,Motorcycles,North,USA
+10263,2004-06-28,2004-07-02,4,Planes,North,USA
+10263,2004-06-28,2004-07-02,4,Motorcycles,North,USA
+10263,2004-06-28,2004-07-02,4,Planes,North,USA
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10266,2004-07-06,2004-07-10,4,"Classic Cars",East,Italy
+10281,2004-08-19,2004-08-23,4,"Classic Cars",East,USA
+10281,2004-08-19,2004-08-23,4,"Trucks and Buses",South,USA
+10281,2004-08-19,2004-08-23,4,"Trucks and Buses",South,USA
+10281,2004-08-19,2004-08-23,4,"Trucks and Buses",South,USA
+10281,2004-08-19,2004-08-23,4,"Trucks and Buses",South,USA
+10281,2004-08-19,2004-08-23,4,"Classic Cars",East,USA
+10281,2004-08-19,2004-08-23,4,"Trucks and Buses",South,USA
+10281,2004-08-19,2004-08-23,4,"Vintage Cars",West,USA
+10281,2004-08-19,2004-08-23,4,"Trucks and Buses",South,USA
+10281,2004-08-19,2004-08-23,4,"Classic Cars",East,USA
+10281,2004-08-19,2004-08-23,4,"Trucks and Buses",South,USA
+10281,2004-08-19,2004-08-23,4,"Trucks and Buses",South,USA
+10281,2004-08-19,2004-08-23,4,"Trucks and Buses",South,USA
+10281,2004-08-19,2004-08-23,4,"Classic Cars",East,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Motorcycles,North,USA
+10285,2004-08-27,2004-08-31,4,Planes,North,USA
+10286,2004-08-28,2004-09-01,4,Motorcycles,North,France
+10288,2004-09-01,2004-09-05,4,"Classic Cars",East,Singapore
+10288,2004-09-01,2004-09-05,4,"Vintage Cars",West,Singapore
+10288,2004-09-01,2004-09-05,4,"Vintage Cars",West,Singapore
+10288,2004-09-01,2004-09-05,4,"Vintage Cars",West,Singapore
+10288,2004-09-01,2004-09-05,4,"Vintage Cars",West,Singapore
+10288,2004-09-01,2004-09-05,4,"Classic Cars",East,Singapore
+10288,2004-09-01,2004-09-05,4,"Classic Cars",East,Singapore
+10288,2004-09-01,2004-09-05,4,"Classic Cars",East,Singapore
+10288,2004-09-01,2004-09-05,4,"Vintage Cars",West,Singapore
+10288,2004-09-01,2004-09-05,4,"Classic Cars",East,Singapore
+10288,2004-09-01,2004-09-05,4,"Classic Cars",East,Singapore
+10288,2004-09-01,2004-09-05,4,"Classic Cars",East,Singapore
+10288,2004-09-01,2004-09-05,4,"Classic Cars",East,Singapore
+10288,2004-09-01,2004-09-05,4,"Vintage Cars",West,Singapore
+10294,2004-09-10,2004-09-14,4,Ships,South,USA
+10295,2004-09-10,2004-09-14,4,"Classic Cars",East,USA
+10295,2004-09-10,2004-09-14,4,"Vintage Cars",West,USA
+10295,2004-09-10,2004-09-14,4,Ships,South,USA
+10295,2004-09-10,2004-09-14,4,Ships,South,USA
+10295,2004-09-10,2004-09-14,4,Ships,South,USA
+10298,2004-09-27,2004-10-01,4,Motorcycles,North,France
+10298,2004-09-27,2004-10-01,4,Motorcycles,North,France
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10311,2004-10-16,2004-10-20,4,"Vintage Cars",West,Spain
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10311,2004-10-16,2004-10-20,4,"Classic Cars",East,Spain
+10320,2004-11-03,2004-11-07,4,"Classic Cars",East,Sweden
+10320,2004-11-03,2004-11-07,4,"Classic Cars",East,Sweden
+10320,2004-11-03,2004-11-07,4,"Classic Cars",East,Sweden
+10320,2004-11-03,2004-11-07,4,"Classic Cars",East,Sweden
+10320,2004-11-03,2004-11-07,4,"Classic Cars",East,Sweden
+10323,2004-11-05,2004-11-09,4,"Vintage Cars",West,Germany
+10323,2004-11-05,2004-11-09,4,"Trucks and Buses",South,Germany
+10335,2004-11-19,2004-11-23,4,"Classic Cars",East,USA
+10335,2004-11-19,2004-11-23,4,"Trucks and Buses",South,USA
+10335,2004-11-19,2004-11-23,4,"Trucks and Buses",South,USA
+10336,2004-11-20,2004-11-24,4,"Classic Cars",East,France
+10336,2004-11-20,2004-11-24,4,"Classic Cars",East,France
+10336,2004-11-20,2004-11-24,4,"Classic Cars",East,France
+10336,2004-11-20,2004-11-24,4,"Trucks and Buses",South,France
+10336,2004-11-20,2004-11-24,4,"Classic Cars",East,France
+10336,2004-11-20,2004-11-24,4,"Vintage Cars",West,France
+10336,2004-11-20,2004-11-24,4,Trains,South,France
+10336,2004-11-20,2004-11-24,4,"Classic Cars",East,France
+10336,2004-11-20,2004-11-24,4,"Classic Cars",East,France
+10336,2004-11-20,2004-11-24,4,Trains,South,France
+10336,2004-11-20,2004-11-24,4,"Trucks and Buses",South,France
+10336,2004-11-20,2004-11-24,4,"Classic Cars",East,France
+10344,2004-11-25,2004-11-29,4,"Vintage Cars",West,France
+10344,2004-11-25,2004-11-29,4,"Vintage Cars",West,France
+10344,2004-11-25,2004-11-29,4,"Vintage Cars",West,France
+10344,2004-11-25,2004-11-29,4,"Vintage Cars",West,France
+10344,2004-11-25,2004-11-29,4,"Classic Cars",East,France
+10344,2004-11-25,2004-11-29,4,"Classic Cars",East,France
+10344,2004-11-25,2004-11-29,4,"Vintage Cars",West,France
+10348,2004-11-01,2004-11-05,4,"Classic Cars",East,Spain
+10348,2004-11-01,2004-11-05,4,"Classic Cars",East,Spain
+10348,2004-11-01,2004-11-05,4,"Vintage Cars",West,Spain
+10348,2004-11-01,2004-11-05,4,"Trucks and Buses",South,Spain
+10348,2004-11-01,2004-11-05,4,"Vintage Cars",West,Spain
+10348,2004-11-01,2004-11-05,4,"Trucks and Buses",South,Spain
+10348,2004-11-01,2004-11-05,4,"Trucks and Buses",South,Spain
+10348,2004-11-01,2004-11-05,4,"Classic Cars",East,Spain
+10351,2004-12-03,2004-12-07,4,Planes,North,UK
+10351,2004-12-03,2004-12-07,4,"Vintage Cars",West,UK
+10351,2004-12-03,2004-12-07,4,Planes,North,UK
+10351,2004-12-03,2004-12-07,4,"Vintage Cars",West,UK
+10351,2004-12-03,2004-12-07,4,Planes,North,UK
+10357,2004-12-10,2004-12-14,4,"Classic Cars",East,USA
+10357,2004-12-10,2004-12-14,4,"Classic Cars",East,USA
+10357,2004-12-10,2004-12-14,4,"Trucks and Buses",South,USA
+10357,2004-12-10,2004-12-14,4,"Trucks and Buses",South,USA
+10357,2004-12-10,2004-12-14,4,"Trucks and Buses",South,USA
+10357,2004-12-10,2004-12-14,4,"Vintage Cars",West,USA
+10357,2004-12-10,2004-12-14,4,"Vintage Cars",West,USA
+10357,2004-12-10,2004-12-14,4,"Vintage Cars",West,USA
+10357,2004-12-10,2004-12-14,4,"Vintage Cars",West,USA
+10357,2004-12-10,2004-12-14,4,"Trucks and Buses",South,USA
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,Motorcycles,North,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,Motorcycles,North,Finland
+10363,2005-01-06,2005-01-10,4,Motorcycles,North,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,"Classic Cars",East,Finland
+10363,2005-01-06,2005-01-10,4,Motorcycles,North,Finland
+10365,2005-01-07,2005-01-11,4,"Classic Cars",East,USA
+10365,2005-01-07,2005-01-11,4,Motorcycles,North,USA
+10365,2005-01-07,2005-01-11,4,Motorcycles,North,USA
+10367,2005-01-12,2005-01-16,4,"Classic Cars",East,USA
+10367,2005-01-12,2005-01-16,4,"Vintage Cars",West,USA
+10367,2005-01-12,2005-01-16,4,"Vintage Cars",West,USA
+10367,2005-01-12,2005-01-16,4,"Vintage Cars",West,USA
+10367,2005-01-12,2005-01-16,4,"Vintage Cars",West,USA
+10367,2005-01-12,2005-01-16,4,"Classic Cars",East,USA
+10367,2005-01-12,2005-01-16,4,"Vintage Cars",West,USA
+10367,2005-01-12,2005-01-16,4,"Classic Cars",East,USA
+10367,2005-01-12,2005-01-16,4,"Classic Cars",East,USA
+10367,2005-01-12,2005-01-16,4,"Classic Cars",East,USA
+10367,2005-01-12,2005-01-16,4,"Vintage Cars",West,USA
+10367,2005-01-12,2005-01-16,4,"Vintage Cars",West,USA
+10367,2005-01-12,2005-01-16,4,"Classic Cars",East,USA
+10369,2005-01-20,2005-01-24,4,"Classic Cars",East,USA
+10369,2005-01-20,2005-01-24,4,"Vintage Cars",West,USA
+10369,2005-01-20,2005-01-24,4,"Vintage Cars",West,USA
+10369,2005-01-20,2005-01-24,4,"Vintage Cars",West,USA
+10369,2005-01-20,2005-01-24,4,"Vintage Cars",West,USA
+10369,2005-01-20,2005-01-24,4,"Vintage Cars",West,USA
+10369,2005-01-20,2005-01-24,4,"Vintage Cars",West,USA
+10369,2005-01-20,2005-01-24,4,"Vintage Cars",West,USA
+10384,2005-02-23,2005-02-27,4,"Classic Cars",East,USA
+10384,2005-02-23,2005-02-27,4,Ships,South,USA
+10384,2005-02-23,2005-02-27,4,"Vintage Cars",West,USA
+10384,2005-02-23,2005-02-27,4,Ships,South,USA
+10387,2005-03-02,2005-03-06,4,Motorcycles,North,Singapore
+10394,2005-03-15,2005-03-19,4,"Classic Cars",East,Spain
+10394,2005-03-15,2005-03-19,4,"Classic Cars",East,Spain
+10394,2005-03-15,2005-03-19,4,"Classic Cars",East,Spain
+10394,2005-03-15,2005-03-19,4,"Classic Cars",East,Spain
+10394,2005-03-15,2005-03-19,4,"Classic Cars",East,Spain
+10394,2005-03-15,2005-03-19,4,"Trucks and Buses",South,Spain
+10394,2005-03-15,2005-03-19,4,Trains,South,Spain
+10397,2005-03-28,2005-04-01,4,Ships,South,France
+10397,2005-03-28,2005-04-01,4,Ships,South,France
+10397,2005-03-28,2005-04-01,4,Ships,South,France
+10397,2005-03-28,2005-04-01,4,Ships,South,France
+10397,2005-03-28,2005-04-01,4,Ships,South,France
+10413,2005-05-05,2005-05-09,4,"Classic Cars",East,USA
+10413,2005-05-05,2005-05-09,4,"Classic Cars",East,USA
+10413,2005-05-05,2005-05-09,4,"Classic Cars",East,USA
+10413,2005-05-05,2005-05-09,4,"Classic Cars",East,USA
+10413,2005-05-05,2005-05-09,4,Trains,South,USA
+10413,2005-05-05,2005-05-09,4,Trains,South,USA
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10416,2005-05-10,2005-05-14,4,Motorcycles,North,Italy
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10416,2005-05-10,2005-05-14,4,Motorcycles,North,Italy
+10416,2005-05-10,2005-05-14,4,"Vintage Cars",West,Italy
+10416,2005-05-10,2005-05-14,4,"Vintage Cars",West,Italy
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10416,2005-05-10,2005-05-14,4,Planes,North,Italy
+10418,2005-05-16,2005-05-20,4,"Classic Cars",East,"New Zealand"
+10418,2005-05-16,2005-05-20,4,"Classic Cars",East,"New Zealand"
+10418,2005-05-16,2005-05-20,4,Motorcycles,North,"New Zealand"
+10418,2005-05-16,2005-05-20,4,"Classic Cars",East,"New Zealand"
+10418,2005-05-16,2005-05-20,4,Motorcycles,North,"New Zealand"
+10418,2005-05-16,2005-05-20,4,"Classic Cars",East,"New Zealand"
+10418,2005-05-16,2005-05-20,4,Motorcycles,North,"New Zealand"
+10418,2005-05-16,2005-05-20,4,Motorcycles,North,"New Zealand"
+10418,2005-05-16,2005-05-20,4,Motorcycles,North,"New Zealand"
+10115,2003-04-04,2003-04-07,3,"Trucks and Buses",South,USA
+10115,2003-04-04,2003-04-07,3,"Classic Cars",East,USA
+10115,2003-04-04,2003-04-07,3,"Classic Cars",East,USA
+10115,2003-04-04,2003-04-07,3,"Classic Cars",East,USA
+10115,2003-04-04,2003-04-07,3,"Trucks and Buses",South,USA
+10125,2003-05-21,2003-05-24,3,"Vintage Cars",West,Australia
+10125,2003-05-21,2003-05-24,3,"Vintage Cars",West,Australia
+10127,2003-06-03,2003-06-06,3,"Classic Cars",East,USA
+10127,2003-06-03,2003-06-06,3,"Classic Cars",East,USA
+10127,2003-06-03,2003-06-06,3,"Classic Cars",East,USA
+10127,2003-06-03,2003-06-06,3,"Trucks and Buses",South,USA
+10127,2003-06-03,2003-06-06,3,"Classic Cars",East,USA
+10127,2003-06-03,2003-06-06,3,"Trucks and Buses",South,USA
+10127,2003-06-03,2003-06-06,3,"Classic Cars",East,USA
+10127,2003-06-03,2003-06-06,3,"Classic Cars",East,USA
+10127,2003-06-03,2003-06-06,3,"Classic Cars",East,USA
+10127,2003-06-03,2003-06-06,3,"Classic Cars",East,USA
+10127,2003-06-03,2003-06-06,3,"Classic Cars",East,USA
+10127,2003-06-03,2003-06-06,3,"Trucks and Buses",South,USA
+10127,2003-06-03,2003-06-06,3,Trains,South,USA
+10127,2003-06-03,2003-06-06,3,"Trucks and Buses",South,USA
+10127,2003-06-03,2003-06-06,3,Trains,South,USA
+10132,2003-06-25,2003-06-28,3,Planes,North,"New Zealand"
+10141,2003-08-01,2003-08-04,3,"Trucks and Buses",South,Finland
+10141,2003-08-01,2003-08-04,3,"Classic Cars",East,Finland
+10141,2003-08-01,2003-08-04,3,"Trucks and Buses",South,Finland
+10141,2003-08-01,2003-08-04,3,"Classic Cars",East,Finland
+10141,2003-08-01,2003-08-04,3,"Classic Cars",East,Finland
+10141,2003-08-01,2003-08-04,3,"Classic Cars",East,Finland
+10141,2003-08-01,2003-08-04,3,"Classic Cars",East,Finland
+10141,2003-08-01,2003-08-04,3,"Trucks and Buses",South,Finland
+10141,2003-08-01,2003-08-04,3,"Trucks and Buses",South,Finland
+10146,2003-09-03,2003-09-06,3,Motorcycles,North,USA
+10146,2003-09-03,2003-09-06,3,"Classic Cars",East,USA
+10151,2003-09-21,2003-09-24,3,"Trucks and Buses",South,Finland
+10151,2003-09-21,2003-09-24,3,"Classic Cars",East,Finland
+10151,2003-09-21,2003-09-24,3,"Trucks and Buses",South,Finland
+10151,2003-09-21,2003-09-24,3,"Trucks and Buses",South,Finland
+10151,2003-09-21,2003-09-24,3,"Classic Cars",East,Finland
+10151,2003-09-21,2003-09-24,3,"Trucks and Buses",South,Finland
+10151,2003-09-21,2003-09-24,3,"Classic Cars",East,Finland
+10151,2003-09-21,2003-09-24,3,"Trucks and Buses",South,Finland
+10151,2003-09-21,2003-09-24,3,"Trucks and Buses",South,Finland
+10151,2003-09-21,2003-09-24,3,"Trucks and Buses",South,Finland
+10156,2003-10-08,2003-10-11,3,"Vintage Cars",West,Spain
+10156,2003-10-08,2003-10-11,3,Planes,North,Spain
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10161,2003-10-17,2003-10-20,3,"Classic Cars",East,Denmark
+10170,2003-11-04,2003-11-07,3,"Classic Cars",East,Austria
+10170,2003-11-04,2003-11-07,3,"Classic Cars",East,Austria
+10170,2003-11-04,2003-11-07,3,"Classic Cars",East,Austria
+10170,2003-11-04,2003-11-07,3,"Classic Cars",East,Austria
+10175,2003-11-06,2003-11-09,3,"Classic Cars",East,UK
+10175,2003-11-06,2003-11-09,3,"Trucks and Buses",South,UK
+10175,2003-11-06,2003-11-09,3,"Trucks and Buses",South,UK
+10175,2003-11-06,2003-11-09,3,"Trucks and Buses",South,UK
+10175,2003-11-06,2003-11-09,3,"Classic Cars",East,UK
+10175,2003-11-06,2003-11-09,3,"Trucks and Buses",South,UK
+10175,2003-11-06,2003-11-09,3,"Trucks and Buses",South,UK
+10175,2003-11-06,2003-11-09,3,"Classic Cars",East,UK
+10175,2003-11-06,2003-11-09,3,"Trucks and Buses",South,UK
+10175,2003-11-06,2003-11-09,3,"Trucks and Buses",South,UK
+10175,2003-11-06,2003-11-09,3,"Trucks and Buses",South,UK
+10175,2003-11-06,2003-11-09,3,"Classic Cars",East,UK
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,"Classic Cars",East,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,"Classic Cars",East,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10180,2003-11-11,2003-11-14,3,Motorcycles,North,France
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10181,2003-11-12,2003-11-15,3,"Classic Cars",East,"Norway  "
+10195,2003-11-25,2003-11-28,3,"Trucks and Buses",South,USA
+10195,2003-11-25,2003-11-28,3,"Classic Cars",East,USA
+10195,2003-11-25,2003-11-28,3,"Trucks and Buses",South,USA
+10195,2003-11-25,2003-11-28,3,"Classic Cars",East,USA
+10195,2003-11-25,2003-11-28,3,"Classic Cars",East,USA
+10195,2003-11-25,2003-11-28,3,"Classic Cars",East,USA
+10195,2003-11-25,2003-11-28,3,"Classic Cars",East,USA
+10195,2003-11-25,2003-11-28,3,"Trucks and Buses",South,USA
+10195,2003-11-25,2003-11-28,3,Trains,South,USA
+10195,2003-11-25,2003-11-28,3,"Trucks and Buses",South,USA
+10206,2003-12-05,2003-12-08,3,"Classic Cars",East,Canada
+10206,2003-12-05,2003-12-08,3,"Trucks and Buses",South,Canada
+10206,2003-12-05,2003-12-08,3,"Trucks and Buses",South,Canada
+10206,2003-12-05,2003-12-08,3,"Vintage Cars",West,Canada
+10206,2003-12-05,2003-12-08,3,"Vintage Cars",West,Canada
+10206,2003-12-05,2003-12-08,3,"Vintage Cars",West,Canada
+10206,2003-12-05,2003-12-08,3,"Vintage Cars",West,Canada
+10206,2003-12-05,2003-12-08,3,"Vintage Cars",West,Canada
+10206,2003-12-05,2003-12-08,3,"Vintage Cars",West,Canada
+10206,2003-12-05,2003-12-08,3,"Trucks and Buses",South,Canada
+10206,2003-12-05,2003-12-08,3,"Classic Cars",East,Canada
+10209,2004-01-09,2004-01-12,3,"Classic Cars",East,USA
+10209,2004-01-09,2004-01-12,3,Ships,South,USA
+10209,2004-01-09,2004-01-12,3,"Vintage Cars",West,USA
+10209,2004-01-09,2004-01-12,3,Planes,North,USA
+10209,2004-01-09,2004-01-12,3,"Vintage Cars",West,USA
+10209,2004-01-09,2004-01-12,3,"Vintage Cars",West,USA
+10209,2004-01-09,2004-01-12,3,Ships,South,USA
+10209,2004-01-09,2004-01-12,3,Planes,North,USA
+10211,2004-01-15,2004-01-18,3,Motorcycles,North,France
+10211,2004-01-15,2004-01-18,3,"Classic Cars",East,France
+10211,2004-01-15,2004-01-18,3,Motorcycles,North,France
+10211,2004-01-15,2004-01-18,3,"Classic Cars",East,France
+10211,2004-01-15,2004-01-18,3,"Classic Cars",East,France
+10211,2004-01-15,2004-01-18,3,"Classic Cars",East,France
+10211,2004-01-15,2004-01-18,3,Motorcycles,North,France
+10211,2004-01-15,2004-01-18,3,"Classic Cars",East,France
+10211,2004-01-15,2004-01-18,3,Motorcycles,North,France
+10211,2004-01-15,2004-01-18,3,Motorcycles,North,France
+10211,2004-01-15,2004-01-18,3,"Classic Cars",East,France
+10211,2004-01-15,2004-01-18,3,"Classic Cars",East,France
+10211,2004-01-15,2004-01-18,3,Motorcycles,North,France
+10211,2004-01-15,2004-01-18,3,Motorcycles,North,France
+10211,2004-01-15,2004-01-18,3,Motorcycles,North,France
+10214,2004-01-26,2004-01-29,3,"Vintage Cars",West,Spain
+10214,2004-01-26,2004-01-29,3,"Vintage Cars",West,Spain
+10214,2004-01-26,2004-01-29,3,"Vintage Cars",West,Spain
+10214,2004-01-26,2004-01-29,3,"Vintage Cars",West,Spain
+10214,2004-01-26,2004-01-29,3,"Vintage Cars",West,Spain
+10214,2004-01-26,2004-01-29,3,"Vintage Cars",West,Spain
+10214,2004-01-26,2004-01-29,3,"Vintage Cars",West,Spain
+10215,2004-01-29,2004-02-01,3,"Classic Cars",East,USA
+10215,2004-01-29,2004-02-01,3,"Trucks and Buses",South,USA
+10215,2004-01-29,2004-02-01,3,"Vintage Cars",West,USA
+10215,2004-01-29,2004-02-01,3,"Vintage Cars",West,USA
+10215,2004-01-29,2004-02-01,3,"Vintage Cars",West,USA
+10215,2004-01-29,2004-02-01,3,"Vintage Cars",West,USA
+10215,2004-01-29,2004-02-01,3,"Vintage Cars",West,USA
+10215,2004-01-29,2004-02-01,3,"Vintage Cars",West,USA
+10215,2004-01-29,2004-02-01,3,"Vintage Cars",West,USA
+10215,2004-01-29,2004-02-01,3,"Vintage Cars",West,USA
+10228,2004-03-10,2004-03-13,3,"Classic Cars",East,USA
+10228,2004-03-10,2004-03-13,3,"Trucks and Buses",South,USA
+10228,2004-03-10,2004-03-13,3,"Vintage Cars",West,USA
+10228,2004-03-10,2004-03-13,3,"Vintage Cars",West,USA
+10228,2004-03-10,2004-03-13,3,"Vintage Cars",West,USA
+10228,2004-03-10,2004-03-13,3,"Vintage Cars",West,USA
+10234,2004-03-30,2004-04-02,3,"Classic Cars",East,"New Zealand"
+10234,2004-03-30,2004-04-02,3,Planes,North,"New Zealand"
+10234,2004-03-30,2004-04-02,3,Ships,South,"New Zealand"
+10234,2004-03-30,2004-04-02,3,"Vintage Cars",West,"New Zealand"
+10234,2004-03-30,2004-04-02,3,Planes,North,"New Zealand"
+10234,2004-03-30,2004-04-02,3,"Vintage Cars",West,"New Zealand"
+10234,2004-03-30,2004-04-02,3,"Vintage Cars",West,"New Zealand"
+10234,2004-03-30,2004-04-02,3,Ships,South,"New Zealand"
+10234,2004-03-30,2004-04-02,3,Planes,North,"New Zealand"
+10247,2004-05-05,2004-05-08,3,"Classic Cars",East,Finland
+10247,2004-05-05,2004-05-08,3,"Classic Cars",East,Finland
+10247,2004-05-05,2004-05-08,3,"Classic Cars",East,Finland
+10247,2004-05-05,2004-05-08,3,"Classic Cars",East,Finland
+10247,2004-05-05,2004-05-08,3,Trains,South,Finland
+10247,2004-05-05,2004-05-08,3,Trains,South,Finland
+10249,2004-05-08,2004-05-11,3,"Vintage Cars",West,USA
+10249,2004-05-08,2004-05-11,3,Planes,North,USA
+10249,2004-05-08,2004-05-11,3,"Vintage Cars",West,USA
+10249,2004-05-08,2004-05-11,3,Ships,South,USA
+10249,2004-05-08,2004-05-11,3,Planes,North,USA
+10252,2004-05-26,2004-05-29,3,"Classic Cars",East,France
+10252,2004-05-26,2004-05-29,3,"Classic Cars",East,France
+10252,2004-05-26,2004-05-29,3,Motorcycles,North,France
+10252,2004-05-26,2004-05-29,3,"Classic Cars",East,France
+10252,2004-05-26,2004-05-29,3,Motorcycles,North,France
+10252,2004-05-26,2004-05-29,3,"Classic Cars",East,France
+10252,2004-05-26,2004-05-29,3,Motorcycles,North,France
+10252,2004-05-26,2004-05-29,3,Motorcycles,North,France
+10252,2004-05-26,2004-05-29,3,Motorcycles,North,France
+10271,2004-07-20,2004-07-23,3,"Trucks and Buses",South,USA
+10271,2004-07-20,2004-07-23,3,"Classic Cars",East,USA
+10271,2004-07-20,2004-07-23,3,"Trucks and Buses",South,USA
+10271,2004-07-20,2004-07-23,3,"Trucks and Buses",South,USA
+10271,2004-07-20,2004-07-23,3,"Classic Cars",East,USA
+10271,2004-07-20,2004-07-23,3,"Classic Cars",East,USA
+10271,2004-07-20,2004-07-23,3,"Trucks and Buses",South,USA
+10271,2004-07-20,2004-07-23,3,"Classic Cars",East,USA
+10271,2004-07-20,2004-07-23,3,"Classic Cars",East,USA
+10271,2004-07-20,2004-07-23,3,"Trucks and Buses",South,USA
+10271,2004-07-20,2004-07-23,3,"Trucks and Buses",South,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10278,2004-08-06,2004-08-09,3,"Classic Cars",East,USA
+10283,2004-08-20,2004-08-23,3,"Classic Cars",East,Canada
+10283,2004-08-20,2004-08-23,3,Ships,South,Canada
+10283,2004-08-20,2004-08-23,3,"Vintage Cars",West,Canada
+10283,2004-08-20,2004-08-23,3,"Vintage Cars",West,Canada
+10283,2004-08-20,2004-08-23,3,Ships,South,Canada
+10283,2004-08-20,2004-08-23,3,"Vintage Cars",West,Canada
+10283,2004-08-20,2004-08-23,3,"Vintage Cars",West,Canada
+10283,2004-08-20,2004-08-23,3,Ships,South,Canada
+10283,2004-08-20,2004-08-23,3,Ships,South,Canada
+10283,2004-08-20,2004-08-23,3,Ships,South,Canada
+10283,2004-08-20,2004-08-23,3,Ships,South,Canada
+10283,2004-08-20,2004-08-23,3,Ships,South,Canada
+10283,2004-08-20,2004-08-23,3,Planes,North,Canada
+10283,2004-08-20,2004-08-23,3,Ships,South,Canada
+10292,2004-09-08,2004-09-11,3,"Trucks and Buses",South,USA
+10292,2004-09-08,2004-09-11,3,"Classic Cars",East,USA
+10292,2004-09-08,2004-09-11,3,"Trucks and Buses",South,USA
+10292,2004-09-08,2004-09-11,3,"Classic Cars",East,USA
+10292,2004-09-08,2004-09-11,3,"Classic Cars",East,USA
+10292,2004-09-08,2004-09-11,3,"Classic Cars",East,USA
+10292,2004-09-08,2004-09-11,3,"Classic Cars",East,USA
+10292,2004-09-08,2004-09-11,3,"Classic Cars",East,USA
+10292,2004-09-08,2004-09-11,3,"Trucks and Buses",South,USA
+10292,2004-09-08,2004-09-11,3,Trains,South,USA
+10292,2004-09-08,2004-09-11,3,"Trucks and Buses",South,USA
+10292,2004-09-08,2004-09-11,3,Trains,South,USA
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10301,2003-10-05,2003-10-08,3,"Classic Cars",East,"Norway  "
+10303,2004-10-06,2004-10-09,3,"Vintage Cars",West,Spain
+10303,2004-10-06,2004-10-09,3,"Vintage Cars",West,Spain
+10306,2004-10-14,2004-10-17,3,"Classic Cars",East,UK
+10306,2004-10-14,2004-10-17,3,"Classic Cars",East,UK
+10306,2004-10-14,2004-10-17,3,"Classic Cars",East,UK
+10306,2004-10-14,2004-10-17,3,"Vintage Cars",West,UK
+10306,2004-10-14,2004-10-17,3,Trains,South,UK
+10306,2004-10-14,2004-10-17,3,"Classic Cars",East,UK
+10306,2004-10-14,2004-10-17,3,"Vintage Cars",West,UK
+10306,2004-10-14,2004-10-17,3,Ships,South,UK
+10306,2004-10-14,2004-10-17,3,"Vintage Cars",West,UK
+10306,2004-10-14,2004-10-17,3,Trains,South,UK
+10306,2004-10-14,2004-10-17,3,Trains,South,UK
+10306,2004-10-14,2004-10-17,3,Ships,South,UK
+10306,2004-10-14,2004-10-17,3,Ships,South,UK
+10306,2004-10-14,2004-10-17,3,Ships,South,UK
+10306,2004-10-14,2004-10-17,3,Ships,South,UK
+10306,2004-10-14,2004-10-17,3,Ships,South,UK
+10306,2004-10-14,2004-10-17,3,Ships,South,UK
+10309,2004-10-15,2004-10-18,3,Motorcycles,North,Norway
+10309,2004-10-15,2004-10-18,3,Motorcycles,North,Norway
+10309,2004-10-15,2004-10-18,3,Motorcycles,North,Norway
+10309,2004-10-15,2004-10-18,3,Motorcycles,North,Norway
+10309,2004-10-15,2004-10-18,3,Motorcycles,North,Norway
+10309,2004-10-15,2004-10-18,3,Motorcycles,North,Norway
+10313,2004-10-22,2004-10-25,3,"Classic Cars",East,Canada
+10313,2004-10-22,2004-10-25,3,"Trucks and Buses",South,Canada
+10313,2004-10-22,2004-10-25,3,"Trucks and Buses",South,Canada
+10313,2004-10-22,2004-10-25,3,"Trucks and Buses",South,Canada
+10313,2004-10-22,2004-10-25,3,"Classic Cars",East,Canada
+10313,2004-10-22,2004-10-25,3,"Trucks and Buses",South,Canada
+10313,2004-10-22,2004-10-25,3,"Trucks and Buses",South,Canada
+10313,2004-10-22,2004-10-25,3,"Trucks and Buses",South,Canada
+10313,2004-10-22,2004-10-25,3,"Trucks and Buses",South,Canada
+10313,2004-10-22,2004-10-25,3,"Trucks and Buses",South,Canada
+10313,2004-10-22,2004-10-25,3,"Classic Cars",East,Canada
+10319,2004-11-03,2004-11-06,3,Motorcycles,North,USA
+10319,2004-11-03,2004-11-06,3,"Classic Cars",East,USA
+10319,2004-11-03,2004-11-06,3,Motorcycles,North,USA
+10319,2004-11-03,2004-11-06,3,"Classic Cars",East,USA
+10319,2004-11-03,2004-11-06,3,Motorcycles,North,USA
+10319,2004-11-03,2004-11-06,3,"Classic Cars",East,USA
+10319,2004-11-03,2004-11-06,3,Motorcycles,North,USA
+10319,2004-11-03,2004-11-06,3,Motorcycles,North,USA
+10319,2004-11-03,2004-11-06,3,Motorcycles,North,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10321,2004-11-04,2004-11-07,3,"Classic Cars",East,USA
+10324,2004-11-05,2004-11-08,3,"Classic Cars",East,USA
+10324,2004-11-05,2004-11-08,3,"Trucks and Buses",South,USA
+10324,2004-11-05,2004-11-08,3,"Classic Cars",East,USA
+10324,2004-11-05,2004-11-08,3,"Trucks and Buses",South,USA
+10324,2004-11-05,2004-11-08,3,"Classic Cars",East,USA
+10324,2004-11-05,2004-11-08,3,"Classic Cars",East,USA
+10324,2004-11-05,2004-11-08,3,"Vintage Cars",West,USA
+10324,2004-11-05,2004-11-08,3,"Classic Cars",East,USA
+10324,2004-11-05,2004-11-08,3,"Trucks and Buses",South,USA
+10324,2004-11-05,2004-11-08,3,"Classic Cars",East,USA
+10324,2004-11-05,2004-11-08,3,"Vintage Cars",West,USA
+10324,2004-11-05,2004-11-08,3,"Trucks and Buses",South,USA
+10324,2004-11-05,2004-11-08,3,"Trucks and Buses",South,USA
+10324,2004-11-05,2004-11-08,3,"Classic Cars",East,USA
+10325,2004-11-05,2004-11-08,3,"Classic Cars",East,Norway
+10325,2004-11-05,2004-11-08,3,"Classic Cars",East,Norway
+10325,2004-11-05,2004-11-08,3,"Classic Cars",East,Norway
+10325,2004-11-05,2004-11-08,3,"Vintage Cars",West,Norway
+10325,2004-11-05,2004-11-08,3,"Classic Cars",East,Norway
+10325,2004-11-05,2004-11-08,3,"Trucks and Buses",South,Norway
+10325,2004-11-05,2004-11-08,3,Trains,South,Norway
+10325,2004-11-05,2004-11-08,3,"Trucks and Buses",South,Norway
+10325,2004-11-05,2004-11-08,3,Trains,South,Norway
+10327,2004-11-10,2004-11-13,3,Planes,North,Denmark
+10327,2004-11-10,2004-11-13,3,Planes,North,Denmark
+10327,2004-11-10,2004-11-13,3,Ships,South,Denmark
+10327,2004-11-10,2004-11-13,3,Ships,South,Denmark
+10327,2004-11-10,2004-11-13,3,Ships,South,Denmark
+10327,2004-11-10,2004-11-13,3,Ships,South,Denmark
+10327,2004-11-10,2004-11-13,3,Ships,South,Denmark
+10327,2004-11-10,2004-11-13,3,Ships,South,Denmark
+10350,2004-12-02,2004-12-05,3,"Classic Cars",East,Spain
+10350,2004-12-02,2004-12-05,3,Ships,South,Spain
+10350,2004-12-02,2004-12-05,3,"Vintage Cars",West,Spain
+10350,2004-12-02,2004-12-05,3,Trains,South,Spain
+10350,2004-12-02,2004-12-05,3,"Vintage Cars",West,Spain
+10350,2004-12-02,2004-12-05,3,Ships,South,Spain
+10350,2004-12-02,2004-12-05,3,"Vintage Cars",West,Spain
+10350,2004-12-02,2004-12-05,3,"Vintage Cars",West,Spain
+10350,2004-12-02,2004-12-05,3,Trains,South,Spain
+10350,2004-12-02,2004-12-05,3,"Trucks and Buses",South,Spain
+10350,2004-12-02,2004-12-05,3,Trains,South,Spain
+10350,2004-12-02,2004-12-05,3,Ships,South,Spain
+10350,2004-12-02,2004-12-05,3,Ships,South,Spain
+10350,2004-12-02,2004-12-05,3,Ships,South,Spain
+10350,2004-12-02,2004-12-05,3,Ships,South,Spain
+10350,2004-12-02,2004-12-05,3,Ships,South,Spain
+10350,2004-12-02,2004-12-05,3,Ships,South,Spain
+10356,2004-12-09,2004-12-12,3,"Classic Cars",East,France
+10356,2004-12-09,2004-12-12,3,"Vintage Cars",West,France
+10356,2004-12-09,2004-12-12,3,"Vintage Cars",West,France
+10356,2004-12-09,2004-12-12,3,"Classic Cars",East,France
+10356,2004-12-09,2004-12-12,3,"Vintage Cars",West,France
+10356,2004-12-09,2004-12-12,3,"Vintage Cars",West,France
+10356,2004-12-09,2004-12-12,3,"Vintage Cars",West,France
+10356,2004-12-09,2004-12-12,3,"Vintage Cars",West,France
+10356,2004-12-09,2004-12-12,3,Motorcycles,North,France
+10359,2004-12-15,2004-12-18,3,"Classic Cars",East,France
+10359,2004-12-15,2004-12-18,3,"Classic Cars",East,France
+10359,2004-12-15,2004-12-18,3,"Classic Cars",East,France
+10359,2004-12-15,2004-12-18,3,"Classic Cars",East,France
+10359,2004-12-15,2004-12-18,3,"Trucks and Buses",South,France
+10359,2004-12-15,2004-12-18,3,Trains,South,France
+10359,2004-12-15,2004-12-18,3,"Trucks and Buses",South,France
+10359,2004-12-15,2004-12-18,3,Trains,South,France
+10361,2004-12-17,2004-12-20,3,Motorcycles,North,Australia
+10361,2004-12-17,2004-12-20,3,Motorcycles,North,Australia
+10361,2004-12-17,2004-12-20,3,"Vintage Cars",West,Australia
+10361,2004-12-17,2004-12-20,3,Planes,North,Australia
+10361,2004-12-17,2004-12-20,3,Planes,North,Australia
+10361,2004-12-17,2004-12-20,3,"Vintage Cars",West,Australia
+10361,2004-12-17,2004-12-20,3,"Vintage Cars",West,Australia
+10361,2004-12-17,2004-12-20,3,Planes,North,Australia
+10361,2004-12-17,2004-12-20,3,Ships,South,Australia
+10361,2004-12-17,2004-12-20,3,Planes,North,Australia
+10361,2004-12-17,2004-12-20,3,Planes,North,Australia
+10361,2004-12-17,2004-12-20,3,Planes,North,Australia
+10361,2004-12-17,2004-12-20,3,Planes,North,Australia
+10361,2004-12-17,2004-12-20,3,Planes,North,Australia
+10364,2005-01-06,2005-01-09,3,Motorcycles,North,France
+10375,2005-02-03,2005-02-06,3,Motorcycles,North,France
+10375,2005-02-03,2005-02-06,3,"Classic Cars",East,France
+10375,2005-02-03,2005-02-06,3,Motorcycles,North,France
+10375,2005-02-03,2005-02-06,3,Motorcycles,North,France
+10375,2005-02-03,2005-02-06,3,Motorcycles,North,France
+10375,2005-02-03,2005-02-06,3,Planes,North,France
+10375,2005-02-03,2005-02-06,3,Motorcycles,North,France
+10375,2005-02-03,2005-02-06,3,"Vintage Cars",West,France
+10375,2005-02-03,2005-02-06,3,Motorcycles,North,France
+10375,2005-02-03,2005-02-06,3,"Vintage Cars",West,France
+10375,2005-02-03,2005-02-06,3,Motorcycles,North,France
+10375,2005-02-03,2005-02-06,3,Planes,North,France
+10375,2005-02-03,2005-02-06,3,Planes,North,France
+10375,2005-02-03,2005-02-06,3,Planes,North,France
+10375,2005-02-03,2005-02-06,3,Planes,North,France
+10377,2005-02-09,2005-02-12,3,"Classic Cars",East,Finland
+10377,2005-02-09,2005-02-12,3,"Classic Cars",East,Finland
+10377,2005-02-09,2005-02-12,3,"Classic Cars",East,Finland
+10377,2005-02-09,2005-02-12,3,"Classic Cars",East,Finland
+10377,2005-02-09,2005-02-12,3,"Classic Cars",East,Finland
+10377,2005-02-09,2005-02-12,3,"Classic Cars",East,Finland
+10383,2005-02-22,2005-02-25,3,"Trucks and Buses",South,Spain
+10383,2005-02-22,2005-02-25,3,"Vintage Cars",West,Spain
+10383,2005-02-22,2005-02-25,3,"Classic Cars",East,Spain
+10383,2005-02-22,2005-02-25,3,Trains,South,Spain
+10383,2005-02-22,2005-02-25,3,"Classic Cars",East,Spain
+10383,2005-02-22,2005-02-25,3,"Vintage Cars",West,Spain
+10383,2005-02-22,2005-02-25,3,"Classic Cars",East,Spain
+10383,2005-02-22,2005-02-25,3,"Classic Cars",East,Spain
+10383,2005-02-22,2005-02-25,3,"Classic Cars",East,Spain
+10383,2005-02-22,2005-02-25,3,"Trucks and Buses",South,Spain
+10383,2005-02-22,2005-02-25,3,Trains,South,Spain
+10383,2005-02-22,2005-02-25,3,"Trucks and Buses",South,Spain
+10383,2005-02-22,2005-02-25,3,Trains,South,Spain
+10390,2005-03-04,2005-03-07,3,"Classic Cars",East,USA
+10390,2005-03-04,2005-03-07,3,"Classic Cars",East,USA
+10390,2005-03-04,2005-03-07,3,"Vintage Cars",West,USA
+10390,2005-03-04,2005-03-07,3,"Vintage Cars",West,USA
+10390,2005-03-04,2005-03-07,3,"Classic Cars",East,USA
+10390,2005-03-04,2005-03-07,3,"Classic Cars",East,USA
+10390,2005-03-04,2005-03-07,3,Motorcycles,North,USA
+10390,2005-03-04,2005-03-07,3,"Classic Cars",East,USA
+10390,2005-03-04,2005-03-07,3,Motorcycles,North,USA
+10390,2005-03-04,2005-03-07,3,"Classic Cars",East,USA
+10390,2005-03-04,2005-03-07,3,"Classic Cars",East,USA
+10390,2005-03-04,2005-03-07,3,"Classic Cars",East,USA
+10390,2005-03-04,2005-03-07,3,"Classic Cars",East,USA
+10390,2005-03-04,2005-03-07,3,Motorcycles,North,USA
+10390,2005-03-04,2005-03-07,3,Motorcycles,North,USA
+10390,2005-03-04,2005-03-07,3,Motorcycles,North,USA
+10393,2005-03-11,2005-03-14,3,"Classic Cars",East,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Trucks and Buses",South,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Classic Cars",East,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Trucks and Buses",South,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Trucks and Buses",South,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Vintage Cars",West,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Trucks and Buses",South,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Vintage Cars",West,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Trucks and Buses",South,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Trucks and Buses",South,"New Zealand"
+10393,2005-03-11,2005-03-14,3,"Classic Cars",East,"New Zealand"
+10400,2005-04-01,2005-04-04,3,"Classic Cars",East,USA
+10400,2005-04-01,2005-04-04,3,Planes,North,USA
+10400,2005-04-01,2005-04-04,3,Ships,South,USA
+10400,2005-04-01,2005-04-04,3,"Vintage Cars",West,USA
+10400,2005-04-01,2005-04-04,3,Planes,North,USA
+10400,2005-04-01,2005-04-04,3,"Vintage Cars",West,USA
+10400,2005-04-01,2005-04-04,3,"Vintage Cars",West,USA
+10400,2005-04-01,2005-04-04,3,Ships,South,USA
+10400,2005-04-01,2005-04-04,3,Planes,North,USA
+10403,2005-04-08,2005-04-11,3,Motorcycles,North,UK
+10403,2005-04-08,2005-04-11,3,Motorcycles,North,UK
+10403,2005-04-08,2005-04-11,3,Motorcycles,North,UK
+10403,2005-04-08,2005-04-11,3,Motorcycles,North,UK
+10403,2005-04-08,2005-04-11,3,Motorcycles,North,UK
+10403,2005-04-08,2005-04-11,3,Motorcycles,North,UK
+10403,2005-04-08,2005-04-11,3,Motorcycles,North,UK
+10403,2005-04-08,2005-04-11,3,Motorcycles,North,UK
+10403,2005-04-08,2005-04-11,3,Motorcycles,North,UK
+10404,2005-04-08,2005-04-11,3,"Classic Cars",East,"New Zealand"
+10404,2005-04-08,2005-04-11,3,"Classic Cars",East,"New Zealand"
+10404,2005-04-08,2005-04-11,3,"Classic Cars",East,"New Zealand"
+10404,2005-04-08,2005-04-11,3,"Classic Cars",East,"New Zealand"
+10404,2005-04-08,2005-04-11,3,"Classic Cars",East,"New Zealand"
+10404,2005-04-08,2005-04-11,3,"Classic Cars",East,"New Zealand"
+10404,2005-04-08,2005-04-11,3,"Classic Cars",East,"New Zealand"
+10404,2005-04-08,2005-04-11,3,"Classic Cars",East,"New Zealand"
+10415,2005-05-09,2005-05-12,3,"Vintage Cars",West,Australia
+10415,2005-05-09,2005-05-12,3,Planes,North,Australia
+10415,2005-05-09,2005-05-12,3,"Vintage Cars",West,Australia
+10415,2005-05-09,2005-05-12,3,Ships,South,Australia
+10415,2005-05-09,2005-05-12,3,Planes,North,Australia
+10101,2003-01-09,2003-01-11,2,"Vintage Cars",West,Germany
+10101,2003-01-09,2003-01-11,2,"Vintage Cars",West,Germany
+10101,2003-01-09,2003-01-11,2,"Vintage Cars",West,Germany
+10101,2003-01-09,2003-01-11,2,"Vintage Cars",West,Germany
+10107,2003-02-24,2003-02-26,2,Motorcycles,North,USA
+10107,2003-02-24,2003-02-26,2,Motorcycles,North,USA
+10107,2003-02-24,2003-02-26,2,Motorcycles,North,USA
+10107,2003-02-24,2003-02-26,2,Motorcycles,North,USA
+10107,2003-02-24,2003-02-26,2,Motorcycles,North,USA
+10107,2003-02-24,2003-02-26,2,Motorcycles,North,USA
+10107,2003-02-24,2003-02-26,2,Motorcycles,North,USA
+10107,2003-02-24,2003-02-26,2,Motorcycles,North,USA
+10110,2003-03-18,2003-03-20,2,"Classic Cars",East,UK
+10110,2003-03-18,2003-03-20,2,"Vintage Cars",West,UK
+10110,2003-03-18,2003-03-20,2,"Vintage Cars",West,UK
+10110,2003-03-18,2003-03-20,2,"Vintage Cars",West,UK
+10110,2003-03-18,2003-03-20,2,"Vintage Cars",West,UK
+10110,2003-03-18,2003-03-20,2,"Vintage Cars",West,UK
+10110,2003-03-18,2003-03-20,2,"Classic Cars",East,UK
+10110,2003-03-18,2003-03-20,2,"Classic Cars",East,UK
+10110,2003-03-18,2003-03-20,2,"Classic Cars",East,UK
+10110,2003-03-18,2003-03-20,2,"Vintage Cars",West,UK
+10110,2003-03-18,2003-03-20,2,"Vintage Cars",West,UK
+10110,2003-03-18,2003-03-20,2,"Classic Cars",East,UK
+10110,2003-03-18,2003-03-20,2,"Classic Cars",East,UK
+10110,2003-03-18,2003-03-20,2,"Classic Cars",East,UK
+10110,2003-03-18,2003-03-20,2,"Classic Cars",East,UK
+10110,2003-03-18,2003-03-20,2,"Vintage Cars",West,UK
+10116,2003-04-11,2003-04-13,2,Trains,South,Belgium
+10120,2003-04-29,2003-05-01,2,Motorcycles,North,Australia
+10120,2003-04-29,2003-05-01,2,Motorcycles,North,Australia
+10120,2003-04-29,2003-05-01,2,Planes,North,Australia
+10120,2003-04-29,2003-05-01,2,Motorcycles,North,Australia
+10120,2003-04-29,2003-05-01,2,Motorcycles,North,Australia
+10120,2003-04-29,2003-05-01,2,Planes,North,Australia
+10120,2003-04-29,2003-05-01,2,Motorcycles,North,Australia
+10120,2003-04-29,2003-05-01,2,Planes,North,Australia
+10120,2003-04-29,2003-05-01,2,Motorcycles,North,Australia
+10120,2003-04-29,2003-05-01,2,"Vintage Cars",West,Australia
+10120,2003-04-29,2003-05-01,2,"Vintage Cars",West,Australia
+10120,2003-04-29,2003-05-01,2,Planes,North,Australia
+10120,2003-04-29,2003-05-01,2,Planes,North,Australia
+10120,2003-04-29,2003-05-01,2,Planes,North,Australia
+10120,2003-04-29,2003-05-01,2,Planes,North,Australia
+10123,2003-05-20,2003-05-22,2,"Classic Cars",East,France
+10123,2003-05-20,2003-05-22,2,"Classic Cars",East,France
+10123,2003-05-20,2003-05-22,2,"Classic Cars",East,France
+10123,2003-05-20,2003-05-22,2,"Classic Cars",East,France
+10129,2003-06-12,2003-06-14,2,"Classic Cars",East,UK
+10129,2003-06-12,2003-06-14,2,Ships,South,UK
+10129,2003-06-12,2003-06-14,2,"Vintage Cars",West,UK
+10129,2003-06-12,2003-06-14,2,"Vintage Cars",West,UK
+10129,2003-06-12,2003-06-14,2,Ships,South,UK
+10129,2003-06-12,2003-06-14,2,Ships,South,UK
+10129,2003-06-12,2003-06-14,2,Ships,South,UK
+10129,2003-06-12,2003-06-14,2,Ships,South,UK
+10129,2003-06-12,2003-06-14,2,Ships,South,UK
+10136,2003-07-04,2003-07-06,2,"Classic Cars",East,France
+10136,2003-07-04,2003-07-06,2,"Classic Cars",East,France
+10136,2003-07-04,2003-07-06,2,"Classic Cars",East,France
+10143,2003-08-10,2003-08-12,2,"Classic Cars",East,USA
+10143,2003-08-10,2003-08-12,2,Planes,North,USA
+10143,2003-08-10,2003-08-12,2,Ships,South,USA
+10143,2003-08-10,2003-08-12,2,"Vintage Cars",West,USA
+10143,2003-08-10,2003-08-12,2,Planes,North,USA
+10143,2003-08-10,2003-08-12,2,"Vintage Cars",West,USA
+10143,2003-08-10,2003-08-12,2,"Vintage Cars",West,USA
+10143,2003-08-10,2003-08-12,2,Planes,North,USA
+10143,2003-08-10,2003-08-12,2,"Vintage Cars",West,USA
+10143,2003-08-10,2003-08-12,2,Planes,North,USA
+10143,2003-08-10,2003-08-12,2,Ships,South,USA
+10143,2003-08-10,2003-08-12,2,Planes,North,USA
+10143,2003-08-10,2003-08-12,2,Ships,South,USA
+10143,2003-08-10,2003-08-12,2,Planes,North,USA
+10143,2003-08-10,2003-08-12,2,Planes,North,USA
+10143,2003-08-10,2003-08-12,2,Planes,North,USA
+10150,2003-09-19,2003-09-21,2,"Classic Cars",East,Singapore
+10150,2003-09-19,2003-09-21,2,"Classic Cars",East,Singapore
+10150,2003-09-19,2003-09-21,2,"Trucks and Buses",South,Singapore
+10150,2003-09-19,2003-09-21,2,"Trucks and Buses",South,Singapore
+10150,2003-09-19,2003-09-21,2,"Vintage Cars",West,Singapore
+10150,2003-09-19,2003-09-21,2,"Vintage Cars",West,Singapore
+10150,2003-09-19,2003-09-21,2,"Vintage Cars",West,Singapore
+10150,2003-09-19,2003-09-21,2,"Trucks and Buses",South,Singapore
+10150,2003-09-19,2003-09-21,2,"Vintage Cars",West,Singapore
+10150,2003-09-19,2003-09-21,2,"Trucks and Buses",South,Singapore
+10150,2003-09-19,2003-09-21,2,"Classic Cars",East,Singapore
+10164,2003-10-21,2003-10-23,2,"Classic Cars",East,Austria
+10164,2003-10-21,2003-10-23,2,"Trucks and Buses",South,Austria
+10164,2003-10-21,2003-10-23,2,"Trucks and Buses",South,Austria
+10164,2003-10-21,2003-10-23,2,"Trucks and Buses",South,Austria
+10164,2003-10-21,2003-10-23,2,"Vintage Cars",West,Austria
+10164,2003-10-21,2003-10-23,2,"Trucks and Buses",South,Austria
+10164,2003-10-21,2003-10-23,2,"Trucks and Buses",South,Austria
+10164,2003-10-21,2003-10-23,2,"Classic Cars",East,Austria
+10171,2003-11-05,2003-11-07,2,"Classic Cars",East,Canada
+10171,2003-11-05,2003-11-07,2,"Classic Cars",East,Canada
+10171,2003-11-05,2003-11-07,2,"Classic Cars",East,Canada
+10171,2003-11-05,2003-11-07,2,"Classic Cars",East,Canada
+10178,2003-11-08,2003-11-10,2,"Classic Cars",East,France
+10178,2003-11-08,2003-11-10,2,Planes,North,France
+10178,2003-11-08,2003-11-10,2,Ships,South,France
+10178,2003-11-08,2003-11-10,2,"Vintage Cars",West,France
+10178,2003-11-08,2003-11-10,2,Planes,North,France
+10178,2003-11-08,2003-11-10,2,"Vintage Cars",West,France
+10178,2003-11-08,2003-11-10,2,"Vintage Cars",West,France
+10178,2003-11-08,2003-11-10,2,Planes,North,France
+10178,2003-11-08,2003-11-10,2,Ships,South,France
+10178,2003-11-08,2003-11-10,2,Planes,North,France
+10178,2003-11-08,2003-11-10,2,Planes,North,France
+10178,2003-11-08,2003-11-10,2,Planes,North,France
+10179,2003-11-11,2003-11-13,2,Planes,North,"New Zealand"
+10179,2003-11-11,2003-11-13,2,Planes,North,"New Zealand"
+10179,2003-11-11,2003-11-13,2,Planes,North,"New Zealand"
+10179,2003-11-11,2003-11-13,2,Motorcycles,North,"New Zealand"
+10179,2003-11-11,2003-11-13,2,"Vintage Cars",West,"New Zealand"
+10179,2003-11-11,2003-11-13,2,"Vintage Cars",West,"New Zealand"
+10179,2003-11-11,2003-11-13,2,Planes,North,"New Zealand"
+10179,2003-11-11,2003-11-13,2,Planes,North,"New Zealand"
+10179,2003-11-11,2003-11-13,2,Planes,North,"New Zealand"
+10183,2003-11-13,2003-11-15,2,"Classic Cars",East,USA
+10183,2003-11-13,2003-11-15,2,"Classic Cars",East,USA
+10183,2003-11-13,2003-11-15,2,"Trucks and Buses",South,USA
+10183,2003-11-13,2003-11-15,2,"Trucks and Buses",South,USA
+10183,2003-11-13,2003-11-15,2,"Vintage Cars",West,USA
+10183,2003-11-13,2003-11-15,2,"Vintage Cars",West,USA
+10183,2003-11-13,2003-11-15,2,"Vintage Cars",West,USA
+10183,2003-11-13,2003-11-15,2,"Trucks and Buses",South,USA
+10183,2003-11-13,2003-11-15,2,"Vintage Cars",West,USA
+10183,2003-11-13,2003-11-15,2,"Vintage Cars",West,USA
+10183,2003-11-13,2003-11-15,2,"Trucks and Buses",South,USA
+10183,2003-11-13,2003-11-15,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Vintage Cars",West,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Vintage Cars",West,USA
+10204,2003-12-02,2003-12-04,2,"Vintage Cars",West,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Vintage Cars",West,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Classic Cars",East,USA
+10204,2003-12-02,2003-12-04,2,"Vintage Cars",West,USA
+10207,2003-12-09,2003-12-11,2,"Classic Cars",East,USA
+10207,2003-12-09,2003-12-11,2,"Trucks and Buses",South,USA
+10207,2003-12-09,2003-12-11,2,"Classic Cars",East,USA
+10207,2003-12-09,2003-12-11,2,"Trucks and Buses",South,USA
+10207,2003-12-09,2003-12-11,2,"Trucks and Buses",South,USA
+10207,2003-12-09,2003-12-11,2,"Classic Cars",East,USA
+10207,2003-12-09,2003-12-11,2,"Classic Cars",East,USA
+10207,2003-12-09,2003-12-11,2,"Trucks and Buses",South,USA
+10207,2003-12-09,2003-12-11,2,"Classic Cars",East,USA
+10207,2003-12-09,2003-12-11,2,"Trucks and Buses",South,USA
+10207,2003-12-09,2003-12-11,2,"Classic Cars",East,USA
+10207,2003-12-09,2003-12-11,2,"Classic Cars",East,USA
+10207,2003-12-09,2003-12-11,2,"Trucks and Buses",South,USA
+10207,2003-12-09,2003-12-11,2,"Trucks and Buses",South,USA
+10207,2003-12-09,2003-12-11,2,Trains,South,USA
+10207,2003-12-09,2003-12-11,2,"Trucks and Buses",South,USA
+10208,2004-01-02,2004-01-04,2,"Classic Cars",East,France
+10208,2004-01-02,2004-01-04,2,"Classic Cars",East,France
+10208,2004-01-02,2004-01-04,2,"Classic Cars",East,France
+10208,2004-01-02,2004-01-04,2,"Vintage Cars",West,France
+10208,2004-01-02,2004-01-04,2,Trains,South,France
+10208,2004-01-02,2004-01-04,2,"Vintage Cars",West,France
+10208,2004-01-02,2004-01-04,2,Ships,South,France
+10208,2004-01-02,2004-01-04,2,"Vintage Cars",West,France
+10208,2004-01-02,2004-01-04,2,Trains,South,France
+10208,2004-01-02,2004-01-04,2,Ships,South,France
+10208,2004-01-02,2004-01-04,2,Ships,South,France
+10208,2004-01-02,2004-01-04,2,Ships,South,France
+10208,2004-01-02,2004-01-04,2,Ships,South,France
+10208,2004-01-02,2004-01-04,2,Ships,South,France
+10208,2004-01-02,2004-01-04,2,Ships,South,France
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10212,2004-01-16,2004-01-18,2,"Classic Cars",East,Spain
+10216,2004-02-02,2004-02-04,2,"Trucks and Buses",South,France
+10217,2004-02-04,2004-02-06,2,"Classic Cars",East,Singapore
+10217,2004-02-04,2004-02-06,2,"Trucks and Buses",South,Singapore
+10217,2004-02-04,2004-02-06,2,"Trucks and Buses",South,Singapore
+10217,2004-02-04,2004-02-06,2,"Trucks and Buses",South,Singapore
+10217,2004-02-04,2004-02-06,2,"Trucks and Buses",South,Singapore
+10217,2004-02-04,2004-02-06,2,"Trucks and Buses",South,Singapore
+10217,2004-02-04,2004-02-06,2,"Classic Cars",East,Singapore
+10218,2004-02-09,2004-02-11,2,"Trucks and Buses",South,Italy
+10218,2004-02-09,2004-02-11,2,"Classic Cars",East,Italy
+10219,2004-02-10,2004-02-12,2,"Trucks and Buses",South,USA
+10219,2004-02-10,2004-02-12,2,"Classic Cars",East,USA
+10219,2004-02-10,2004-02-12,2,"Classic Cars",East,USA
+10219,2004-02-10,2004-02-12,2,"Trucks and Buses",South,USA
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10225,2004-02-22,2004-02-24,2,"Classic Cars",East,Switzerland
+10243,2004-04-26,2004-04-28,2,"Vintage Cars",West,USA
+10243,2004-04-26,2004-04-28,2,"Vintage Cars",West,USA
+10256,2004-06-08,2004-06-10,2,"Vintage Cars",West,Denmark
+10256,2004-06-08,2004-06-10,2,"Vintage Cars",West,Denmark
+10259,2004-06-15,2004-06-17,2,"Classic Cars",East,Singapore
+10259,2004-06-15,2004-06-17,2,"Trucks and Buses",South,Singapore
+10259,2004-06-15,2004-06-17,2,"Classic Cars",East,Singapore
+10259,2004-06-15,2004-06-17,2,"Trucks and Buses",South,Singapore
+10259,2004-06-15,2004-06-17,2,"Trucks and Buses",South,Singapore
+10259,2004-06-15,2004-06-17,2,"Classic Cars",East,Singapore
+10259,2004-06-15,2004-06-17,2,"Trucks and Buses",South,Singapore
+10259,2004-06-15,2004-06-17,2,"Classic Cars",East,Singapore
+10259,2004-06-15,2004-06-17,2,"Trucks and Buses",South,Singapore
+10259,2004-06-15,2004-06-17,2,"Classic Cars",East,Singapore
+10259,2004-06-15,2004-06-17,2,"Trucks and Buses",South,Singapore
+10259,2004-06-15,2004-06-17,2,"Trucks and Buses",South,Singapore
+10259,2004-06-15,2004-06-17,2,"Trucks and Buses",South,Singapore
+10267,2004-07-07,2004-07-09,2,"Classic Cars",East,USA
+10267,2004-07-07,2004-07-09,2,"Classic Cars",East,USA
+10267,2004-07-07,2004-07-09,2,"Classic Cars",East,USA
+10267,2004-07-07,2004-07-09,2,"Classic Cars",East,USA
+10267,2004-07-07,2004-07-09,2,"Classic Cars",East,USA
+10267,2004-07-07,2004-07-09,2,"Classic Cars",East,USA
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10268,2004-07-12,2004-07-14,2,"Vintage Cars",West,"New Zealand"
+10269,2004-07-16,2004-07-18,2,"Vintage Cars",West,Austria
+10269,2004-07-16,2004-07-18,2,"Vintage Cars",West,Austria
+10272,2004-07-20,2004-07-22,2,"Classic Cars",East,USA
+10272,2004-07-20,2004-07-22,2,"Classic Cars",East,USA
+10272,2004-07-20,2004-07-22,2,"Classic Cars",East,USA
+10272,2004-07-20,2004-07-22,2,"Classic Cars",East,USA
+10272,2004-07-20,2004-07-22,2,Trains,South,USA
+10272,2004-07-20,2004-07-22,2,Trains,South,USA
+10280,2004-08-17,2004-08-19,2,"Classic Cars",East,Italy
+10280,2004-08-17,2004-08-19,2,"Trucks and Buses",South,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10280,2004-08-17,2004-08-19,2,"Vintage Cars",West,Italy
+10282,2004-08-20,2004-08-22,2,"Classic Cars",East,USA
+10282,2004-08-20,2004-08-22,2,"Classic Cars",East,USA
+10282,2004-08-20,2004-08-22,2,"Classic Cars",East,USA
+10282,2004-08-20,2004-08-22,2,"Classic Cars",East,USA
+10282,2004-08-20,2004-08-22,2,"Vintage Cars",West,USA
+10282,2004-08-20,2004-08-22,2,Trains,South,USA
+10282,2004-08-20,2004-08-22,2,"Classic Cars",East,USA
+10282,2004-08-20,2004-08-22,2,"Classic Cars",East,USA
+10282,2004-08-20,2004-08-22,2,"Classic Cars",East,USA
+10282,2004-08-20,2004-08-22,2,Trains,South,USA
+10282,2004-08-20,2004-08-22,2,"Trucks and Buses",South,USA
+10282,2004-08-20,2004-08-22,2,Trains,South,USA
+10282,2004-08-20,2004-08-22,2,Ships,South,USA
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10287,2004-08-30,2004-09-01,2,"Classic Cars",East,Switzerland
+10305,2004-10-13,2004-10-15,2,"Classic Cars",East,USA
+10305,2004-10-13,2004-10-15,2,"Trucks and Buses",South,USA
+10305,2004-10-13,2004-10-15,2,"Classic Cars",East,USA
+10305,2004-10-13,2004-10-15,2,"Trucks and Buses",South,USA
+10305,2004-10-13,2004-10-15,2,"Trucks and Buses",South,USA
+10305,2004-10-13,2004-10-15,2,"Classic Cars",East,USA
+10305,2004-10-13,2004-10-15,2,"Trucks and Buses",South,USA
+10305,2004-10-13,2004-10-15,2,"Classic Cars",East,USA
+10305,2004-10-13,2004-10-15,2,"Trucks and Buses",South,USA
+10305,2004-10-13,2004-10-15,2,"Classic Cars",East,USA
+10305,2004-10-13,2004-10-15,2,"Classic Cars",East,USA
+10305,2004-10-13,2004-10-15,2,"Trucks and Buses",South,USA
+10305,2004-10-13,2004-10-15,2,"Trucks and Buses",South,USA
+10305,2004-10-13,2004-10-15,2,"Trucks and Buses",South,USA
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,Motorcycles,North,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,"Classic Cars",East,Germany
+10310,2004-10-16,2004-10-18,2,Motorcycles,North,Germany
+10312,2004-10-21,2004-10-23,2,"Classic Cars",East,USA
+10312,2004-10-21,2004-10-23,2,"Trucks and Buses",South,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10312,2004-10-21,2004-10-23,2,"Vintage Cars",West,USA
+10333,2004-11-18,2004-11-20,2,"Classic Cars",East,USA
+10333,2004-11-18,2004-11-20,2,"Trucks and Buses",South,USA
+10333,2004-11-18,2004-11-20,2,"Trucks and Buses",South,USA
+10333,2004-11-18,2004-11-20,2,"Vintage Cars",West,USA
+10333,2004-11-18,2004-11-20,2,"Vintage Cars",West,USA
+10333,2004-11-18,2004-11-20,2,"Vintage Cars",West,USA
+10333,2004-11-18,2004-11-20,2,"Vintage Cars",West,USA
+10333,2004-11-18,2004-11-20,2,"Trucks and Buses",South,USA
+10343,2004-11-24,2004-11-26,2,"Classic Cars",East,France
+10343,2004-11-24,2004-11-26,2,"Classic Cars",East,France
+10343,2004-11-24,2004-11-26,2,"Classic Cars",East,France
+10343,2004-11-24,2004-11-26,2,"Classic Cars",East,France
+10343,2004-11-24,2004-11-26,2,"Classic Cars",East,France
+10343,2004-11-24,2004-11-26,2,Motorcycles,North,France
+10349,2004-12-01,2004-12-03,2,"Classic Cars",East,USA
+10349,2004-12-01,2004-12-03,2,"Trucks and Buses",South,USA
+10349,2004-12-01,2004-12-03,2,"Classic Cars",East,USA
+10349,2004-12-01,2004-12-03,2,"Trucks and Buses",South,USA
+10349,2004-12-01,2004-12-03,2,"Classic Cars",East,USA
+10349,2004-12-01,2004-12-03,2,"Classic Cars",East,USA
+10349,2004-12-01,2004-12-03,2,"Classic Cars",East,USA
+10349,2004-12-01,2004-12-03,2,"Classic Cars",East,USA
+10349,2004-12-01,2004-12-03,2,"Classic Cars",East,USA
+10349,2004-12-01,2004-12-03,2,"Trucks and Buses",South,USA
+10360,2004-12-16,2004-12-18,2,Planes,North,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Planes,North,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Ships,South,"New Zealand"
+10360,2004-12-16,2004-12-18,2,"Vintage Cars",West,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Trains,South,"New Zealand"
+10360,2004-12-16,2004-12-18,2,"Vintage Cars",West,"New Zealand"
+10360,2004-12-16,2004-12-18,2,"Vintage Cars",West,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Planes,North,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Ships,South,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Planes,North,"New Zealand"
+10360,2004-12-16,2004-12-18,2,"Vintage Cars",West,"New Zealand"
+10360,2004-12-16,2004-12-18,2,"Vintage Cars",West,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Ships,South,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Ships,South,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Ships,South,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Ships,South,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Ships,South,"New Zealand"
+10360,2004-12-16,2004-12-18,2,Ships,South,"New Zealand"
+10366,2005-01-10,2005-01-12,2,"Classic Cars",East,Belgium
+10366,2005-01-10,2005-01-12,2,"Classic Cars",East,Belgium
+10366,2005-01-10,2005-01-12,2,"Classic Cars",East,Belgium
+10371,2005-01-23,2005-01-25,2,"Classic Cars",East,USA
+10371,2005-01-23,2005-01-25,2,"Trucks and Buses",South,USA
+10371,2005-01-23,2005-01-25,2,"Classic Cars",East,USA
+10371,2005-01-23,2005-01-25,2,"Classic Cars",East,USA
+10371,2005-01-23,2005-01-25,2,"Trucks and Buses",South,USA
+10371,2005-01-23,2005-01-25,2,"Classic Cars",East,USA
+10371,2005-01-23,2005-01-25,2,"Classic Cars",East,USA
+10371,2005-01-23,2005-01-25,2,"Trucks and Buses",South,USA
+10371,2005-01-23,2005-01-25,2,"Trucks and Buses",South,USA
+10371,2005-01-23,2005-01-25,2,Trains,South,USA
+10371,2005-01-23,2005-01-25,2,"Trucks and Buses",South,USA
+10371,2005-01-23,2005-01-25,2,"Classic Cars",East,USA
+10372,2005-01-26,2005-01-28,2,"Classic Cars",East,Japan
+10372,2005-01-26,2005-01-28,2,"Classic Cars",East,Japan
+10372,2005-01-26,2005-01-28,2,"Vintage Cars",West,Japan
+10372,2005-01-26,2005-01-28,2,Trains,South,Japan
+10372,2005-01-26,2005-01-28,2,"Classic Cars",East,Japan
+10372,2005-01-26,2005-01-28,2,"Vintage Cars",West,Japan
+10372,2005-01-26,2005-01-28,2,Ships,South,Japan
+10372,2005-01-26,2005-01-28,2,Trains,South,Japan
+10372,2005-01-26,2005-01-28,2,Ships,South,Japan
+10380,2005-02-16,2005-02-18,2,"Vintage Cars",West,Spain
+10380,2005-02-16,2005-02-18,2,"Vintage Cars",West,Spain
+10380,2005-02-16,2005-02-18,2,"Vintage Cars",West,Spain
+10380,2005-02-16,2005-02-18,2,"Vintage Cars",West,Spain
+10380,2005-02-16,2005-02-18,2,"Classic Cars",East,Spain
+10380,2005-02-16,2005-02-18,2,"Classic Cars",East,Spain
+10380,2005-02-16,2005-02-18,2,"Vintage Cars",West,Spain
+10380,2005-02-16,2005-02-18,2,"Vintage Cars",West,Spain
+10380,2005-02-16,2005-02-18,2,"Classic Cars",East,Spain
+10380,2005-02-16,2005-02-18,2,"Classic Cars",East,Spain
+10380,2005-02-16,2005-02-18,2,"Classic Cars",East,Spain
+10380,2005-02-16,2005-02-18,2,"Classic Cars",East,Spain
+10380,2005-02-16,2005-02-18,2,"Vintage Cars",West,Spain
+10392,2005-03-10,2005-03-12,2,"Vintage Cars",West,Austria
+10392,2005-03-10,2005-03-12,2,"Vintage Cars",West,Austria
+10392,2005-03-10,2005-03-12,2,"Vintage Cars",West,Austria
+10399,2005-04-01,2005-04-03,2,Motorcycles,North,"New Zealand"
+10399,2005-04-01,2005-04-03,2,Motorcycles,North,"New Zealand"
+10399,2005-04-01,2005-04-03,2,Motorcycles,North,"New Zealand"
+10399,2005-04-01,2005-04-03,2,Motorcycles,North,"New Zealand"
+10399,2005-04-01,2005-04-03,2,Motorcycles,North,"New Zealand"
+10399,2005-04-01,2005-04-03,2,Motorcycles,North,"New Zealand"
+10399,2005-04-01,2005-04-03,2,Motorcycles,North,"New Zealand"
+10399,2005-04-01,2005-04-03,2,Motorcycles,North,"New Zealand"
+10412,2005-05-03,2005-05-05,2,"Trucks and Buses",South,Spain
+10412,2005-05-03,2005-05-05,2,"Classic Cars",East,Spain
+10412,2005-05-03,2005-05-05,2,"Trucks and Buses",South,Spain
+10412,2005-05-03,2005-05-05,2,"Trucks and Buses",South,Spain
+10412,2005-05-03,2005-05-05,2,"Classic Cars",East,Spain
+10412,2005-05-03,2005-05-05,2,"Classic Cars",East,Spain
+10412,2005-05-03,2005-05-05,2,"Trucks and Buses",South,Spain
+10412,2005-05-03,2005-05-05,2,"Classic Cars",East,Spain
+10412,2005-05-03,2005-05-05,2,"Classic Cars",East,Spain
+10412,2005-05-03,2005-05-05,2,"Trucks and Buses",South,Spain
+10412,2005-05-03,2005-05-05,2,"Trucks and Buses",South,Spain
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10419,2005-05-17,2005-05-19,2,"Classic Cars",East,Austria
+10104,2003-01-31,2003-02-01,1,"Classic Cars",East,Spain
+10104,2003-01-31,2003-02-01,1,"Trucks and Buses",South,Spain
+10104,2003-01-31,2003-02-01,1,"Classic Cars",East,Spain
+10104,2003-01-31,2003-02-01,1,"Trucks and Buses",South,Spain
+10104,2003-01-31,2003-02-01,1,"Classic Cars",East,Spain
+10104,2003-01-31,2003-02-01,1,"Classic Cars",East,Spain
+10104,2003-01-31,2003-02-01,1,"Classic Cars",East,Spain
+10104,2003-01-31,2003-02-01,1,"Classic Cars",East,Spain
+10104,2003-01-31,2003-02-01,1,"Classic Cars",East,Spain
+10104,2003-01-31,2003-02-01,1,"Trucks and Buses",South,Spain
+10104,2003-01-31,2003-02-01,1,Trains,South,Spain
+10104,2003-01-31,2003-02-01,1,"Trucks and Buses",South,Spain
+10104,2003-01-31,2003-02-01,1,Trains,South,Spain
+10105,2003-02-11,2003-02-12,1,"Classic Cars",East,Denmark
+10105,2003-02-11,2003-02-12,1,"Classic Cars",East,Denmark
+10105,2003-02-11,2003-02-12,1,"Classic Cars",East,Denmark
+10105,2003-02-11,2003-02-12,1,"Vintage Cars",West,Denmark
+10105,2003-02-11,2003-02-12,1,Trains,South,Denmark
+10105,2003-02-11,2003-02-12,1,"Vintage Cars",West,Denmark
+10105,2003-02-11,2003-02-12,1,Ships,South,Denmark
+10105,2003-02-11,2003-02-12,1,"Vintage Cars",West,Denmark
+10105,2003-02-11,2003-02-12,1,"Vintage Cars",West,Denmark
+10105,2003-02-11,2003-02-12,1,Ships,South,Denmark
+10105,2003-02-11,2003-02-12,1,Ships,South,Denmark
+10105,2003-02-11,2003-02-12,1,Ships,South,Denmark
+10105,2003-02-11,2003-02-12,1,Ships,South,Denmark
+10105,2003-02-11,2003-02-12,1,Ships,South,Denmark
+10105,2003-02-11,2003-02-12,1,Ships,South,Denmark
+10109,2003-03-10,2003-03-11,1,"Classic Cars",East,USA
+10109,2003-03-10,2003-03-11,1,"Classic Cars",East,USA
+10109,2003-03-10,2003-03-11,1,"Classic Cars",East,USA
+10109,2003-03-10,2003-03-11,1,"Classic Cars",East,USA
+10109,2003-03-10,2003-03-11,1,"Classic Cars",East,USA
+10109,2003-03-10,2003-03-11,1,"Classic Cars",East,USA
+10113,2003-03-26,2003-03-27,1,"Trucks and Buses",South,USA
+10113,2003-03-26,2003-03-27,1,"Trucks and Buses",South,USA
+10113,2003-03-26,2003-03-27,1,"Vintage Cars",West,USA
+10113,2003-03-26,2003-03-27,1,"Trucks and Buses",South,USA
+10114,2003-04-01,2003-04-02,1,"Classic Cars",East,France
+10114,2003-04-01,2003-04-02,1,"Trucks and Buses",South,France
+10114,2003-04-01,2003-04-02,1,"Trucks and Buses",South,France
+10114,2003-04-01,2003-04-02,1,"Classic Cars",East,France
+10114,2003-04-01,2003-04-02,1,"Trucks and Buses",South,France
+10114,2003-04-01,2003-04-02,1,"Trucks and Buses",South,France
+10114,2003-04-01,2003-04-02,1,"Classic Cars",East,France
+10114,2003-04-01,2003-04-02,1,"Trucks and Buses",South,France
+10114,2003-04-01,2003-04-02,1,"Trucks and Buses",South,France
+10114,2003-04-01,2003-04-02,1,"Classic Cars",East,France
+10117,2003-04-16,2003-04-17,1,"Classic Cars",East,Singapore
+10117,2003-04-16,2003-04-17,1,"Classic Cars",East,Singapore
+10117,2003-04-16,2003-04-17,1,"Classic Cars",East,Singapore
+10117,2003-04-16,2003-04-17,1,"Vintage Cars",West,Singapore
+10117,2003-04-16,2003-04-17,1,Trains,South,Singapore
+10117,2003-04-16,2003-04-17,1,"Classic Cars",East,Singapore
+10117,2003-04-16,2003-04-17,1,"Vintage Cars",West,Singapore
+10117,2003-04-16,2003-04-17,1,Ships,South,Singapore
+10117,2003-04-16,2003-04-17,1,Trains,South,Singapore
+10117,2003-04-16,2003-04-17,1,Ships,South,Singapore
+10117,2003-04-16,2003-04-17,1,Ships,South,Singapore
+10117,2003-04-16,2003-04-17,1,Ships,South,Singapore
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,Motorcycles,North,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,Motorcycles,North,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,"Classic Cars",East,USA
+10135,2003-07-02,2003-07-03,1,Motorcycles,North,USA
+10135,2003-07-02,2003-07-03,1,Motorcycles,North,USA
+10135,2003-07-02,2003-07-03,1,Motorcycles,North,USA
+10144,2003-08-13,2003-08-14,1,"Vintage Cars",West,Belgium
+10155,2003-10-06,2003-10-07,1,"Classic Cars",East,Finland
+10155,2003-10-06,2003-10-07,1,Planes,North,Finland
+10155,2003-10-06,2003-10-07,1,Ships,South,Finland
+10155,2003-10-06,2003-10-07,1,"Vintage Cars",West,Finland
+10155,2003-10-06,2003-10-07,1,Planes,North,Finland
+10155,2003-10-06,2003-10-07,1,"Vintage Cars",West,Finland
+10155,2003-10-06,2003-10-07,1,"Vintage Cars",West,Finland
+10155,2003-10-06,2003-10-07,1,Planes,North,Finland
+10155,2003-10-06,2003-10-07,1,Ships,South,Finland
+10155,2003-10-06,2003-10-07,1,Planes,North,Finland
+10155,2003-10-06,2003-10-07,1,Planes,North,Finland
+10155,2003-10-06,2003-10-07,1,Planes,North,Finland
+10155,2003-10-06,2003-10-07,1,Planes,North,Finland
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10162,2003-10-18,2003-10-19,1,"Vintage Cars",West,USA
+10187,2003-11-15,2003-11-16,1,Planes,North,"Hong Kong"
+10187,2003-11-15,2003-11-16,1,Planes,North,"Hong Kong"
+10187,2003-11-15,2003-11-16,1,Planes,North,"Hong Kong"
+10187,2003-11-15,2003-11-16,1,Planes,North,"Hong Kong"
+10187,2003-11-15,2003-11-16,1,"Vintage Cars",West,"Hong Kong"
+10187,2003-11-15,2003-11-16,1,"Vintage Cars",West,"Hong Kong"
+10187,2003-11-15,2003-11-16,1,Planes,North,"Hong Kong"
+10187,2003-11-15,2003-11-16,1,Planes,North,"Hong Kong"
+10187,2003-11-15,2003-11-16,1,Planes,North,"Hong Kong"
+10187,2003-11-15,2003-11-16,1,Planes,North,"Hong Kong"
+10190,2003-11-19,2003-11-20,1,Motorcycles,North,Spain
+10190,2003-11-19,2003-11-20,1,Motorcycles,North,Spain
+10190,2003-11-19,2003-11-20,1,Motorcycles,North,Spain
+10190,2003-11-19,2003-11-20,1,Motorcycles,North,Spain
+10194,2003-11-25,2003-11-26,1,"Classic Cars",East,France
+10194,2003-11-25,2003-11-26,1,"Classic Cars",East,France
+10194,2003-11-25,2003-11-26,1,"Trucks and Buses",South,France
+10194,2003-11-25,2003-11-26,1,"Trucks and Buses",South,France
+10194,2003-11-25,2003-11-26,1,"Trucks and Buses",South,France
+10194,2003-11-25,2003-11-26,1,"Trucks and Buses",South,France
+10194,2003-11-25,2003-11-26,1,"Vintage Cars",West,France
+10194,2003-11-25,2003-11-26,1,"Trucks and Buses",South,France
+10194,2003-11-25,2003-11-26,1,"Trucks and Buses",South,France
+10194,2003-11-25,2003-11-26,1,"Trucks and Buses",South,France
+10194,2003-11-25,2003-11-26,1,"Classic Cars",East,France
+10201,2003-12-01,2003-12-02,1,Motorcycles,North,USA
+10201,2003-12-01,2003-12-02,1,Motorcycles,North,USA
+10201,2003-12-01,2003-12-02,1,Motorcycles,North,USA
+10201,2003-12-01,2003-12-02,1,Motorcycles,North,USA
+10201,2003-12-01,2003-12-02,1,Motorcycles,North,USA
+10201,2003-12-01,2003-12-02,1,Motorcycles,North,USA
+10201,2003-12-01,2003-12-02,1,Motorcycles,North,USA
+10221,2004-02-18,2004-02-19,1,"Vintage Cars",West,Belgium
+10221,2004-02-18,2004-02-19,1,Trains,South,Belgium
+10221,2004-02-18,2004-02-19,1,"Vintage Cars",West,Belgium
+10221,2004-02-18,2004-02-19,1,Ships,South,Belgium
+10221,2004-02-18,2004-02-19,1,Ships,South,Belgium
+10222,2004-02-19,2004-02-20,1,"Classic Cars",East,USA
+10222,2004-02-19,2004-02-20,1,Planes,North,USA
+10222,2004-02-19,2004-02-20,1,Ships,South,USA
+10222,2004-02-19,2004-02-20,1,"Vintage Cars",West,USA
+10222,2004-02-19,2004-02-20,1,Planes,North,USA
+10222,2004-02-19,2004-02-20,1,"Vintage Cars",West,USA
+10222,2004-02-19,2004-02-20,1,"Vintage Cars",West,USA
+10222,2004-02-19,2004-02-20,1,"Vintage Cars",West,USA
+10222,2004-02-19,2004-02-20,1,Planes,North,USA
+10222,2004-02-19,2004-02-20,1,Ships,South,USA
+10222,2004-02-19,2004-02-20,1,Ships,South,USA
+10222,2004-02-19,2004-02-20,1,Planes,North,USA
+10222,2004-02-19,2004-02-20,1,Ships,South,USA
+10222,2004-02-19,2004-02-20,1,Ships,South,USA
+10222,2004-02-19,2004-02-20,1,Ships,South,USA
+10222,2004-02-19,2004-02-20,1,Planes,North,USA
+10222,2004-02-19,2004-02-20,1,Planes,North,USA
+10222,2004-02-19,2004-02-20,1,Ships,South,USA
+10229,2004-03-11,2004-03-12,1,"Classic Cars",East,USA
+10229,2004-03-11,2004-03-12,1,"Trucks and Buses",South,USA
+10229,2004-03-11,2004-03-12,1,"Trucks and Buses",South,USA
+10229,2004-03-11,2004-03-12,1,"Trucks and Buses",South,USA
+10229,2004-03-11,2004-03-12,1,"Trucks and Buses",South,USA
+10229,2004-03-11,2004-03-12,1,"Classic Cars",East,USA
+10229,2004-03-11,2004-03-12,1,"Trucks and Buses",South,USA
+10229,2004-03-11,2004-03-12,1,"Vintage Cars",West,USA
+10229,2004-03-11,2004-03-12,1,"Trucks and Buses",South,USA
+10229,2004-03-11,2004-03-12,1,"Classic Cars",East,USA
+10229,2004-03-11,2004-03-12,1,"Trucks and Buses",South,USA
+10229,2004-03-11,2004-03-12,1,"Trucks and Buses",South,USA
+10229,2004-03-11,2004-03-12,1,"Trucks and Buses",South,USA
+10229,2004-03-11,2004-03-12,1,"Classic Cars",East,USA
+10238,2004-04-09,2004-04-10,1,"Classic Cars",East,Denmark
+10238,2004-04-09,2004-04-10,1,"Classic Cars",East,Denmark
+10238,2004-04-09,2004-04-10,1,"Classic Cars",East,Denmark
+10238,2004-04-09,2004-04-10,1,"Classic Cars",East,Denmark
+10238,2004-04-09,2004-04-10,1,"Classic Cars",East,Denmark
+10238,2004-04-09,2004-04-10,1,"Classic Cars",East,Denmark
+10238,2004-04-09,2004-04-10,1,"Classic Cars",East,Denmark
+10238,2004-04-09,2004-04-10,1,"Classic Cars",East,Denmark
+10246,2004-05-05,2004-05-06,1,"Trucks and Buses",South,Spain
+10246,2004-05-05,2004-05-06,1,"Classic Cars",East,Spain
+10246,2004-05-05,2004-05-06,1,"Trucks and Buses",South,Spain
+10246,2004-05-05,2004-05-06,1,"Trucks and Buses",South,Spain
+10246,2004-05-05,2004-05-06,1,"Classic Cars",East,Spain
+10246,2004-05-05,2004-05-06,1,"Classic Cars",East,Spain
+10246,2004-05-05,2004-05-06,1,"Trucks and Buses",South,Spain
+10246,2004-05-05,2004-05-06,1,"Classic Cars",East,Spain
+10246,2004-05-05,2004-05-06,1,"Classic Cars",East,Spain
+10246,2004-05-05,2004-05-06,1,"Trucks and Buses",South,Spain
+10246,2004-05-05,2004-05-06,1,"Trucks and Buses",South,Spain
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10253,2004-06-01,2004-06-02,1,"Classic Cars",East,UK
+10254,2004-06-03,2004-06-04,1,"Vintage Cars",West,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Vintage Cars",West,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Vintage Cars",West,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Vintage Cars",West,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Classic Cars",East,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Classic Cars",East,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Classic Cars",East,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Vintage Cars",West,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Classic Cars",East,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Classic Cars",East,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Classic Cars",East,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Classic Cars",East,"New Zealand"
+10254,2004-06-03,2004-06-04,1,"Vintage Cars",West,"New Zealand"
+10257,2004-06-14,2004-06-15,1,"Vintage Cars",West,USA
+10257,2004-06-14,2004-06-15,1,"Vintage Cars",West,USA
+10257,2004-06-14,2004-06-15,1,"Vintage Cars",West,USA
+10257,2004-06-14,2004-06-15,1,"Vintage Cars",West,USA
+10257,2004-06-14,2004-06-15,1,"Vintage Cars",West,USA
+10264,2004-06-30,2004-07-01,1,Motorcycles,North,USA
+10264,2004-06-30,2004-07-01,1,"Classic Cars",East,USA
+10264,2004-06-30,2004-07-01,1,Motorcycles,North,USA
+10264,2004-06-30,2004-07-01,1,"Classic Cars",East,USA
+10264,2004-06-30,2004-07-01,1,Motorcycles,North,USA
+10264,2004-06-30,2004-07-01,1,Motorcycles,North,USA
+10264,2004-06-30,2004-07-01,1,Motorcycles,North,USA
+10273,2004-07-21,2004-07-22,1,"Classic Cars",East,Belgium
+10273,2004-07-21,2004-07-22,1,Ships,South,Belgium
+10273,2004-07-21,2004-07-22,1,"Vintage Cars",West,Belgium
+10273,2004-07-21,2004-07-22,1,Trains,South,Belgium
+10273,2004-07-21,2004-07-22,1,"Vintage Cars",West,Belgium
+10273,2004-07-21,2004-07-22,1,"Vintage Cars",West,Belgium
+10273,2004-07-21,2004-07-22,1,Ships,South,Belgium
+10273,2004-07-21,2004-07-22,1,"Vintage Cars",West,Belgium
+10273,2004-07-21,2004-07-22,1,"Vintage Cars",West,Belgium
+10273,2004-07-21,2004-07-22,1,Ships,South,Belgium
+10273,2004-07-21,2004-07-22,1,Ships,South,Belgium
+10273,2004-07-21,2004-07-22,1,Ships,South,Belgium
+10273,2004-07-21,2004-07-22,1,Ships,South,Belgium
+10273,2004-07-21,2004-07-22,1,Ships,South,Belgium
+10273,2004-07-21,2004-07-22,1,Ships,South,Belgium
+10274,2004-07-21,2004-07-22,1,Planes,North,USA
+10274,2004-07-21,2004-07-22,1,Planes,North,USA
+10274,2004-07-21,2004-07-22,1,"Vintage Cars",West,USA
+10274,2004-07-21,2004-07-22,1,Ships,South,USA
+10274,2004-07-21,2004-07-22,1,Planes,North,USA
+10277,2004-08-04,2004-08-05,1,"Classic Cars",East,Singapore
+10289,2004-09-03,2004-09-04,1,"Vintage Cars",West,"Norway  "
+10289,2004-09-03,2004-09-04,1,"Vintage Cars",West,"Norway  "
+10289,2004-09-03,2004-09-04,1,"Vintage Cars",West,"Norway  "
+10289,2004-09-03,2004-09-04,1,"Vintage Cars",West,"Norway  "
+10296,2004-09-15,2004-09-16,1,Planes,North,Germany
+10296,2004-09-15,2004-09-16,1,Ships,South,Germany
+10296,2004-09-15,2004-09-16,1,"Vintage Cars",West,Germany
+10296,2004-09-15,2004-09-16,1,Planes,North,Germany
+10296,2004-09-15,2004-09-16,1,"Vintage Cars",West,Germany
+10296,2004-09-15,2004-09-16,1,"Vintage Cars",West,Germany
+10296,2004-09-15,2004-09-16,1,Planes,North,Germany
+10296,2004-09-15,2004-09-16,1,"Vintage Cars",West,Germany
+10296,2004-09-15,2004-09-16,1,Planes,North,Germany
+10296,2004-09-15,2004-09-16,1,Ships,South,Germany
+10296,2004-09-15,2004-09-16,1,Planes,North,Germany
+10296,2004-09-15,2004-09-16,1,Planes,North,Germany
+10296,2004-09-15,2004-09-16,1,Planes,North,Germany
+10296,2004-09-15,2004-09-16,1,Planes,North,Germany
+10299,2004-09-30,2004-10-01,1,Motorcycles,North,Finland
+10299,2004-09-30,2004-10-01,1,Motorcycles,North,Finland
+10299,2004-09-30,2004-10-01,1,Motorcycles,North,Finland
+10299,2004-09-30,2004-10-01,1,Motorcycles,North,Finland
+10299,2004-09-30,2004-10-01,1,"Classic Cars",East,Finland
+10299,2004-09-30,2004-10-01,1,Motorcycles,North,Finland
+10299,2004-09-30,2004-10-01,1,Motorcycles,North,Finland
+10299,2004-09-30,2004-10-01,1,"Classic Cars",East,Finland
+10299,2004-09-30,2004-10-01,1,Motorcycles,North,Finland
+10299,2004-09-30,2004-10-01,1,Motorcycles,North,Finland
+10299,2004-09-30,2004-10-01,1,Motorcycles,North,Finland
+10302,2003-10-06,2003-10-07,1,"Vintage Cars",West,UK
+10302,2003-10-06,2003-10-07,1,"Vintage Cars",West,UK
+10302,2003-10-06,2003-10-07,1,"Classic Cars",East,UK
+10302,2003-10-06,2003-10-07,1,"Classic Cars",East,UK
+10302,2003-10-06,2003-10-07,1,"Classic Cars",East,UK
+10302,2003-10-06,2003-10-07,1,"Classic Cars",East,UK
+10314,2004-10-22,2004-10-23,1,"Classic Cars",East,Denmark
+10314,2004-10-22,2004-10-23,1,"Classic Cars",East,Denmark
+10314,2004-10-22,2004-10-23,1,"Classic Cars",East,Denmark
+10314,2004-10-22,2004-10-23,1,"Trucks and Buses",South,Denmark
+10314,2004-10-22,2004-10-23,1,"Classic Cars",East,Denmark
+10314,2004-10-22,2004-10-23,1,"Vintage Cars",West,Denmark
+10314,2004-10-22,2004-10-23,1,Trains,South,Denmark
+10314,2004-10-22,2004-10-23,1,"Classic Cars",East,Denmark
+10314,2004-10-22,2004-10-23,1,"Classic Cars",East,Denmark
+10314,2004-10-22,2004-10-23,1,"Classic Cars",East,Denmark
+10314,2004-10-22,2004-10-23,1,"Classic Cars",East,Denmark
+10314,2004-10-22,2004-10-23,1,Trains,South,Denmark
+10314,2004-10-22,2004-10-23,1,"Trucks and Buses",South,Denmark
+10314,2004-10-22,2004-10-23,1,Trains,South,Denmark
+10314,2004-10-22,2004-10-23,1,Ships,South,Denmark
+10315,2004-10-29,2004-10-30,1,"Vintage Cars",West,France
+10315,2004-10-29,2004-10-30,1,Ships,South,France
+10315,2004-10-29,2004-10-30,1,"Vintage Cars",West,France
+10315,2004-10-29,2004-10-30,1,Ships,South,France
+10315,2004-10-29,2004-10-30,1,Ships,South,France
+10315,2004-10-29,2004-10-30,1,Ships,South,France
+10315,2004-10-29,2004-10-30,1,Ships,South,France
+10326,2004-11-09,2004-11-10,1,Trains,South,Sweden
+10326,2004-11-09,2004-11-10,1,"Vintage Cars",West,Sweden
+10326,2004-11-09,2004-11-10,1,Ships,South,Sweden
+10326,2004-11-09,2004-11-10,1,"Vintage Cars",West,Sweden
+10326,2004-11-09,2004-11-10,1,"Vintage Cars",West,Sweden
+10326,2004-11-09,2004-11-10,1,Ships,South,Sweden
+10329,2004-11-15,2004-11-16,1,Motorcycles,North,USA
+10329,2004-11-15,2004-11-16,1,Motorcycles,North,USA
+10329,2004-11-15,2004-11-16,1,Motorcycles,North,USA
+10329,2004-11-15,2004-11-16,1,"Classic Cars",East,USA
+10329,2004-11-15,2004-11-16,1,Motorcycles,North,USA
+10329,2004-11-15,2004-11-16,1,"Classic Cars",East,USA
+10329,2004-11-15,2004-11-16,1,"Classic Cars",East,USA
+10329,2004-11-15,2004-11-16,1,"Classic Cars",East,USA
+10329,2004-11-15,2004-11-16,1,"Classic Cars",East,USA
+10329,2004-11-15,2004-11-16,1,Motorcycles,North,USA
+10329,2004-11-15,2004-11-16,1,"Classic Cars",East,USA
+10329,2004-11-15,2004-11-16,1,Motorcycles,North,USA
+10329,2004-11-15,2004-11-16,1,Motorcycles,North,USA
+10329,2004-11-15,2004-11-16,1,Motorcycles,North,USA
+10329,2004-11-15,2004-11-16,1,Planes,North,USA
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Classic Cars",East,UK
+10332,2004-11-17,2004-11-18,1,"Classic Cars",East,UK
+10332,2004-11-17,2004-11-18,1,"Classic Cars",East,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10332,2004-11-17,2004-11-18,1,"Classic Cars",East,UK
+10332,2004-11-17,2004-11-18,1,"Classic Cars",East,UK
+10332,2004-11-17,2004-11-18,1,"Classic Cars",East,UK
+10332,2004-11-17,2004-11-18,1,"Classic Cars",East,UK
+10332,2004-11-17,2004-11-18,1,"Vintage Cars",West,UK
+10340,2004-11-24,2004-11-25,1,Motorcycles,North,Spain
+10340,2004-11-24,2004-11-25,1,Planes,North,Spain
+10340,2004-11-24,2004-11-25,1,Motorcycles,North,Spain
+10340,2004-11-24,2004-11-25,1,"Vintage Cars",West,Spain
+10340,2004-11-24,2004-11-25,1,"Vintage Cars",West,Spain
+10340,2004-11-24,2004-11-25,1,Planes,North,Spain
+10340,2004-11-24,2004-11-25,1,Planes,North,Spain
+10340,2004-11-24,2004-11-25,1,Planes,North,Spain
+10345,2004-11-25,2004-11-26,1,"Vintage Cars",West,France
+10346,2004-11-29,2004-11-30,1,"Vintage Cars",West,USA
+10346,2004-11-29,2004-11-30,1,"Classic Cars",East,USA
+10346,2004-11-29,2004-11-30,1,"Classic Cars",East,USA
+10346,2004-11-29,2004-11-30,1,"Classic Cars",East,USA
+10346,2004-11-29,2004-11-30,1,"Classic Cars",East,USA
+10346,2004-11-29,2004-11-30,1,"Vintage Cars",West,USA
+10347,2004-11-29,2004-11-30,1,"Classic Cars",East,Australia
+10347,2004-11-29,2004-11-30,1,"Classic Cars",East,Australia
+10347,2004-11-29,2004-11-30,1,"Trucks and Buses",South,Australia
+10347,2004-11-29,2004-11-30,1,"Trucks and Buses",South,Australia
+10347,2004-11-29,2004-11-30,1,"Vintage Cars",West,Australia
+10347,2004-11-29,2004-11-30,1,"Trucks and Buses",South,Australia
+10347,2004-11-29,2004-11-30,1,"Vintage Cars",West,Australia
+10347,2004-11-29,2004-11-30,1,"Vintage Cars",West,Australia
+10347,2004-11-29,2004-11-30,1,"Vintage Cars",West,Australia
+10347,2004-11-29,2004-11-30,1,"Vintage Cars",West,Australia
+10347,2004-11-29,2004-11-30,1,"Vintage Cars",West,Australia
+10347,2004-11-29,2004-11-30,1,"Trucks and Buses",South,Australia
+10353,2004-12-04,2004-12-05,1,Planes,North,USA
+10353,2004-12-04,2004-12-05,1,Planes,North,USA
+10353,2004-12-04,2004-12-05,1,Planes,North,USA
+10353,2004-12-04,2004-12-05,1,Motorcycles,North,USA
+10353,2004-12-04,2004-12-05,1,"Vintage Cars",West,USA
+10353,2004-12-04,2004-12-05,1,"Vintage Cars",West,USA
+10353,2004-12-04,2004-12-05,1,Planes,North,USA
+10353,2004-12-04,2004-12-05,1,Planes,North,USA
+10353,2004-12-04,2004-12-05,1,Planes,North,USA
+10354,2004-12-04,2004-12-05,1,Motorcycles,North,"New Zealand"
+10354,2004-12-04,2004-12-05,1,Motorcycles,North,"New Zealand"
+10354,2004-12-04,2004-12-05,1,Motorcycles,North,"New Zealand"
+10354,2004-12-04,2004-12-05,1,"Classic Cars",East,"New Zealand"
+10354,2004-12-04,2004-12-05,1,Motorcycles,North,"New Zealand"
+10354,2004-12-04,2004-12-05,1,"Classic Cars",East,"New Zealand"
+10354,2004-12-04,2004-12-05,1,"Classic Cars",East,"New Zealand"
+10354,2004-12-04,2004-12-05,1,"Classic Cars",East,"New Zealand"
+10354,2004-12-04,2004-12-05,1,"Classic Cars",East,"New Zealand"
+10354,2004-12-04,2004-12-05,1,Motorcycles,North,"New Zealand"
+10354,2004-12-04,2004-12-05,1,"Classic Cars",East,"New Zealand"
+10354,2004-12-04,2004-12-05,1,Motorcycles,North,"New Zealand"
+10354,2004-12-04,2004-12-05,1,Motorcycles,North,"New Zealand"
+10374,2005-02-02,2005-02-03,1,Motorcycles,North,Australia
+10374,2005-02-02,2005-02-03,1,Motorcycles,North,Australia
+10374,2005-02-02,2005-02-03,1,Planes,North,Australia
+10374,2005-02-02,2005-02-03,1,Motorcycles,North,Australia
+10374,2005-02-02,2005-02-03,1,Motorcycles,North,Australia
+10374,2005-02-02,2005-02-03,1,Planes,North,Australia
+10378,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10378,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10378,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10378,2005-02-10,2005-02-11,1,Motorcycles,North,Spain
+10378,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10378,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10378,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10378,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10378,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10378,2005-02-10,2005-02-11,1,Motorcycles,North,Spain
+10379,2005-02-10,2005-02-11,1,"Vintage Cars",West,Spain
+10379,2005-02-10,2005-02-11,1,"Vintage Cars",West,Spain
+10379,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10379,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10379,2005-02-10,2005-02-11,1,"Classic Cars",East,Spain
+10381,2005-02-17,2005-02-18,1,"Classic Cars",East,USA
+10381,2005-02-17,2005-02-18,1,"Classic Cars",East,USA
+10381,2005-02-17,2005-02-18,1,"Trucks and Buses",South,USA
+10381,2005-02-17,2005-02-18,1,"Trucks and Buses",South,USA
+10381,2005-02-17,2005-02-18,1,"Vintage Cars",West,USA
+10381,2005-02-17,2005-02-18,1,"Trucks and Buses",South,USA
+10381,2005-02-17,2005-02-18,1,"Vintage Cars",West,USA
+10381,2005-02-17,2005-02-18,1,"Vintage Cars",West,USA
+10381,2005-02-17,2005-02-18,1,"Vintage Cars",West,USA
+10382,2005-02-17,2005-02-18,1,"Classic Cars",East,USA
+10382,2005-02-17,2005-02-18,1,"Classic Cars",East,USA
+10382,2005-02-17,2005-02-18,1,"Classic Cars",East,USA
+10382,2005-02-17,2005-02-18,1,"Trucks and Buses",South,USA
+10382,2005-02-17,2005-02-18,1,"Classic Cars",East,USA
+10382,2005-02-17,2005-02-18,1,"Vintage Cars",West,USA
+10382,2005-02-17,2005-02-18,1,"Trucks and Buses",South,USA
+10382,2005-02-17,2005-02-18,1,"Vintage Cars",West,USA
+10382,2005-02-17,2005-02-18,1,"Trucks and Buses",South,USA
+10382,2005-02-17,2005-02-18,1,"Vintage Cars",West,USA
+10382,2005-02-17,2005-02-18,1,"Trucks and Buses",South,USA
+10382,2005-02-17,2005-02-18,1,"Trucks and Buses",South,USA
+10382,2005-02-17,2005-02-18,1,"Classic Cars",East,USA
+10385,2005-02-28,2005-03-01,1,"Vintage Cars",West,USA
+10385,2005-02-28,2005-03-01,1,Ships,South,USA
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,Ships,South,France
+10398,2005-03-30,2005-03-31,1,"Vintage Cars",West,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,"Vintage Cars",West,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,"Vintage Cars",West,France
+10398,2005-03-30,2005-03-31,1,"Vintage Cars",West,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,Ships,South,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10398,2005-03-30,2005-03-31,1,Planes,North,France
+10409,2005-04-23,2005-04-24,1,"Vintage Cars",West,Singapore
+10409,2005-04-23,2005-04-24,1,"Vintage Cars",West,Singapore
+10410,2005-04-29,2005-04-30,1,"Vintage Cars",West,"New Zealand"
+10410,2005-04-29,2005-04-30,1,"Vintage Cars",West,"New Zealand"
+10410,2005-04-29,2005-04-30,1,"Vintage Cars",West,"New Zealand"
+10410,2005-04-29,2005-04-30,1,"Vintage Cars",West,"New Zealand"
+10410,2005-04-29,2005-04-30,1,"Vintage Cars",West,"New Zealand"
+10410,2005-04-29,2005-04-30,1,"Vintage Cars",West,"New Zealand"
+10410,2005-04-29,2005-04-30,1,"Vintage Cars",West,"New Zealand"
+10410,2005-04-29,2005-04-30,1,"Vintage Cars",West,"New Zealand"
+10410,2005-04-29,2005-04-30,1,"Vintage Cars",West,"New Zealand"
+10167,2003-10-23,NULL,NULL,"Classic Cars",East,Sweden
+10167,2003-10-23,NULL,NULL,Planes,North,Sweden
+10167,2003-10-23,NULL,NULL,Ships,South,Sweden
+10167,2003-10-23,NULL,NULL,"Vintage Cars",West,Sweden
+10167,2003-10-23,NULL,NULL,Ships,South,Sweden
+10167,2003-10-23,NULL,NULL,Planes,North,Sweden
+10167,2003-10-23,NULL,NULL,"Vintage Cars",West,Sweden
+10167,2003-10-23,NULL,NULL,"Vintage Cars",West,Sweden
+10167,2003-10-23,NULL,NULL,"Vintage Cars",West,Sweden
+10167,2003-10-23,NULL,NULL,Ships,South,Sweden
+10167,2003-10-23,NULL,NULL,Ships,South,Sweden
+10167,2003-10-23,NULL,NULL,Ships,South,Sweden
+10167,2003-10-23,NULL,NULL,Ships,South,Sweden
+10167,2003-10-23,NULL,NULL,Ships,South,Sweden
+10167,2003-10-23,NULL,NULL,Planes,North,Sweden
+10167,2003-10-23,NULL,NULL,Ships,South,Sweden
+10248,2004-05-07,NULL,NULL,"Classic Cars",East,USA
+10248,2004-05-07,NULL,NULL,Ships,South,USA
+10248,2004-05-07,NULL,NULL,"Vintage Cars",West,USA
+10248,2004-05-07,NULL,NULL,Trains,South,USA
+10248,2004-05-07,NULL,NULL,"Vintage Cars",West,USA
+10248,2004-05-07,NULL,NULL,Ships,South,USA
+10248,2004-05-07,NULL,NULL,"Vintage Cars",West,USA
+10248,2004-05-07,NULL,NULL,"Vintage Cars",West,USA
+10248,2004-05-07,NULL,NULL,Ships,South,USA
+10248,2004-05-07,NULL,NULL,Ships,South,USA
+10248,2004-05-07,NULL,NULL,Ships,South,USA
+10248,2004-05-07,NULL,NULL,Ships,South,USA
+10248,2004-05-07,NULL,NULL,Ships,South,USA
+10248,2004-05-07,NULL,NULL,Ships,South,USA
+10260,2004-06-16,NULL,NULL,"Classic Cars",East,"New Zealand"
+10260,2004-06-16,NULL,NULL,"Classic Cars",East,"New Zealand"
+10260,2004-06-16,NULL,NULL,"Classic Cars",East,"New Zealand"
+10260,2004-06-16,NULL,NULL,"Vintage Cars",West,"New Zealand"
+10260,2004-06-16,NULL,NULL,Trains,South,"New Zealand"
+10260,2004-06-16,NULL,NULL,"Classic Cars",East,"New Zealand"
+10260,2004-06-16,NULL,NULL,"Classic Cars",East,"New Zealand"
+10260,2004-06-16,NULL,NULL,Trains,South,"New Zealand"
+10260,2004-06-16,NULL,NULL,Trains,South,"New Zealand"
+10260,2004-06-16,NULL,NULL,Ships,South,"New Zealand"
+10262,2004-06-24,NULL,NULL,Planes,North,Spain
+10262,2004-06-24,NULL,NULL,Ships,South,Spain
+10262,2004-06-24,NULL,NULL,"Vintage Cars",West,Spain
+10262,2004-06-24,NULL,NULL,Planes,North,Spain
+10262,2004-06-24,NULL,NULL,Planes,North,Spain
+10262,2004-06-24,NULL,NULL,"Vintage Cars",West,Spain
+10262,2004-06-24,NULL,NULL,"Vintage Cars",West,Spain
+10262,2004-06-24,NULL,NULL,Planes,North,Spain
+10262,2004-06-24,NULL,NULL,"Vintage Cars",West,Spain
+10262,2004-06-24,NULL,NULL,"Vintage Cars",West,Spain
+10262,2004-06-24,NULL,NULL,Planes,North,Spain
+10262,2004-06-24,NULL,NULL,Ships,South,Spain
+10262,2004-06-24,NULL,NULL,Planes,North,Spain
+10262,2004-06-24,NULL,NULL,Planes,North,Spain
+10262,2004-06-24,NULL,NULL,Planes,North,Spain
+10262,2004-06-24,NULL,NULL,Planes,North,Spain
+10334,2004-11-19,NULL,NULL,"Classic Cars",East,Sweden
+10334,2004-11-19,NULL,NULL,"Trucks and Buses",South,Sweden
+10334,2004-11-19,NULL,NULL,"Trucks and Buses",South,Sweden
+10334,2004-11-19,NULL,NULL,"Classic Cars",East,Sweden
+10334,2004-11-19,NULL,NULL,"Trucks and Buses",South,Sweden
+10334,2004-11-19,NULL,NULL,"Trucks and Buses",South,Sweden
+10401,2005-04-03,NULL,NULL,Planes,North,USA
+10401,2005-04-03,NULL,NULL,Planes,North,USA
+10401,2005-04-03,NULL,NULL,Planes,North,USA
+10401,2005-04-03,NULL,NULL,Planes,North,USA
+10401,2005-04-03,NULL,NULL,Motorcycles,North,USA
+10401,2005-04-03,NULL,NULL,"Vintage Cars",West,USA
+10401,2005-04-03,NULL,NULL,"Vintage Cars",West,USA
+10401,2005-04-03,NULL,NULL,Planes,North,USA
+10401,2005-04-03,NULL,NULL,Planes,North,USA
+10401,2005-04-03,NULL,NULL,Planes,North,USA
+10401,2005-04-03,NULL,NULL,Planes,North,USA
+10401,2005-04-03,NULL,NULL,Planes,North,USA
+10407,2005-04-22,NULL,NULL,"Classic Cars",East,USA
+10407,2005-04-22,NULL,NULL,"Vintage Cars",West,USA
+10407,2005-04-22,NULL,NULL,"Vintage Cars",West,USA
+10407,2005-04-22,NULL,NULL,"Classic Cars",East,USA
+10407,2005-04-22,NULL,NULL,"Vintage Cars",West,USA
+10407,2005-04-22,NULL,NULL,"Classic Cars",East,USA
+10407,2005-04-22,NULL,NULL,"Classic Cars",East,USA
+10407,2005-04-22,NULL,NULL,"Classic Cars",East,USA
+10407,2005-04-22,NULL,NULL,"Classic Cars",East,USA
+10407,2005-04-22,NULL,NULL,"Classic Cars",East,USA
+10407,2005-04-22,NULL,NULL,"Classic Cars",East,USA
+10407,2005-04-22,NULL,NULL,"Classic Cars",East,USA
+10414,2005-05-06,NULL,NULL,"Classic Cars",East,USA
+10414,2005-05-06,NULL,NULL,Ships,South,USA
+10414,2005-05-06,NULL,NULL,"Vintage Cars",West,USA
+10414,2005-05-06,NULL,NULL,Trains,South,USA
+10414,2005-05-06,NULL,NULL,"Vintage Cars",West,USA
+10414,2005-05-06,NULL,NULL,Ships,South,USA
+10414,2005-05-06,NULL,NULL,"Vintage Cars",West,USA
+10414,2005-05-06,NULL,NULL,"Vintage Cars",West,USA
+10414,2005-05-06,NULL,NULL,Ships,South,USA
+10414,2005-05-06,NULL,NULL,Ships,South,USA
+10414,2005-05-06,NULL,NULL,Ships,South,USA
+10414,2005-05-06,NULL,NULL,Ships,South,USA
+10414,2005-05-06,NULL,NULL,Ships,South,USA
+10414,2005-05-06,NULL,NULL,Ships,South,USA
+10420,2005-05-29,NULL,NULL,"Vintage Cars",West,Australia
+10420,2005-05-29,NULL,NULL,"Vintage Cars",West,Australia
+10420,2005-05-29,NULL,NULL,"Vintage Cars",West,Australia
+10420,2005-05-29,NULL,NULL,"Vintage Cars",West,Australia
+10420,2005-05-29,NULL,NULL,"Classic Cars",East,Australia
+10420,2005-05-29,NULL,NULL,"Classic Cars",East,Australia
+10420,2005-05-29,NULL,NULL,"Classic Cars",East,Australia
+10420,2005-05-29,NULL,NULL,"Vintage Cars",West,Australia
+10420,2005-05-29,NULL,NULL,"Classic Cars",East,Australia
+10420,2005-05-29,NULL,NULL,"Classic Cars",East,Australia
+10420,2005-05-29,NULL,NULL,"Classic Cars",East,Australia
+10420,2005-05-29,NULL,NULL,"Classic Cars",East,Australia
+10420,2005-05-29,NULL,NULL,"Vintage Cars",West,Australia
+10421,2005-05-29,NULL,NULL,"Vintage Cars",West,USA
+10421,2005-05-29,NULL,NULL,"Vintage Cars",West,USA
+10422,2005-05-30,NULL,NULL,"Vintage Cars",West,USA
+10422,2005-05-30,NULL,NULL,"Vintage Cars",West,USA
+10423,2005-05-30,NULL,NULL,"Vintage Cars",West,Belgium
+10423,2005-05-30,NULL,NULL,"Vintage Cars",West,Belgium
+10423,2005-05-30,NULL,NULL,"Vintage Cars",West,Belgium
+10423,2005-05-30,NULL,NULL,"Vintage Cars",West,Belgium
+10423,2005-05-30,NULL,NULL,"Vintage Cars",West,Belgium
+10424,2005-05-31,NULL,NULL,"Classic Cars",East,Spain
+10424,2005-05-31,NULL,NULL,"Trucks and Buses",South,Spain
+10424,2005-05-31,NULL,NULL,"Trucks and Buses",South,Spain
+10424,2005-05-31,NULL,NULL,"Vintage Cars",West,Spain
+10424,2005-05-31,NULL,NULL,"Trucks and Buses",South,Spain
+10424,2005-05-31,NULL,NULL,"Classic Cars",East,Spain
+10425,2005-05-31,NULL,NULL,"Classic Cars",East,France
+10425,2005-05-31,NULL,NULL,"Trucks and Buses",South,France
+10425,2005-05-31,NULL,NULL,"Classic Cars",East,France
+10425,2005-05-31,NULL,NULL,"Trucks and Buses",South,France
+10425,2005-05-31,NULL,NULL,"Trucks and Buses",South,France
+10425,2005-05-31,NULL,NULL,"Classic Cars",East,France
+10425,2005-05-31,NULL,NULL,"Trucks and Buses",South,France
+10425,2005-05-31,NULL,NULL,"Classic Cars",East,France
+10425,2005-05-31,NULL,NULL,"Trucks and Buses",South,France
+10425,2005-05-31,NULL,NULL,"Classic Cars",East,France
+10425,2005-05-31,NULL,NULL,"Trucks and Buses",South,France
+10425,2005-05-31,NULL,NULL,"Trucks and Buses",South,France
+10425,2005-05-31,NULL,NULL,"Trucks and Buses",South,France

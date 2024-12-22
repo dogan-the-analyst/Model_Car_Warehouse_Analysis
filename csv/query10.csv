@@ -1,0 +1,111 @@
+productName,productLine,warehouseCode,totalOrdered,quantityInStock,overStockPercentage
+"1995 Honda Civic","Classic Cars",b,917,9772,1066
+"2002 Chevy Corvette","Classic Cars",b,894,9446,1057
+"1982 Ducati 996 R",Motorcycles,a,906,9241,1020
+"1976 Ford Gran Torino","Classic Cars",b,915,9127,997
+"1965 Aston Martin DB5","Classic Cars",b,914,9042,989
+"1968 Dodge Charger","Classic Cars",b,925,9123,986
+"America West Airlines B757-200",Planes,a,984,9653,981
+"1932 Model A Ford J-Coupe","Vintage Cars",c,957,9354,977
+"2002 Suzuki XREO",Motorcycles,a,1028,9997,972
+"1999 Indy 500 Monte Carlo SS","Classic Cars",b,855,8164,955
+"1948 Porsche Type 356 Roadster","Classic Cars",b,948,8990,948
+"1912 Ford Model T Delivery Wagon","Vintage Cars",c,991,9173,926
+"1950's Chicago Surface Lines Streetcar",Trains,d,934,8601,921
+"1948 Porsche 356-A Roadster","Classic Cars",b,972,8826,908
+"1936 Mercedes-Benz 500K Special Roadster","Vintage Cars",c,960,8635,899
+"1966 Shelby Cobra 427 S/C","Classic Cars",b,915,8197,896
+"1982 Lamborghini Diablo","Classic Cars",b,912,7723,847
+"1904 Buick Runabout","Vintage Cars",c,990,8290,837
+"1961 Chevrolet Impala","Classic Cars",b,941,7869,836
+"1971 Alpine Renault 1600s","Classic Cars",b,969,7995,825
+"American Airlines: MD-11S",Planes,a,1085,8820,813
+"1957 Vespa GS150",Motorcycles,a,959,7689,802
+"1917 Maxwell Touring Car","Vintage Cars",c,992,7913,798
+"1964 Mercedes Tour Bus","Trucks and Buses",d,1053,8258,784
+"1937 Lincoln Berline","Vintage Cars",c,1111,8693,782
+"1939 Chevrolet Deluxe Coupe","Vintage Cars",c,937,7332,782
+"1952 Alpine Renault 1300","Classic Cars",b,961,7305,760
+"1992 Porsche Cayenne Turbo Silver","Classic Cars",b,867,6582,759
+"1932 Alfa Romeo 8C2300 Spider Sport","Vintage Cars",c,866,6553,757
+"1969 Harley Davidson Ultimate Chopper",Motorcycles,a,1057,7933,751
+"1969 Dodge Charger","Classic Cars",b,992,7323,738
+"ATA: B757-300",Planes,a,973,7106,730
+"1962 LanciaA Delta 16V","Classic Cars",b,932,6791,729
+"1982 Ducati 900 Monster",Motorcycles,a,947,6840,722
+"1969 Corvair Monza","Classic Cars",b,963,6906,717
+"1940 Ford Delivery Sedan","Vintage Cars",c,923,6621,717
+"Collectable Wooden Train",Trains,d,918,6450,703
+"1982 Camaro Z28","Classic Cars",b,997,6934,695
+"The USS Constitution Ship",Ships,d,1020,7083,694
+"1997 BMW R 1100 S",Motorcycles,a,1033,7003,678
+"1939 Cadillac Limousine","Vintage Cars",c,995,6645,668
+"1996 Moto Guzzi 1100i",Motorcycles,a,999,6625,663
+"18th Century Vintage Horse Carriage","Vintage Cars",c,907,5992,661
+"1930 Buick Marquette Phaeton","Vintage Cars",c,1074,7062,658
+"American Airlines: B767-300",Planes,a,894,5841,653
+"Corsair F4U ( Bird Cage)",Planes,a,1051,6812,648
+"1900s Vintage Bi-Plane",Planes,a,940,5942,632
+"1970 Plymouth Hemi Cuda","Classic Cars",b,900,5663,629
+"1956 Porsche 356A Coupe","Classic Cars",b,1052,6600,627
+"1970 Triumph Spitfire","Classic Cars",b,945,5545,587
+"1957 Chevy Pickup","Trucks and Buses",d,1056,6125,580
+"1934 Ford V8 Coupe","Vintage Cars",c,985,5649,574
+"The Queen Mary",Ships,d,896,5088,568
+"2003 Harley-Davidson Eagle Drag Bike",Motorcycles,a,985,5582,567
+"1980’s GM Manhattan Express","Trucks and Buses",d,911,5099,560
+"1969 Chevrolet Camaro Z28","Classic Cars",b,870,4695,540
+"1980s Black Hawk Helicopter",Planes,a,1040,5330,513
+"Boeing X-32A JSF",Planes,a,960,4857,506
+"1998 Chrysler Plymouth Prowler","Classic Cars",b,986,4724,479
+"1936 Chrysler Airflow","Vintage Cars",c,983,4710,479
+"1992 Ferrari 360 Spider red","Classic Cars",b,1808,8347,462
+"1936 Harley Davidson El Knucklehead",Motorcycles,a,945,4357,461
+"1903 Ford Model A","Vintage Cars",c,883,3913,443
+"1999 Yamaha Speed Boat",Ships,d,966,4259,441
+"1993 Mazda RX-7","Classic Cars",b,947,3975,420
+"1957 Ford Thunderbird","Classic Cars",b,767,3209,418
+"1970 Dodge Coronet","Classic Cars",b,976,4074,417
+"1913 Ford Model T Speedster","Vintage Cars",c,1038,4189,404
+"HMS Bounty",Ships,d,897,3501,390
+"1928 British Royal Navy Airplane",Planes,a,972,3627,373
+"1974 Ducati 350 Mk3 Desmo",Motorcycles,a,898,3341,372
+"2001 Ferrari Enzo","Classic Cars",b,1019,3619,355
+"1937 Horch 930V Limousine","Vintage Cars",c,884,2902,328
+"1972 Alfa Romeo GTA","Classic Cars",b,1030,3252,316
+"1954 Greyhound Scenicruiser","Trucks and Buses",d,955,2874,301
+"1938 Cadillac V-16 Presidential Limousine","Vintage Cars",c,955,2847,298
+"1917 Grand Touring Sedan","Vintage Cars",c,918,2724,297
+"1940s Ford truck","Trucks and Buses",d,1061,3128,295
+"1900s Vintage Tri-Plane",Planes,a,1009,2756,273
+"1940 Ford Pickup Truck","Trucks and Buses",d,999,2613,262
+"1958 Chevy Corvette Limited Edition","Classic Cars",b,983,2542,259
+"1936 Mercedes Benz 500k Roadster","Vintage Cars",c,824,2081,253
+"1949 Jaguar XK 120","Classic Cars",b,949,2350,248
+"1962 Volkswagen Microbus","Trucks and Buses",d,1029,2327,226
+"1941 Chevrolet Special Deluxe Cabriolet","Vintage Cars",c,1076,2378,221
+"The Titanic",Ships,d,952,1956,205
+"The Schooner Bluenose",Ships,d,934,1897,203
+"1926 Ford Fire Engine","Trucks and Buses",d,998,2018,202
+"1969 Dodge Super Bee","Classic Cars",b,974,1917,197
+"18th century schooner",Ships,d,1011,1898,188
+"1962 City of Detroit Streetcar",Trains,d,966,1645,170
+"1952 Citroen-15CV","Classic Cars",b,873,1452,166
+"1958 Setra Bus","Trucks and Buses",d,972,1579,162
+"1970 Chevy Chevelle SS 454","Classic Cars",b,803,1005,125
+"1957 Corvette Convertible","Classic Cars",b,1013,1249,123
+"1969 Ford Falcon","Classic Cars",b,965,1049,109
+"P-51-D Mustang",Planes,a,917,992,108
+"Diamond T620 Semi-Skirted Tanker","Trucks and Buses",d,979,1016,104
+"1996 Peterbilt 379 Stake Bed with Outrigger","Trucks and Buses",d,988,814,82
+"The Mayflower",Ships,d,898,737,82
+"1911 Ford Town Car","Vintage Cars",c,832,540,65
+"1928 Mercedes-Benz SSK","Vintage Cars",c,880,548,62
+"2002 Yamaha YZR M1",Motorcycles,a,992,600,60
+"F/A 18 Hornet 1/72",Planes,a,1047,551,53
+"Pont Yacht",Ships,d,958,414,43
+"1997 BMW F650 ST",Motorcycles,a,1014,178,18
+"1928 Ford Phaeton Deluxe","Vintage Cars",c,972,136,14
+"1968 Ford Mustang","Classic Cars",b,933,68,7
+"1960 BSA Gold Star DBD34",Motorcycles,a,1015,15,1
+"1985 Toyota Supra","Classic Cars",b,NULL,7733,NULL

@@ -211,7 +211,7 @@ ORDER BY
 ![alt text](result7-1.png)
 ---
 ### 8th Query:
-- I wondered that the difference between ordering date and shipping date, so I wrote this query. The result is devistating because some of the orders, not all, that come from Singapore has 65 days delay of shipping. If you look more closely you can see all of these belongs order number of 10165. You can check the full result in the folder of `csv`.
+- I wondered that the difference between the order date and the shipping date, so I wrote this query. The result is devistating because some of the orders, not all, that come from Singapore has 65 days delay of shipping. If you look more closely you can see all of these belongs order number of 10165. You can check the full result in the folder of `csv`.
 
 ```sql
 SELECT 
@@ -309,7 +309,7 @@ ORDER BY
 
 ## Recommendations 
 1. Considering the storage percentages of the warehouses, the company might consider closing the `South` and moving its inventory to the `West`.
-2. Some of the products are in short supply. For example, `F/A 18 Hornet 1/72` and `1960 BSA Gold Star DBD34`. They should be go up. Otherwise the date difference between ordering and shipping date would go high because of supply.
+2. Some of the products are in short supply. For example, `F/A 18 Hornet 1/72` and `1960 BSA Gold Star DBD34`. They should be increased. Otherwise, the difference between the order date and the shipping date would be higher due to supply.
 3. First and foremost, the products in the `East` and `North` warehouses should be reduced immediately. They and other products like them represent unnecessary inventory. Such inventory items cause unnecessary costs for the company.
 4. The company can open new offices in `Spain` and `Germany`. Due to the results of 5th and 7th queries. `Spain` is the third country with the most orders. And `Germany` is the second country with the most customers.
-5. It should be investigated what are the key factors behind the 65 days difference between ordering and shipping the order `10165`.
+5. It should be investigated what are the key factors behind the 65 days difference between the order date and the shipping date (order `10165`).

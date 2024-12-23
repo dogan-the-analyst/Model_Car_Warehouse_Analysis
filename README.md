@@ -33,23 +33,23 @@ To support a data-based business decision, they are looking for suggestions and 
 
 ```sql
 SELECT 
-	w.warehouseCode,
+    w.warehouseCode,
     w.warehouseName,
     COUNT(p.productCode) AS totalProducts,
     SUM(p.quantityInStock) AS totalQuantityInStock,
     w.warehousePctCap AS storagePercentage,
     FLOOR(SUM(p.quantityInStock) * (100 - w.warehousePctCap) / 100) AS stockAvailability
 FROM 
-	products p 
+    products p 
 LEFT JOIN 
-	warehouses w 
+    warehouses w 
 ON 
-	w.warehouseCode = p.warehouseCode
+    w.warehouseCode = p.warehouseCode
 GROUP BY
-	w.warehouseCode, 
+    w.warehouseCode, 
     w.warehouseName
-ORDER BY 
-	totalQuantityInStock DESC
+ORDER BY
+    totalQuantityInStock DESC
 ;
 ```
 
@@ -62,20 +62,20 @@ ORDER BY
 
 ```sql
 SELECT
-	w.warehouseName,
-	p.productLine,
+    w.warehouseName,
+    p.productLine,
     SUM(p.quantityInStock) AS totalStock
 FROM
-	products p
+    products p
 LEFT JOIN
-	warehouses w
+    warehouses w
 ON
-	w.warehouseCode = p.warehouseCode
+    w.warehouseCode = p.warehouseCode
 GROUP BY
-	w.warehouseName,
+    w.warehouseName,
     p.productLine
 ORDER BY 
-	totalStock DESC
+    totalStock DESC
 ;
 ```
 
@@ -89,18 +89,18 @@ ORDER BY
 
 ```sql
 SELECT
-	p.productLine,
+    p.productLine,
     SUM(od.quantityOrdered) AS totalQuantityOrdered
 FROM 
-	orderdetails od
+    orderdetails od
 LEFT JOIN
-	products p
+    products p
 ON 
-	p.productCode = od.productCode
+    p.productCode = od.productCode
 GROUP BY
-	p.productLine
+    p.productLine
 ORDER BY
-	totalQuantityOrdered DESC
+    totalQuantityOrdered DESC
 ;
 ```
 
@@ -113,7 +113,7 @@ ORDER BY
 
 ```sql
 SELECT 
-	w.warehouseCode,
+    w.warehouseCode,
     w.warehouseName, 
     COUNT(od.orderNumber) AS totalOrders, 
     SUM(od.quantityOrdered) AS totalQuantityOrdered
@@ -146,15 +146,15 @@ SELECT
     customers.country,
     COUNT(customers.country) AS totalOrder
 FROM
-	orders
+    orders
 LEFT JOIN
-	customers
+    customers
 ON 
-	customers.customerNumber = orders.customerNumber
+    customers.customerNumber = orders.customerNumber
 GROUP BY
-	customers.country
+    customers.country
 ORDER BY
-	totalOrder DESC
+    totalOrder DESC
 ;
 ```
 
@@ -198,11 +198,11 @@ SELECT
     country,
     COUNT(customerNumber) AS totalCustomer
 FROM 
-	customers
+    customers
 GROUP BY
-	country
+    country
 ORDER BY
-	totalCustomer DESC
+    totalCustomer DESC
 ;
 ```
 
@@ -215,7 +215,7 @@ ORDER BY
 
 ```sql
 SELECT 
-	o.orderNumber,
+    o.orderNumber,
     o.orderDate,
     o.shippedDate,
     DATEDIFF(o.shippedDate, o.orderDate) AS dateDifference,
@@ -223,25 +223,25 @@ SELECT
     w.warehouseName,
     c.country
 FROM 
-	orders o
+    orders o
 LEFT JOIN 
-	orderdetails od 
+    orderdetails od 
 ON 
-	od.orderNumber = o.orderNumber
+    od.orderNumber = o.orderNumber
 LEFT JOIN
-	products p
+    products p
 ON
-	p.productCode = od.productCode
+    p.productCode = od.productCode
 LEFT JOIN 
-	warehouses w
+    warehouses w
 ON
-	w.warehouseCode = p.warehouseCode
+    w.warehouseCode = p.warehouseCode
 LEFT JOIN
-	customers c
+    customers c
 ON	
-	c.customerNumber = o.customerNumber
+    c.customerNumber = o.customerNumber
 ORDER BY 
-	dateDifference DESC
+    dateDifference DESC
 ;
 ```
 
@@ -269,7 +269,7 @@ GROUP BY
     p.productCode, 
     p.productName
 HAVING 
-	totalOrdered > quantityInStock
+    totalOrdered > quantityInStock
 ORDER BY 
     totalOrdered DESC
 ;
@@ -308,7 +308,7 @@ ORDER BY
 ![alt text](result10-1.png)
 
 ## Recommendations 
-1. Considering the storage percentages of the warehouses, the company might consider closing the `South` and moving its inventory to the `West`.
+1. Considering the storage percentages of the warehouses, the company might consider closing the `South` and moving its inventory to the `East`, `North` and `West`.
 2. Some of the products are in short supply. For example, `F/A 18 Hornet 1/72` and `1960 BSA Gold Star DBD34`. They should be increased. Otherwise, the difference between the order date and the shipping date would be higher due to supply.
 3. First and foremost, the products in the `East` and `North` warehouses should be reduced immediately. They and other products like them represent unnecessary inventory. Such inventory items cause unnecessary costs for the company.
 4. The company can open new offices in `Spain` and `Germany`. Due to the results of 5th and 7th queries. `Spain` is the third country with the most orders. And `Germany` is the second country with the most customers.

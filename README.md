@@ -1,4 +1,4 @@
-# Analyze Data in a Model Car Database
+# Model Car Warehouse Analysis
 
 - The database used in project is `mintclassicsDB.sql` file. I prefered **MySQL Workbench** in this study. So, using the "Import from Self-Contained File" option from the Data Import tool, use the script to create the Mint Classic database on your MySQL Workbench platform.
 

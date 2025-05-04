@@ -308,7 +308,7 @@ ORDER BY
 ![alt text](result10-1.png)
 
 ## Recommendations 
-1 Warehouse Optimization:
+1. Warehouse Optimization:
 
 - The `South` warehouse, with the smallest stock and highest capacity usage (75%), is a potential candidate for closure. Its inventory could be redistributed to the `East`, `North`, and `West` warehouses, which have higher capacity and/or better utilization.
 

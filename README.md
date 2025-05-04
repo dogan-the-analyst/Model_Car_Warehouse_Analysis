@@ -308,8 +308,26 @@ ORDER BY
 ![alt text](result10-1.png)
 
 ## Recommendations 
-1. Considering the storage percentages of the warehouses, the company might consider closing the `South` and moving its inventory to the `East`, `North` and `West`.
-2. Some of the products are in short supply. For example, `F/A 18 Hornet 1/72` and `1960 BSA Gold Star DBD34`. They should be increased. Otherwise, the difference between the order date and the shipping date would be higher due to supply.
-3. First and foremost, the products in the `East` and `North` warehouses should be reduced immediately. They and other products like them represent unnecessary inventory. Such inventory items cause unnecessary costs for the company.
-4. The company can open new offices in `Spain` and `Germany`. Due to the results of 5th and 7th queries. `Spain` is the third country with the most orders. And `Germany` is the second country with the most customers.
-5. It should be investigated what are the key factors behind the 65 days difference between the order date and the shipping date (order `10165`).
+1 Warehouse Optimization:
+
+- The `South` warehouse, with the smallest stock and highest capacity usage (75%), is a potential candidate for closure. Its inventory could be redistributed to the `East`, `North`, and `West` warehouses, which have higher capacity and/or better utilization.
+
+- The `North` and `South` warehouses are nearly full, suggesting a need to either expand their capacity or redistribute stock more evenly.
+
+2. Product Inventory Adjustments:
+
+- Several high-demand products, such as `F/A 18 Hornet 1/72` and `1960 BSA Gold Star DBD34`, are understocked. Increasing their stock would help reduce the lead time between order and shipping.
+
+- Some products, like the `1995 Honda Civic`, are significantly overstocked with inventories exceeding demand by more than 10x. These excesses tie up capital and storage unnecessarily. A targeted clearance or demand-forecasting adjustment is recommended.
+
+3. Market Expansion:
+
+- `Spain` and `Germany` are promising markets. `Spain` ranks third in total orders, and `Germany` ranks second in number of customers. Establishing new offices in these countries could support local customer engagement and increase market share.
+
+4. Operational Efficiency:
+
+- An unusually long delay (65 days) was identified in order `10165`. This should be investigated to identify process inefficiencies or supply chain disruptions.
+
+5. Product Line Specialization:
+
+- Warehouses currently hold specific product lines (e.g., `East`: `Classic Cars`, `West`: `Vintage Cars`). This specialization seems effective and could be further optimized for logistics and forecasting.

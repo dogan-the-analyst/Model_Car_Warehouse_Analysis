@@ -8,7 +8,7 @@
 
 <br>
 
-![alt text](image.png)
+![alt text](images/image.png)
 
 ## First Look at the Project
 
@@ -55,7 +55,7 @@ ORDER BY
 
 <br>
 
-![alt text](result1-1.png)
+![alt text](images/result1-1.png)
 ---
 ### 2nd Query:
 - Using this query, I want to find out which warehouses contain which product types, and also how much of each they contain. To summarize: `East` contains only `Classic Cars` while `West` contains only `Vintage Cars`. `North` contains both `Motorcycles` and `Planes`. `South` has by itself three of all product types, namely `Trucks and Buses`, `Ships` and `Trains`.  
@@ -81,7 +81,7 @@ ORDER BY
 
 <br>
 
-![alt text](result2-1.png)
+![alt text](images/result2-1.png)
 ---
 ### 3rd Query:
 - To find out which type of product is most popular in terms of total quantity ordered, I ran this query. As you can see `Classics Cars` is in first place and `Trains` in last place.
@@ -106,7 +106,7 @@ ORDER BY
 
 <br>
 
-![alt text](result3-1.png)
+![alt text](images/result3-1.png)
 ---
 ### 4th Query:
 - Most of the orders come from `East`.
@@ -136,7 +136,7 @@ ORDER BY
 
 <br>
 
-![alt text](result4-1.png)
+![alt text](images/result4-1.png)
 ---
 ### 5th Query:
 - To answer how many orders come from which country, this query will help us. The USA is by far in first place. The next countries are France, Spain and Australia.
@@ -160,7 +160,7 @@ ORDER BY
 
 <br>
 
-![alt text](result5-1.png) 
+![alt text](images/result5-1.png) 
 ---
 ### 6th Query:
 - Here we can see the most popular product is `192 Ferrari 360 Spider red`, which is located in `East` warehouse.
@@ -188,7 +188,7 @@ ORDER BY
 
 <br>
 
-![alt text](result6-1.png)
+![alt text](images/result6-1.png)
 ---
 ### 7th Query:
 To answer how many customers live in which country, this query will help us. Customers who are living in USA are by far in first place. The next countries are Germany, France and Spain.
@@ -208,7 +208,7 @@ ORDER BY
 
 <br>
 
-![alt text](result7-1.png)
+![alt text](images/result7-1.png)
 ---
 ### 8th Query:
 - I wondered that the difference between the order date and the shipping date, so I wrote this query. The result is devistating because some of the orders, not all, that come from Singapore has 65 days delay of shipping. If you look more closely you can see all of these belongs order number of 10165. You can check the full result in the folder of `csv`.
@@ -247,7 +247,7 @@ ORDER BY
 
 <br>
 
-![alt text](result8-1.png)
+![alt text](images/result8-1.png)
 ---
 ### 9th Query:
 - Ninth query was made for seeing product shortage in terms of the number of total order and product's quantities in recent stock. Some of the products located in `North` are in first 4 rows.
@@ -277,7 +277,7 @@ ORDER BY
 
 <br>
 
-![alt text](result9-1.png)   
+![alt text](images/result9-1.png)   
 ---
 ### 10th Query:
 - Finally, this query shows us that the amount of some products in the company's inventory are extremely high. These numbers should come down. For example, if you look at the `1995 Honda Civic` which has been ordered 917 times but it's quantity in stock is nearly 11 times higher than the number of it's orders.   
@@ -305,7 +305,7 @@ ORDER BY
 ```
 <br>
 
-![alt text](result10-1.png)
+![alt text](images/result10-1.png)
 
 ## Recommendations 
 1. Warehouse Optimization:
